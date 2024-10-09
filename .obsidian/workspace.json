@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/LiFo.md",
+                "file": "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "trying if stuff works.md"
+                "file": "Semester II/Finanzbuchhaltung/Herstellungskosten.md"
               }
             }
           },
@@ -166,7 +168,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55ba325cba2828f2",
+  "active": "753c3215462ef465",
   "lastOpenFiles": [
     "Semester II/Finanzbuchhaltung/LiFo.md",
     "trying if stuff works.md",
