@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "204c5d50bdc72b17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trying if stuff works.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2c7a9b44153dfc88",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/LiFo.md",
+                "file": "trying if stuff works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/LiFo.md",
+                "file": "trying if stuff works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/LiFo.md"
+                "file": "trying if stuff works.md"
               }
             }
           },
@@ -168,8 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "753c3215462ef465",
+  "active": "204c5d50bdc72b17",
   "lastOpenFiles": [
+    "Semester II/Finanzbuchhaltung/LiFo.md",
+    "trying if stuff works.md",
     "Semester II/Finanzbuchhaltung/Bilanz.md",
     "Semester II/Finanzbuchhaltung/Aktivkonto.md",
     "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
@@ -179,7 +194,6 @@
     "Semester II/Finanzbuchhaltung/Gewinn.md",
     "Semester II/Finanzbuchhaltung/Gewogener Durchschnitt.md",
     "Semester II/Finanzbuchhaltung/Umlaufvermögen.md",
-    "Semester II/Finanzbuchhaltung/LiFo.md",
     "Semester II/Finanzbuchhaltung/Transitorische Rechnungsabgrenzung.md",
     "Semester II/Finanzbuchhaltung/SBK.md",
     "Semester II/Finanzbuchhaltung/Rücksendungen.md",
@@ -195,7 +209,6 @@
     "Semester II/Finanzbuchhaltung/Preisnachlass.md",
     "Semester II/Finanzbuchhaltung/Kontenrahmen.md",
     "Semester II/Finanzbuchhaltung/Konteneröffnung am Jahresbeginn.md",
-    "Semester II/Finanzbuchhaltung/Inventur.md",
     "Templates",
     "Transferleistungen/Transferleistung II",
     "Transferleistungen",
