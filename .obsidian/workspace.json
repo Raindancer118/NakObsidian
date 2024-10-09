@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Semester II/Finanzbuchhaltung/Umlaufvermögen.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Semester II/Finanzbuchhaltung/Umlaufvermögen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Semester II/Finanzbuchhaltung/Umlaufvermögen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Semester II/Finanzbuchhaltung/Umlaufvermögen.md"
               }
             }
           },
@@ -171,32 +171,32 @@
   },
   "active": "2c7a9b44153dfc88",
   "lastOpenFiles": [
-    "Semester II/Finanzbuchhaltung/Aktivkonto.md",
-    "Semester II/Finanzbuchhaltung/Abschreibungen.md",
-    "Semester II/Java/allfiles.md",
-    "README.md",
-    "Semester II/Java/Zuweisung.md",
-    "Semester II/Java/Variable.md",
-    "Semester II/Java/Späte Bindung.md",
-    "Semester II/Java/Quellcode.md",
-    "Semester II/Java/Objekt.md",
-    "Semester II/Java/Methode.md",
-    "Semester II/Java/maschinenunabhängig.md",
-    "Semester II/Java/Konstruktor.md",
-    "Semester II/Java/Compiler.md",
-    "Semester II/Java/Datentyp.md",
-    "Semester II/Java/Exemplarvariable.md",
-    "Semester II/Java/Frühe Bindung.md",
-    "Semester II/Java/JRE.md",
-    "Semester II/Java/JVM.md",
-    "Semester II/Finanzbuchhaltung/zallfiles.md",
-    "Semester II/Finanzbuchhaltung/Anhang.md",
-    "Semester II/Finanzbuchhaltung/allfiles.md",
-    "Semester II/Finanzbuchhaltung/Aktivtausch.md",
-    "Semester II/Finanzbuchhaltung/Bilanzsumme.md",
-    "Semester II/Finanzbuchhaltung/Aktiv.md",
-    "Semester II/Finanzbuchhaltung/Gewogener Durchschnitt.md",
+    "Semester II/Finanzbuchhaltung/Transitorische Rechnungsabgrenzung.md",
+    "Semester II/Finanzbuchhaltung/SBK.md",
+    "Semester II/Finanzbuchhaltung/Rücksendungen.md",
+    "Semester II/Finanzbuchhaltung/Rohstoffaufwendungen.md",
+    "Semester II/Finanzbuchhaltung/Rechnungsperiode.md",
+    "Semester II/Finanzbuchhaltung/Rechnungsabgrenzung.md",
+    "Semester II/Finanzbuchhaltung/Privatkonto.md",
+    "Semester II/Finanzbuchhaltung/Privatentnahme.md",
+    "Semester II/Finanzbuchhaltung/Niederstwertprinzip.md",
+    "Semester II/Finanzbuchhaltung/Passiv.md",
     "Semester II/Finanzbuchhaltung/Passivkonto.md",
+    "Semester II/Finanzbuchhaltung/Passivtausch.md",
+    "Semester II/Finanzbuchhaltung/Preisnachlass.md",
+    "Semester II/Finanzbuchhaltung/LiFO.md",
+    "Semester II/Finanzbuchhaltung/Konto.md",
+    "Semester II/Finanzbuchhaltung/Kontenrahmen.md",
+    "Semester II/Finanzbuchhaltung/Konteneröffnung am Jahresbeginn.md",
+    "Semester II/Finanzbuchhaltung/Inventur.md",
+    "Semester II/Finanzbuchhaltung/HiFo.md",
+    "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
+    "Semester II/Finanzbuchhaltung/Haben.md",
+    "Semester II/Finanzbuchhaltung/GUV.md",
+    "Semester II/Finanzbuchhaltung/Grundbuch.md",
+    "Semester II/Finanzbuchhaltung/Eigenkapital.md",
+    "Semester II/Finanzbuchhaltung/EBK.md",
+    "Semester II/Finanzbuchhaltung/Erfolgskonten.md",
     "Templates",
     "Transferleistungen/Transferleistung II",
     "Transferleistungen",

@@ -1,3 +1,5 @@
+## <font color = "orange">Umlaufvermögen</font>
+
 ##### <font color = "orange">Wert in der Bilanz</font>
 >[!QUOTE]
 >Für Vorräte als Gegenstände des [[Umlaufvermögen|Umlaufvermögens]] gilt das strenge [[Niederstwertprinzip]]. Liegt der Marktpreis am [[Bilanzstichtag]] unter den ermittelten Wertansätzen, so sind [[Abschreibungen]] auf den geringeren Wert vorzunehmen.
