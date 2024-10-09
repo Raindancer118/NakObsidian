@@ -1,5 +1,5 @@
 {
-  "commitMessage": "Obsidian Upload: {{date}} - {{numFiles}} changes.",
+  "commitMessage": "Obsidian Manual Upload: {{date}} - {{numFiles}} changes.",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 10,
   "autoPushInterval": 0,
@@ -54,5 +54,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "vault backup: {{date}}"
+  "autoCommitMessage": "Obsidian Automatic Upload: {{date}} - {{numFiles}} changes."
 }
