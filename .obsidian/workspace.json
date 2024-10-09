@@ -133,13 +133,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "86f97fb1f3021be3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,11 +156,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55ba325cba2828f2",
+  "active": "2c7a9b44153dfc88",
   "lastOpenFiles": [
+    "Semester II/Finanzbuchhaltung/Aktivkonto.md",
     "Semester II/Finanzbuchhaltung/Abschreibungen.md",
     "Semester II/Java/allfiles.md",
     "README.md",
@@ -174,7 +185,6 @@
     "Semester II/Finanzbuchhaltung/Anhang.md",
     "Semester II/Finanzbuchhaltung/allfiles.md",
     "Semester II/Finanzbuchhaltung/Aktivtausch.md",
-    "Semester II/Finanzbuchhaltung/Aktivkonto.md",
     "Semester II/Finanzbuchhaltung/Bilanzsumme.md",
     "Semester II/Finanzbuchhaltung/Aktiv.md",
     "Semester II/Finanzbuchhaltung/Gewogener Durchschnitt.md",
