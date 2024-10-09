@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "204c5d50bdc72b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trying if stuff works.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2c7a9b44153dfc88",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trying if stuff works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "trying if stuff works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +166,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "204c5d50bdc72b17",
+  "active": "55ba325cba2828f2",
   "lastOpenFiles": [
     "Semester II/Finanzbuchhaltung/LiFo.md",
     "trying if stuff works.md",
