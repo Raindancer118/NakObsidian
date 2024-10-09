@@ -11,12 +11,8 @@
             "id": "753c3215462ef465",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Semester II/Finanzbuchhaltung/Herstellungskosten.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,11 +162,12 @@
   },
   "active": "753c3215462ef465",
   "lastOpenFiles": [
+    "Semester II/Finanzbuchhaltung/Verbindlichkeit.md",
+    "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
     "Semester II/Finanzbuchhaltung/LiFo.md",
     "trying if stuff works.md",
     "Semester II/Finanzbuchhaltung/Bilanz.md",
     "Semester II/Finanzbuchhaltung/Aktivkonto.md",
-    "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
     "Semester II/Finanzbuchhaltung/Konto.md",
     "Semester II/Finanzbuchhaltung/Aufwendungen.md",
     "Semester II/Finanzbuchhaltung/Aufwandskonten.md",
@@ -195,7 +188,6 @@
     "Semester II/Finanzbuchhaltung/Passivtausch.md",
     "Semester II/Finanzbuchhaltung/Preisnachlass.md",
     "Semester II/Finanzbuchhaltung/Kontenrahmen.md",
-    "Semester II/Finanzbuchhaltung/Konteneröffnung am Jahresbeginn.md",
     "Templates",
     "Transferleistungen/Transferleistung II",
     "Transferleistungen",
