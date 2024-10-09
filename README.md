@@ -1,3 +1,3 @@
 # NakObsidian
 ---
-In diesem Github wird ein Obsidian Vault regelmäßig geupdated.
+In diesem Github wird ein Obsidian Vault manchmal geupdated.
