@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Bilanz.md",
+                "file": "Semester II/Finanzbuchhaltung/LiFo.md",
                 "mode": "preview",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "afa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Bilanz.md",
+                "file": "Semester II/Finanzbuchhaltung/LiFo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Bilanz.md",
+                "file": "Semester II/Finanzbuchhaltung/LiFo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Bilanz.md"
+                "file": "Semester II/Finanzbuchhaltung/LiFo.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "753c3215462ef465",
   "lastOpenFiles": [
+    "Semester II/Finanzbuchhaltung/Bilanz.md",
     "Semester II/Finanzbuchhaltung/Aktivkonto.md",
     "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
     "Semester II/Finanzbuchhaltung/Konto.md",
@@ -195,7 +196,6 @@
     "Semester II/Finanzbuchhaltung/Kontenrahmen.md",
     "Semester II/Finanzbuchhaltung/Konteneröffnung am Jahresbeginn.md",
     "Semester II/Finanzbuchhaltung/Inventur.md",
-    "Semester II/Finanzbuchhaltung/HiFo.md",
     "Templates",
     "Transferleistungen/Transferleistung II",
     "Transferleistungen",
