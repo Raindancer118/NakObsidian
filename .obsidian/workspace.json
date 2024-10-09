@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Gewogener Durchschnitt.md",
+                "file": "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Gewogener Durchschnitt.md",
+                "file": "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Gewogener Durchschnitt.md",
+                "file": "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Gewogener Durchschnitt.md"
+                "file": "Semester II/Finanzbuchhaltung/Herstellungskosten.md"
               }
             }
           },
@@ -171,6 +171,11 @@
   },
   "active": "2c7a9b44153dfc88",
   "lastOpenFiles": [
+    "Semester II/Finanzbuchhaltung/Konto.md",
+    "Semester II/Finanzbuchhaltung/Aufwendungen.md",
+    "Semester II/Finanzbuchhaltung/Aufwandskonten.md",
+    "Semester II/Finanzbuchhaltung/Gewinn.md",
+    "Semester II/Finanzbuchhaltung/Gewogener Durchschnitt.md",
     "Semester II/Finanzbuchhaltung/Umlaufvermögen.md",
     "Semester II/Finanzbuchhaltung/LiFo.md",
     "Semester II/Finanzbuchhaltung/Transitorische Rechnungsabgrenzung.md",
@@ -186,17 +191,12 @@
     "Semester II/Finanzbuchhaltung/Passivkonto.md",
     "Semester II/Finanzbuchhaltung/Passivtausch.md",
     "Semester II/Finanzbuchhaltung/Preisnachlass.md",
-    "Semester II/Finanzbuchhaltung/Konto.md",
     "Semester II/Finanzbuchhaltung/Kontenrahmen.md",
     "Semester II/Finanzbuchhaltung/Konteneröffnung am Jahresbeginn.md",
     "Semester II/Finanzbuchhaltung/Inventur.md",
     "Semester II/Finanzbuchhaltung/HiFo.md",
     "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
     "Semester II/Finanzbuchhaltung/Haben.md",
-    "Semester II/Finanzbuchhaltung/GUV.md",
-    "Semester II/Finanzbuchhaltung/Grundbuch.md",
-    "Semester II/Finanzbuchhaltung/Eigenkapital.md",
-    "Semester II/Finanzbuchhaltung/EBK.md",
     "Templates",
     "Transferleistungen/Transferleistung II",
     "Transferleistungen",
