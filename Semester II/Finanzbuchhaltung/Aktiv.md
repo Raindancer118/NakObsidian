@@ -4,4 +4,3 @@ aliases:
   - Aktiva
 ---
 ## <font color = "orange">Aktiv</font>
-

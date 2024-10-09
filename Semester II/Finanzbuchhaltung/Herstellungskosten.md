@@ -3,6 +3,17 @@
 >[!SUMMARY]
 >Stellt ein Unternehmen etwas selbst her, um es für betriebliche Zwecke zu nutzen, fallen Herstellungskosten für diese "Erschaffung" an. Diese müssen gebucht werden.
 
+>[!IMPORTANT]
+>**Herstellungskosten - Berechnung**
+>
+>  | Ansatz
+>-------------------------- | ---
+>Materialkosten, Fertigungskosten, Werteverzehr | *Pflicht*
+>Verwaltungskosten | *Wahlrecht*
+>Aufwendungen für soziale Leistungen, Einrichtungen und Altersvorsorge | *Wahlrecht*
+>Fremdkapitalzinsen | *Wahlrecht*
+>Vertriebs- und Forschungskosten | *Verbot*
+
 Beispielsweise fallen [[Aufwendungen]] für Roh- oder Betriebsstoffe oder Arbeitskräfte an.
 
 >[!WARNING]
