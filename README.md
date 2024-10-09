@@ -1,3 +1,5 @@
 # NakObsidian
 ---
-In diesem Github wird ein Obsidian Vault manchmal geupdated.
+>[!HINT]
+>In diesem Github wird das Obsidian Vault zweier NAK-Studenten verwaltet und halbwegs regelmäßig gesynct.
+
