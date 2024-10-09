@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Umlaufvermögen.md",
+                "file": "Semester II/Finanzbuchhaltung/Gewogener Durchschnitt.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Umlaufvermögen.md",
+                "file": "Semester II/Finanzbuchhaltung/Gewogener Durchschnitt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Umlaufvermögen.md",
+                "file": "Semester II/Finanzbuchhaltung/Gewogener Durchschnitt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Umlaufvermögen.md"
+                "file": "Semester II/Finanzbuchhaltung/Gewogener Durchschnitt.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "2c7a9b44153dfc88",
   "lastOpenFiles": [
-    "Semester II/Finanzbuchhaltung/LiFo.md",
     "Semester II/Finanzbuchhaltung/Umlaufvermögen.md",
+    "Semester II/Finanzbuchhaltung/LiFo.md",
     "Semester II/Finanzbuchhaltung/Transitorische Rechnungsabgrenzung.md",
     "Semester II/Finanzbuchhaltung/SBK.md",
     "Semester II/Finanzbuchhaltung/Rücksendungen.md",
