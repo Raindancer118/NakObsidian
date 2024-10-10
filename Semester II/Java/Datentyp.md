@@ -3,6 +3,7 @@ aliases:
   - Datentyps
   - Typ
   - Datentypen
+  - Typs
 ---
 ## <font color = "orange">Datentyp</font>
 
@@ -14,15 +15,15 @@ aliases:
 >1. [[String]]
 >2. [[Integer]]
 >3. [[Long]]
->4. [[ArrayList]]
->5. [[Array]]
->6. [[Interface]]
->7. [[Klasse|Class]]
->8. [[Char]]
+>   [[Float]]
+>   [[Double]]
+>1. [[ArrayList]]
+>2. [[Array]]
+>3. [[Interface]]
+>4. [[Klasse|Class]]
+>5. [[Char]]
 
 >[!HINT]
 >**Klassen oder Interfaces als Datentypen**
 >Interfaces und Klassen können für die [[Deklaration]] von neuen Objekten oder für [[Collection|Collections]] von Objekten des entsprechenden Typs als Datentyp dienen.
 
->[!EXAMPLE]
->A simple Example

@@ -5,10 +5,14 @@
 >Nutze die Verlinkung oder die Annotationen, um herauszufinden, zu welchem spezifischen Artikel die Befehle gehören.
 
 ### <font color = "orange">Liste aller Befehle:</font>
-[[.add()]]
+>[!INFO] **Collections**
+>[[.add()]]
+>[[.contains()]]
+>[[.remove()]]
+>[[.equals()]]
+
 [[.next()]]
 [[.hasNext()]]
-[[.remove()]]
 [[System.out.println()]]
 [[System.out.print()]]
 [[]]

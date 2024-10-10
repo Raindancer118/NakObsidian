@@ -11,7 +11,11 @@
 
 >[!INFO]
 >**Häufig genutzte [[Befehle]]:**
->*[[.add()]]* 
+>[[.add()]]
+>[[.remove()]]
+>[[.equals()]]
+>[[.size()]]
+>[[.contains()]]
 
 >[!EXAMPLE]
 >A simple Example
