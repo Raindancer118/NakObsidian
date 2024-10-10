@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Bilanz.md",
+                "file": "Semester II/Java/Konstruktor.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c7a9b44153dfc88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "afa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "261905d034f6408d",
@@ -97,7 +86,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Bilanz.md",
+
+                "file": "Semester II/Java/Konstruktor.md",
+
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +105,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Bilanz.md",
+
+                "file": "Semester II/Java/Konstruktor.md",
+
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +130,9 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Bilanz.md"
+
+                "file": "Semester II/Java/Konstruktor.md"
+
               }
             }
           },
@@ -154,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,15 +166,24 @@
   },
   "active": "753c3215462ef465",
   "lastOpenFiles": [
-    "Semester II/Finanzbuchhaltung/Aktivkonto.md",
+    "Semester II/Java/Compiler.md",
+    "Semester II/Java/Objekt.md",
+    "Semester II/Java/Methode.md",
+    "Semester II/Java/Datentyp.md",
+    "Semester II/Java/Späte Bindung.md",
+    "Semester II/Finanzbuchhaltung/Anschaffungskosten.md",
+    "Semester II/Finanzbuchhaltung/Verbindlichkeit.md",
     "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
+    "Semester II/Finanzbuchhaltung/LiFo.md",
+    "trying if stuff works.md",
+    "Semester II/Finanzbuchhaltung/Bilanz.md",
+    "Semester II/Finanzbuchhaltung/Aktivkonto.md",
     "Semester II/Finanzbuchhaltung/Konto.md",
     "Semester II/Finanzbuchhaltung/Aufwendungen.md",
     "Semester II/Finanzbuchhaltung/Aufwandskonten.md",
     "Semester II/Finanzbuchhaltung/Gewinn.md",
     "Semester II/Finanzbuchhaltung/Gewogener Durchschnitt.md",
     "Semester II/Finanzbuchhaltung/Umlaufvermögen.md",
-    "Semester II/Finanzbuchhaltung/LiFo.md",
     "Semester II/Finanzbuchhaltung/Transitorische Rechnungsabgrenzung.md",
     "Semester II/Finanzbuchhaltung/SBK.md",
     "Semester II/Finanzbuchhaltung/Rücksendungen.md",
@@ -187,15 +192,6 @@
     "Semester II/Finanzbuchhaltung/Rechnungsabgrenzung.md",
     "Semester II/Finanzbuchhaltung/Privatkonto.md",
     "Semester II/Finanzbuchhaltung/Privatentnahme.md",
-    "Semester II/Finanzbuchhaltung/Niederstwertprinzip.md",
-    "Semester II/Finanzbuchhaltung/Passiv.md",
-    "Semester II/Finanzbuchhaltung/Passivkonto.md",
-    "Semester II/Finanzbuchhaltung/Passivtausch.md",
-    "Semester II/Finanzbuchhaltung/Preisnachlass.md",
-    "Semester II/Finanzbuchhaltung/Kontenrahmen.md",
-    "Semester II/Finanzbuchhaltung/Konteneröffnung am Jahresbeginn.md",
-    "Semester II/Finanzbuchhaltung/Inventur.md",
-    "Semester II/Finanzbuchhaltung/HiFo.md",
     "Templates",
     "Transferleistungen/Transferleistung II",
     "Transferleistungen",
