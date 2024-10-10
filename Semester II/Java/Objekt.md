@@ -1,8 +1,13 @@
+---
+aliases:
+  - Objekte
+  - Objektes
+---
 ## <font color = "orange">Objekt</font>
 
 >[!SUMMARY]
 >Ein Objekt ist **eine [[Instanz]] einer [[Klasse]]** und somit ein **Vertreter des entsprechenden [[Datentyp|Datentyps]].
->Objekte werden über einen [[Konstruktor]] der jeweiligen Klasse erstellt.**
+>Objekte werden über einen [[Konstruktor]] der jeweiligen [[Klasse]] erstellt.**
 
 >[!WARNING]
 >Von **[[Interface|Interfaces]] und [[Abstrakte Klasse|Abstrakten Klassen]] können *KEINE* Objekte erzeugt werden!**

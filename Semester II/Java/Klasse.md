@@ -1,3 +1,8 @@
+---
+aliases:
+  - Klassen
+  - Class
+---
 ## <font color = "orange">Klasse</font>
 
 >[!SUMMARY]
