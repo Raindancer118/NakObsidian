@@ -1,3 +1,5 @@
+## <font color = "orange">Umlaufvermögen</font>
+
 ##### <font color = "orange">Wert in der Bilanz</font>
 >[!QUOTE]
 >Für Vorräte als Gegenstände des [[Umlaufvermögen|Umlaufvermögens]] gilt das strenge [[Niederstwertprinzip]]. Liegt der Marktpreis am [[Bilanzstichtag]] unter den ermittelten Wertansätzen, so sind [[Abschreibungen]] auf den geringeren Wert vorzunehmen.
@@ -12,7 +14,7 @@ So wird z.B. in einem Öltank Öl gelagert, welches im Regelfall zu unterschiedl
 
 >[!IMPORTANT]
 >**Verbrauchsreihenfolgen**
->1. [[LiFO]]
+>1. [[LiFo]]
 >2. [[FiFo]]
 >3. [[HiFo]]
 >4. [[LoFo]]
