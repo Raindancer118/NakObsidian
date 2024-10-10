@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Aktivkonto.md",
-                "mode": "source",
+                "file": "Semester II/Java/Konstruktor.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "2c7a9b44153dfc88",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "afa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +86,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Aktivkonto.md",
+
+                "file": "Semester II/Java/Konstruktor.md",
+
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +105,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Aktivkonto.md",
+
+                "file": "Semester II/Java/Konstruktor.md",
+
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +130,9 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester II/Finanzbuchhaltung/Aktivkonto.md"
+
+                "file": "Semester II/Java/Konstruktor.md"
+
               }
             }
           },
@@ -167,34 +164,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c7a9b44153dfc88",
+  "active": "753c3215462ef465",
   "lastOpenFiles": [
-    "Semester II/Finanzbuchhaltung/Aktivkonto.md",
-    "Semester II/Finanzbuchhaltung/Abschreibungen.md",
-    "Semester II/Java/allfiles.md",
-    "README.md",
-    "Semester II/Java/Zuweisung.md",
-    "Semester II/Java/Variable.md",
-    "Semester II/Java/Späte Bindung.md",
-    "Semester II/Java/Quellcode.md",
+    "Semester II/Java/Compiler.md",
     "Semester II/Java/Objekt.md",
     "Semester II/Java/Methode.md",
-    "Semester II/Java/maschinenunabhängig.md",
-    "Semester II/Java/Konstruktor.md",
-    "Semester II/Java/Compiler.md",
     "Semester II/Java/Datentyp.md",
-    "Semester II/Java/Exemplarvariable.md",
-    "Semester II/Java/Frühe Bindung.md",
-    "Semester II/Java/JRE.md",
-    "Semester II/Java/JVM.md",
-    "Semester II/Finanzbuchhaltung/zallfiles.md",
-    "Semester II/Finanzbuchhaltung/Anhang.md",
-    "Semester II/Finanzbuchhaltung/allfiles.md",
-    "Semester II/Finanzbuchhaltung/Aktivtausch.md",
-    "Semester II/Finanzbuchhaltung/Bilanzsumme.md",
-    "Semester II/Finanzbuchhaltung/Aktiv.md",
+    "Semester II/Java/Späte Bindung.md",
+    "Semester II/Finanzbuchhaltung/Anschaffungskosten.md",
+    "Semester II/Finanzbuchhaltung/Verbindlichkeit.md",
+    "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
+    "Semester II/Finanzbuchhaltung/LiFo.md",
+    "trying if stuff works.md",
+    "Semester II/Finanzbuchhaltung/Bilanz.md",
+    "Semester II/Finanzbuchhaltung/Aktivkonto.md",
+    "Semester II/Finanzbuchhaltung/Konto.md",
+    "Semester II/Finanzbuchhaltung/Aufwendungen.md",
+    "Semester II/Finanzbuchhaltung/Aufwandskonten.md",
+    "Semester II/Finanzbuchhaltung/Gewinn.md",
     "Semester II/Finanzbuchhaltung/Gewogener Durchschnitt.md",
-    "Semester II/Finanzbuchhaltung/Passivkonto.md",
+    "Semester II/Finanzbuchhaltung/Umlaufvermögen.md",
+    "Semester II/Finanzbuchhaltung/Transitorische Rechnungsabgrenzung.md",
+    "Semester II/Finanzbuchhaltung/SBK.md",
+    "Semester II/Finanzbuchhaltung/Rücksendungen.md",
+    "Semester II/Finanzbuchhaltung/Rohstoffaufwendungen.md",
+    "Semester II/Finanzbuchhaltung/Rechnungsperiode.md",
+    "Semester II/Finanzbuchhaltung/Rechnungsabgrenzung.md",
+    "Semester II/Finanzbuchhaltung/Privatkonto.md",
+    "Semester II/Finanzbuchhaltung/Privatentnahme.md",
     "Templates",
     "Transferleistungen/Transferleistung II",
     "Transferleistungen",
