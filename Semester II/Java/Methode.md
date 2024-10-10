@@ -1,3 +1,7 @@
+---
+aliases:
+  - Methoden
+---
 ## <font color = "orange">Methode</font>
 
 >[!SUMMARY]

@@ -1,3 +1,9 @@
+---
+aliases:
+  - Datentyps
+  - Daten
+  - Typ
+---
 ## <font color = "orange">Datentyp</font>
 
 >[!SUMMARY]

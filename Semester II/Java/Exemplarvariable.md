@@ -1,7 +1,7 @@
 ## <font color = "orange">Exemplarvariable</font>
 
 >[!SUMMARY]
->Exemplarvariablen **bestimmen den [[Zustand]] eines [[Objekt|Objektes]]** oder geben die Möglichkeit, **Daten methodenübergreifend zu speichern**.
+>Exemplarvariablen **bestimmen den [[Zustand]] eines [[Objekt|Objektes]]** oder geben die Möglichkeit, **[[Datentyp|Daten]] methodenübergreifend zu speichern**.
 
 >[!HINT]
 >Exemplarvariablen stehen **zwischen [[Klassenkopf]] und [[Konstruktor]]**. 
@@ -14,7 +14,7 @@
 >Wenn möglich, wird versucht, die **[[Sichtbarkeit]] von Exemplarvariablen auf Privat** zu halten und Ausgabe oder Setzen über [[Getter]]- und [[Setter]]-[[Methode|Methoden]] zu lösen.
 
 >[!EXAMPLE]
->*public class Apple{*
+>*public [[Klasse|class]] Apple{*
 >
 >**private [[String]] color;**
 >

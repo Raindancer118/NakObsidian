@@ -1,3 +1,7 @@
+---
+aliases:
+  - Konstruktors
+---
 ## <font color = "orange">Konstruktor</font>
 #### <font color="orange"> Syntax des Konstruktors </font>
 
