@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "48f174d72c0c8746",
+        "id": "bd179e19a94580c6",
         "type": "tabs",
         "children": [
           {
-            "id": "753c3215462ef465",
+            "id": "78cee1be72f6cee2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester II/Java/Konstruktor.md",
-                "mode": "preview",
+                "file": "Semester II/Java/maschinenunabhängig.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "261905d034f6408d",
@@ -86,9 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-
-                "file": "Semester II/Java/Konstruktor.md",
-
+                "file": "Semester II/Java/maschinenunabhängig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-
-                "file": "Semester II/Java/Konstruktor.md",
-
+                "file": "Semester II/Java/maschinenunabhängig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-
-                "file": "Semester II/Java/Konstruktor.md"
-
+                "file": "Semester II/Java/maschinenunabhängig.md"
               }
             }
           },
@@ -149,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,14 +156,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "753c3215462ef465",
+  "active": "78cee1be72f6cee2",
   "lastOpenFiles": [
+    "Semester II/Java/Exemplarvariable.md",
+    "Semester II/Finanzbuchhaltung/Anschaffungskosten.md",
+    "Semester II/Java/Konstruktor.md",
     "Semester II/Java/Compiler.md",
     "Semester II/Java/Objekt.md",
     "Semester II/Java/Methode.md",
     "Semester II/Java/Datentyp.md",
     "Semester II/Java/Späte Bindung.md",
-    "Semester II/Finanzbuchhaltung/Anschaffungskosten.md",
     "Semester II/Finanzbuchhaltung/Verbindlichkeit.md",
     "Semester II/Finanzbuchhaltung/Herstellungskosten.md",
     "Semester II/Finanzbuchhaltung/LiFo.md",
@@ -190,8 +184,6 @@
     "Semester II/Finanzbuchhaltung/Rohstoffaufwendungen.md",
     "Semester II/Finanzbuchhaltung/Rechnungsperiode.md",
     "Semester II/Finanzbuchhaltung/Rechnungsabgrenzung.md",
-    "Semester II/Finanzbuchhaltung/Privatkonto.md",
-    "Semester II/Finanzbuchhaltung/Privatentnahme.md",
     "Templates",
     "Transferleistungen/Transferleistung II",
     "Transferleistungen",

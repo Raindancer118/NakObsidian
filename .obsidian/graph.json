@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"Semester II/Java\"  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,7 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-
-  "scale": 0.36288736930121585,
-  "close": true
+  "scale": 0.09392927902847084,
+  "close": false
 }
