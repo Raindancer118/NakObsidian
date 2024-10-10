@@ -5,7 +5,7 @@
 
 >[!INFO]
 >**Häufig genutzte Befehle:**
->*[[.add();]]* 
+>*befehlMention* 
 
 >[!EXAMPLE]
 >A simple Example

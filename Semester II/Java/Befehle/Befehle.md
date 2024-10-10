@@ -5,8 +5,8 @@
 >Nutze die Verlinkung oder die Annotationen, um herauszufinden, zu welchem spezifischen Artikel die Befehle gehören.
 
 ### <font color = "orange">Liste aller Befehle:</font>
->[!INFO]
->
+>[!INFO] **Verwaltung von Bibliotheken**
+>[[Import|import]]
 
 >[!INFO] **Collections**
 >[[.add()]]
@@ -18,4 +18,4 @@
 [[.hasNext()]]
 [[System.out.println()]]
 [[System.out.print()]]
-[[]]
+
