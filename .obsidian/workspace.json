@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester II/Java/maschinenunabhängig.md",
+                "file": "Klasse.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester II/Java/maschinenunabhängig.md",
+                "file": "Klasse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester II/Java/maschinenunabhängig.md",
+                "file": "Klasse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester II/Java/maschinenunabhängig.md"
+                "file": "Klasse.md"
               }
             }
           },
@@ -158,9 +158,11 @@
   },
   "active": "78cee1be72f6cee2",
   "lastOpenFiles": [
+    "Semester II/Java/Konstruktor.md",
+    "Klasse.md",
+    "Semester II/Java/maschinenunabhängig.md",
     "Semester II/Java/Exemplarvariable.md",
     "Semester II/Finanzbuchhaltung/Anschaffungskosten.md",
-    "Semester II/Java/Konstruktor.md",
     "Semester II/Java/Compiler.md",
     "Semester II/Java/Objekt.md",
     "Semester II/Java/Methode.md",
@@ -182,8 +184,6 @@
     "Semester II/Finanzbuchhaltung/SBK.md",
     "Semester II/Finanzbuchhaltung/Rücksendungen.md",
     "Semester II/Finanzbuchhaltung/Rohstoffaufwendungen.md",
-    "Semester II/Finanzbuchhaltung/Rechnungsperiode.md",
-    "Semester II/Finanzbuchhaltung/Rechnungsabgrenzung.md",
     "Templates",
     "Transferleistungen/Transferleistung II",
     "Transferleistungen",
