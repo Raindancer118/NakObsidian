@@ -1,7 +1,7 @@
 ## <font color = "orange">Interface</font>
 
 >[!SUMMARY]
->Ein Interface macht [[Klasse|Klassen]] im Endeffekt vergleichbar und ermöglicht es einer Methode, mit einem statt mehreren Datentypen zu arbeiten und dennoch durch Mehrfachvererbung und loser Kopplung verschiedene Objekttypen anzusprechen.
+>Ein Interface macht [[Klasse|Klassen]] im Endeffekt vergleichbar und ermöglicht es einer [[Methode]], mit einem statt mehreren [[Datentypen]] zu arbeiten und dennoch durch [[Vererbung|Mehrfachvererbung]] und [[Lose Kopplung|loser Kopplung]] verschiedene Objekttypen anzusprechen.
 
 >[!HINT]
 >Interfaces werden benannt, indem ein **"I" vor den Namen des [[Datentyp|Datentyps]] gehängt wird, der verarbeitet werden soll**.
