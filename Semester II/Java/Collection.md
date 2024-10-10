@@ -9,5 +9,9 @@
 >[[Array]]
 >[[HashSet]]
 
+>[!INFO]
+>**Häufig genutzte [[Befehle]]:**
+>*[[.add()]]* 
+
 >[!EXAMPLE]
 >A simple Example
