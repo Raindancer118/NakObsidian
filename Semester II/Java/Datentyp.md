@@ -24,6 +24,6 @@ aliases:
 >5. [[Char]]
 
 >[!HINT]
->**Klassen oder Interfaces als Datentypen**
->Interfaces und Klassen können für die [[Deklaration]] von neuen Objekten oder für [[Collection|Collections]] von Objekten des entsprechenden Typs als Datentyp dienen.
+>**[[Klasse|Klassen]] oder Interfaces als Datentypen**
+>Interfaces und [[Klasse|Klassen]] können für die [[Deklaration]] von neuen Objekten oder für [[Collection|Collections]] von Objekten des entsprechenden Typs als Datentyp dienen.
 

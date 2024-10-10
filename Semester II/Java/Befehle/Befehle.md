@@ -5,6 +5,9 @@
 >Nutze die Verlinkung oder die Annotationen, um herauszufinden, zu welchem spezifischen Artikel die Befehle gehören.
 
 ### <font color = "orange">Liste aller Befehle:</font>
+>[!INFO]
+>
+
 >[!INFO] **Collections**
 >[[.add()]]
 >[[.contains()]]
