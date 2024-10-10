@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Klasse.md",
+                "file": "Semester II/Java/Klasse.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Klasse.md",
+                "file": "Semester II/Java/Klasse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Klasse.md",
+                "file": "Semester II/Java/Klasse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Klasse.md"
+                "file": "Semester II/Java/Klasse.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78cee1be72f6cee2",
+  "active": "55ba325cba2828f2",
   "lastOpenFiles": [
     "Semester II/Java/Konstruktor.md",
-    "Klasse.md",
+    "Semester II/Java/Klasse.md",
     "Semester II/Java/maschinenunabhängig.md",
     "Semester II/Java/Exemplarvariable.md",
     "Semester II/Finanzbuchhaltung/Anschaffungskosten.md",
