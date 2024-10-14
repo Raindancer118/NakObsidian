@@ -1,6 +1,17 @@
 >[!Summary]
 >Ein Bedürfnis wird als das empfinden eines Mangels bezeichnet.
 >Werden erfüllt durch [[Güter]]
+
+```mermaid
+graph TD
+
+Bedürfnis---Existensbedürfnisse
+Bedürfnis---Grundbedürfnisse
+Bedürfnis---Luxusbedürfnisse
+Luxusbedürfnisse-->Wahlbedürfnisse
+Grundbedürfnisse-->Wahlbedürfnisse
+```
+
 ## Existenzbedürfnisse
 
 > [!info]
