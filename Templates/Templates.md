@@ -1,6 +1,6 @@
-![[Template]]
+![[Beschreibung & Beispiel]]
 
-![[Template Komplex]]
+![[Komplexe Beschreibung]]
 
 ![[Template Java Irgendwas mit Befehlen]]
 

@@ -1,4 +1,4 @@
-## <font color = "orange">{{title}}</font>
+# <font color = "orange">{{title}}</font>
 
 >[!SUMMARY] **Beschreibung**
 >Some text

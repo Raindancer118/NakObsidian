@@ -1,7 +1,0 @@
-## <font color = "orange">{{title}}</font>
-
->[!SUMMARY] **Beschreibung**
->Some text
-
->[!EXAMPLE]
->A simple Example
