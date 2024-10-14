@@ -12,7 +12,7 @@
 ## Knappe Güter
 
 >[!tip]
->Werden auch Wirtschaftsgüter genannt
+>Werden auch [[Wirtschaftsgüter]] genannt. 
 
 > [!info] 
 > Knappe Güter müssen bewirtschaftet werden.

@@ -5,11 +5,13 @@
 ```mermaid
 graph TD
 
+
 Bedürfnis---Existensbedürfnisse
 Bedürfnis---Grundbedürfnisse
 Bedürfnis---Luxusbedürfnisse
 Luxusbedürfnisse-->Wahlbedürfnisse
 Grundbedürfnisse-->Wahlbedürfnisse
+
 ```
 
 ## Existenzbedürfnisse
