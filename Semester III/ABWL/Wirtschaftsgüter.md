@@ -1,5 +1,5 @@
->[!tip]
->
+>[!Info]
+ Siehe [[Güter#Knappe Güter]]
 ## Einteilung
 
 
