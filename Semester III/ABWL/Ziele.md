@@ -18,7 +18,6 @@
 >[!example]
 >Steigerung der Umsatzrentabilität um 5%.
 >Steigerung der Eigenkapitalquote um 3%.
-
 #### Prinzipien 
 
 - [[Prinzipien#Maximalprinzip|Maximalprinzip]]
@@ -27,8 +26,10 @@
 #### Begriffe
 - [[Begriffe#Effizienz|Effizienz]]
 - [[Begriffe#Effektivität|Effektivität]]
-
-
+#### Formel
+- [[Formeln#Produktivität|Produktivität]]
+- [[Formeln#Wirtschaftlichkeit|Wirtschaftlichkeit]]
+- [[Formeln#Rentabilität|Rentabilität]]
 ## Soziale Ziele
 
 >[!summary]
