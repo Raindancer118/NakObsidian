@@ -3,7 +3,7 @@
 
 >[!Merkmale]
 >- Lässt sich real beobachten.
->- Bedarfsdeckung ist ihr materiales Ziel ([[Ziele#Sachziele]]).
->- Sie verfolgen wirtschaftliche Ziele ([[Ziele#Formalziele]]).
->- Sie beschäftigen Mitarbeiter die ([[Ziele#Soziale Ziele]]) verfolgen.
+>- Bedarfsdeckung ist ihr materiales Ziel ([[Ziele#Sachziele|Sachziele]]).
+>- Sie verfolgen wirtschaftliche Ziele ([[Ziele#Formalziele|Formalziele]]).
+>- Sie beschäftigen Mitarbeiter die ([[Ziele#Soziale Ziele|Soziale Ziele]]) verfolgen.
 

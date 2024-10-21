@@ -38,6 +38,10 @@ Grundbedürfnisse-->Wahlbedürfnisse
 >[!Example]
 >Schmuck, Porsche, Rolex
 
+## Fremdbedarfsdeckung
+
+>[!summary]
+>Ist die Erfüllung/ Deckung eines bedarfs außerhalb des eigenen. 
 
 
 
