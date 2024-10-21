@@ -8,3 +8,23 @@
 >[!summary]
 >Das Maß in dem die angestrebten Ziele erreicht werden.
 
+## Märkte 
+
+>[!summary]
+>Gedanklicher Ort and dem Anbieter und Nachfrager von Wirschaftsgütern aufeinander treffen.
+
+## Umweltbereiche 
+
+>[!summary]
+>Externe Faktoren wie Natur, die Gesellschaft, der Wirtschaftsraum oder auch Technologische Gegebenheiten und ihr Fortschritt.
+
+## Anspruchsgruppen (Stake Holder)
+
+>[!summary]
+>Alle Gruppen von Menschen die einen Anspruch oder Interesse an den Aktivitäten und Entscheidungen eines Unternehmens haben
+
+>[!Example]
+>Mitarbeiter, Lieferanten, Kunden, Konkurrenten, Behörden
+
+
+

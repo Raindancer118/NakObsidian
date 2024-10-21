@@ -43,6 +43,7 @@ Grundbedürfnisse-->Wahlbedürfnisse
 >[!summary]
 >Ist die Erfüllung/ Deckung eines bedarfs außerhalb des eigenen. 
 
+## Eigenbedarfsdeckung
 
-
-
+>[!summary]
+>Ist die Erfüllung/ Deckung des eigenen Bedarfs. 
