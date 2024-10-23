@@ -1,3 +1,7 @@
+---
+aliases:
+  - Exemplarvariablen
+---
 ## <font color = "orange">Exemplarvariable</font>
 
 >[!SUMMARY]

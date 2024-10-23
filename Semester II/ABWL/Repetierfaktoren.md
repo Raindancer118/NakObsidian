@@ -1,0 +1,6 @@
+---
+aliases:
+  - Werkstoff
+  - Werkstoffe
+---
+#tbd
