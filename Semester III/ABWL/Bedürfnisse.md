@@ -47,3 +47,4 @@ Grundbedürfnisse-->Wahlbedürfnisse
 
 >[!summary]
 >Ist die Erfüllung/ Deckung des eigenen Bedarfs. 
+

@@ -26,5 +26,10 @@
 >[!Example]
 >Mitarbeiter, Lieferanten, Kunden, Konkurrenten, Behörden
 
+## Güter Markt
 
+>[!summary]
+>Der Markt auf dem [[Güter]] ausgetauscht werden.
+
+## Beschaffungsmarkt
 

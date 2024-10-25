@@ -12,11 +12,11 @@ graph TD
     Materiell-->Produktionsgüter
     Immateriell-->Dienstleistung
     Immateriell-->Rechte
-    Produktionsgüter-->Potentialfaktoren(Investitionsgüter)
-    Produktionsgüter-->Repetierfaktoren(Werkstoffe)
-    Repetierfaktoren(Werkstoffe)-->Rohstoffe
-    Repetierfaktoren(Werkstoffe)-->Hilfstoffe
-    Repetierfaktoren(Werkstoffe)-->Betriebsstoffe
+    Produktionsgüter-->Potentialfaktoren
+    Produktionsgüter-->Repetierfaktoren
+    Repetierfaktoren-->Rohstoffe
+    Repetierfaktoren-->Hilfstoffe
+    Repetierfaktoren-->Betriebsstoffe
     Konsumgüter-->Gebrauchsgüter
     Konsumgüter-->Verbrauchsgüter
     
@@ -29,3 +29,23 @@ graph TD
     %% Definiere die Klasse "highlighted"
     classDef highlighted fill:#c5cf11,stroke:#333,stroke-width:2px,color:#000;
 ```
+
+## Repetierfaktoren
+
+>[!summary]
+>Auch Werkstoffe genannt. 
+>Sind die Stoffe oder Ressourcen die zur Herstellung benötigt werden.
+
+>[!Tip]
+>Die Stoffe die zur in Repeat Funktion des Unternehmens gepackt werden um Produkte zu bekommen. 
+
+>[!Example]
+> - Holz beim Möbelhersteller
+> - Stahlrahmen bei Still 
+
+## Potenzialfaktoren
+
+
+>[!summary]
+>Auch Investitionsgüter genannt.
+>
