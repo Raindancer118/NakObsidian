@@ -7,3 +7,12 @@
 >- Sie verfolgen wirtschaftliche Ziele ([[Ziele#Formalziele|Formalziele]]).
 >- Sie beschäftigen Mitarbeiter die ([[Ziele#Soziale Ziele|Soziale Ziele]]) verfolgen.
 
+```mermaid
+graph TD
+
+Betrieb --> Unternehmen
+Betrieb --> Haushalt
+
+
+```
+

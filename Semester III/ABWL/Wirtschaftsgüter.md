@@ -34,7 +34,7 @@ graph TD
 
 >[!summary]
 >Auch Werkstoffe genannt. 
->Sind die Stoffe oder Ressourcen die zur Herstellung benötigt werden.
+>Sind die Stoffe oder Ressourcen die zur Herstellung auf einen ***Kurzen*** Zeitraum benötigt werden.
 
 >[!Tip]
 >Die Stoffe die zur in Repeat Funktion des Unternehmens gepackt werden um Produkte zu bekommen. 
@@ -48,4 +48,8 @@ graph TD
 
 >[!summary]
 >Auch Investitionsgüter genannt.
+>Sind die Stoffe oder Ressourcen die zur Herstellung auf einen ***Langen*** Zeitraum benötigt werden.
 >
+
+>[!Example]
+> - Elektrische Säge im Sägewerk
