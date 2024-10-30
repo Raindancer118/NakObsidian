@@ -19,3 +19,12 @@
 >- Eine Taschenuhr ist ein kompliziertes System, aber es ist nicht komplex, weil klar ist, dass sich die Zeiger bewegen, wenn ein Zahnrad sich um eine bestimmte Gradzahl dreht.
 >  
 >  Zusätzlich sind Unternehmen ein **marktgerichtetes System**; sie sind ausgerichtet auf Bedarfsdeckung von [[Markt|Märkten]].
+
+### Umwelt eines Unternehmens:
+Die Umwelt eines Unternehmens besteht aus 6 größeren Gruppen:
+- [[Arbeitnehmer]]
+- Staat
+- [[Kunden]]
+- [[Lieferanten]]
+- [[Konkurrenten]]
+- [[Kapitalgeber]]
