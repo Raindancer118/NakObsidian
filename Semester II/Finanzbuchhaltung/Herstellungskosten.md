@@ -10,7 +10,7 @@
 >-------------------------- | ---
 >Materialkosten, Fertigungskosten, Werteverzehr | *Pflicht*
 >Verwaltungskosten | *Wahlrecht*
->Aufwendungen für soziale Leistungen, Einrichtungen und Altersvorsorge | *Wahlrecht*
+>[[Aufwendungen]] für soziale Leistungen, Einrichtungen und Altersvorsorge | *Wahlrecht*
 >Fremdkapitalzinsen | *Wahlrecht*
 >Vertriebs- und Forschungskosten | *Verbot*
 
