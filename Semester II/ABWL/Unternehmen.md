@@ -60,5 +60,6 @@ C --> E[Staatliche]
 ```mermaid
 flowchart TD
 A[Gewinnungsbetriebe] --> |Naturprodukte| B[Aufbereitungsbetriebe]
-B --> |Zwischenprodukte|
+B --> |Zwischenprodukte| C[Verarbeitungsbetriebe]
+
 ```
