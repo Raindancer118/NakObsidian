@@ -56,3 +56,9 @@ C --> E[Staatliche]
 >[!INFO] **Profits**
 >Profitorientiere Organisationen betreiben ihr Geschäft explizit mit dem [[Formalziel]], [[Gewinn]] zu erwirtschaften.
 
+##### Systematisierung von Unternehmen nach Branche
+```mermaid
+flowchart TD
+A[Gewinnungsbetriebe] --> |Naturprodukte| B[Aufbereitungsbetriebe]
+B --> |Zwischenprodukte|
+```
