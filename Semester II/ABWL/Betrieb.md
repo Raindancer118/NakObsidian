@@ -8,14 +8,14 @@
 Betriebe haben vier größere Faktoren:
 >[!INFO] **Vier Faktoren:**
 >- Betriebe lassen sich real beobachten
->- Bedarfsdeckung ist materiales Ziel
+>- Bedarfsdeckung ist materiales Ziel ([[Sachziel]])
 >	- Beispiel: Autohersteller wollen Autos *produzieren*.
->- Betriebe verfolgen wirtschaftliche Ziele
+>- Betriebe verfolgen wirtschaftliche Ziele ([[Formalziel]])
 >	- Beispiel: Autohersteller wollen Autos produzieren, diese dann *verkaufen* und somit *[[Vermögen]]* mehren.
 >- Mitarbeiter des Betriebs verfolgen außerdem soziale Ziele
 
 >[!WARNING] **ACHTUNG**
->Ein Unternehmen **kann nicht erfolgreich sein, wenn das Sachziel nicht erfüllt ist.** Das **Sachziel ist Voraussetzung für das Formalziel**.
+>Ein Unternehmen **kann nicht erfolgreich sein, wenn das [[Sachziel]] nicht erfüllt ist.** Das **[[Sachziel]] ist Voraussetzung für das [[Formalziel]]**.
 
 >[!HINT] **Zwei Klassen Betriebe**
 >Betriebe werden aufgegliedert in **[[Unternehmen]]** und **[[Haushalt|Haushalte]]**.

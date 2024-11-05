@@ -54,4 +54,5 @@ C --> E[Staatliche]
 
 ###### Profit
 >[!INFO] **Profits**
->Profitorientiere Organisationen betreiben ihr Geschäft explizit 
+>Profitorientiere Organisationen betreiben ihr Geschäft explizit mit dem [[Formalziel]], [[Gewinn]] zu erwirtschaften.
+
