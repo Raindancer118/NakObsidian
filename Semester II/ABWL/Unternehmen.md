@@ -28,3 +28,7 @@ Die Umwelt eines Unternehmens besteht aus 6 größeren Gruppen:
 - [[Lieferanten]]
 - [[Konkurrenten]]
 - [[Kapitalgeber]]
+
+### Systematisierung von Unternehmen
+##### Systematisierung nach Profit & Nonprofit:
+Unternehmen lassen sich aufteilen in Nonp
