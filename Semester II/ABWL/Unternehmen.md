@@ -30,5 +30,28 @@ Die Umwelt eines Unternehmens besteht aus 6 größeren Gruppen:
 - [[Kapitalgeber]]
 
 ### Systematisierung von Unternehmen
-##### Systematisierung nach Profit & Nonprofit:
-Unternehmen lassen sich aufteilen in Nonp
+##### Systematisierung nach Profit & Non-Profit:
+```mermaid
+graph TD
+A[Organisationen] --> B[Profit]
+A --> C[Non-Profit]
+C --> D[Private]
+C --> E[Staatliche]
+```
+
+###### Non-Profit
+>[!INFO] **Private Non-Profits**
+>Zu privaten Non-Profit-Organisationen gehören beispielsweise
+>- Wirtschaftliche
+>- Soziokulturelle
+>- Politische
+>- Karikative (Charity, also gemeinnützige)
+
+>[!INFO] **Staatliche Non-Profits**
+>Zu staatlichen Non-Profit-Organisationen gehört beispielsweise
+>- Öffentliche Gesundheitsversorgung
+>- Öffentlich-Rechtliche Nachrichtensender
+
+###### Profit
+>[!INFO] **Profits**
+>Profitorientiere Organisationen betreiben ihr Geschäft explizit 
