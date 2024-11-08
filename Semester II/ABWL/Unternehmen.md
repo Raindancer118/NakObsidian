@@ -1,3 +1,7 @@
+---
+aliases:
+  - Unternehmens
+---
 # <font color = "orange">Unternehmen</font>
 
 >[!INFO] **Definition**
@@ -28,6 +32,8 @@ Die Umwelt eines Unternehmens besteht aus 6 größeren Gruppen:
 - [[Lieferanten]]
 - [[Konkurrenten]]
 - [[Kapitalgeber]]
+
+Gleichzeitig beeinflussen die Natur, die Gesellschaft, der [[Wirtschaftsraum]] und die technologischen Gegebenheiten und Fortschritte ebenfalls Unternehmen.
 
 ### Systematisierung von Unternehmen
 ##### Systematisierung nach Profit & Non-Profit:
@@ -63,3 +69,10 @@ A[Gewinnungsbetriebe] --> |Naturprodukte| B[Aufbereitungsbetriebe]
 B --> |Zwischenprodukte| C[Verarbeitungsbetriebe]
 
 ```
+
+### Das Umfeld eines Unternehmens
+>[!INFO] **Dimensionen des Umfeldes**
+>- [[Markt|Märkte]], wo [[Angebot]] und [[Nachfrage]] aufeinander treffen
+>- [[Unternehmen#Umwelt eines Unternehmens|Umweltbereiche]]
+>- [[Anspruchsgruppen]], wie [[Arbeitnehmer]], [[Lieferanten]], [[Kunden]], [[Konkurrenten]] und Behörden
+

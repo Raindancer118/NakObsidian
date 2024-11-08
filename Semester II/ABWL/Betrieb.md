@@ -15,7 +15,7 @@ Betriebe haben vier größere Faktoren:
 >- Mitarbeiter des Betriebs verfolgen außerdem soziale Ziele
 
 >[!WARNING] **ACHTUNG**
->Ein Unternehmen **kann nicht erfolgreich sein, wenn das [[Sachziel]] nicht erfüllt ist.** Das **[[Sachziel]] ist Voraussetzung für das [[Formalziel]]**.
+>Ein [[Unternehmen]] **kann nicht erfolgreich sein, wenn das [[Sachziel]] nicht erfüllt ist.** Das **[[Sachziel]] ist Voraussetzung für das [[Formalziel]]**.
 
 >[!HINT] **Zwei Klassen Betriebe**
 >Betriebe werden aufgegliedert in **[[Unternehmen]]** und **[[Haushalt|Haushalte]]**.

@@ -10,3 +10,11 @@ aliases:
 
 >[!WARNING] **Verschiedene Arten Märkte**
 >Es gibt beispielsweise den [[Arbeitsmarkt]] oder auch den [[Warenmarkt]].
+
+>[!ABSTRACT] **Verschiedene Märkte**
+>- [[Arbeitsmarkt]]
+>- [[Warenmarkt]]
+>- [[Kreditmarkt]]
+>- [[Absatzmarkt]]
+>- [[Beschaffunsmarkt]]
+

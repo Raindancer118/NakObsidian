@@ -1,7 +1,7 @@
 ## <font color = "orange">Herstellungskosten</font>
 
 >[!SUMMARY]
->Stellt ein Unternehmen etwas selbst her, um es für betriebliche Zwecke zu nutzen, fallen Herstellungskosten für diese "Erschaffung" an. Diese müssen gebucht werden.
+>Stellt ein [[Unternehmen]] etwas selbst her, um es für betriebliche Zwecke zu nutzen, fallen Herstellungskosten für diese "Erschaffung" an. Diese müssen gebucht werden.
 
 >[!IMPORTANT]
 >**Herstellungskosten - Berechnung**
