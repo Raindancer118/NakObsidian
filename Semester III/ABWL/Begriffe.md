@@ -31,5 +31,18 @@
 >[!summary]
 >Der Markt auf dem [[Güter]] ausgetauscht werden.
 
-## Beschaffungsmarkt
+## Produktionsfaktoren
 
+>[!summary]
+>Alles was zur Produktion verwendet, also was benötigt wird damit ein Produkt entsteht.
+>Beeinhaltet :
+>- [[Wirtschaftsgüter#Repetierfaktoren|Repetierfaktoren]]
+>- [[Wirtschaftsgüter#Potenzialfaktoren|Potenzialfaktoren]]
+>- Informationen
+>- Arbeitsleistung
+
+>[!Example]
+>- Holz (Repetierfaktor)
+>- Maschinen (Potenzialfaktoren)
+>- Baupläne (Informationen)
+>- Fabrikangestellter (Arbeitsleistung)

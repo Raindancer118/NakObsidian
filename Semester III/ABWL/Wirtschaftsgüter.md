@@ -1,5 +1,5 @@
 >[!Info]
- Siehe [[Güter#Knappe Güter|Knappe Güter]]
+ Werden auch [[Güter#Knappe Güter|Knappe Güter]] genannt. 
 ## Einteilung
 
 
@@ -37,7 +37,7 @@ graph TD
 >Sind die Stoffe oder Ressourcen die zur Herstellung auf einen ***Kurzen*** Zeitraum benötigt werden.
 
 >[!Tip]
->Die Stoffe die zur in Repeat Funktion des Unternehmens gepackt werden um Produkte zu bekommen. 
+>Die Stoffe die zur Herstellung in die Repeat-Funktion des Unternehmens gepackt werden um Produkte zu bekommen. 
 
 >[!Example]
 > - Holz beim Möbelhersteller
