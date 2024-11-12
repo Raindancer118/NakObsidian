@@ -11,8 +11,8 @@ aliases:
 
 >[!Warning] **Unternehmen sind eine Unterart von [[Betrieb|Betrieben]].**
 
->[!DANGER] **Mitarbeiter von Unternehmen verfolgen privat soziale Ziele**
->Aus Management-Perspektive ist es das Ziel, wirtschaftliche und soziale Ziele zu erfüllen. **Glückliche Mitarbeiter arbeiten besser.**
+>[!DANGER] **[[Arbeitnehmer|Mitarbeiter]] von Unternehmen verfolgen privat soziale Ziele**
+>Aus Management-Perspektive ist es das Ziel, wirtschaftliche und soziale Ziele zu erfüllen. **Glückliche [[Arbeitnehmer|Mitarbeiter]] arbeiten besser.**
 
 >[!DEFINITION] **Merkmale eines Unternehmens**
 >Ein Unternehmen ist ein offenes System, es hat also vielfältige Beziehungen mit der Umwelt, wie beispielsweise Beziehungen zu Geschäftspartnern und Stakeholdern. 
@@ -72,6 +72,17 @@ B --> |Zwischenprodukte| C[Verarbeitungsbetriebe]
 
 ##### Systematisierung von Unternehmen nach Größe
 Unternehmen werden häufig anhand ihrer Beschäftigtengrößenklasse oder auch nach Umsatzgrößenklasse geordnet.
+
+##### Systematisierung von Unternehmen nach der technisch-ökonomischen Struktur
+Unternehmen können beispielsweise wie folgt sortiert werden:
+- Nach vorherrschendem [[Produktionsgut|Produktionsfaktor]]
+- Nach Fertigungstyp
+	- Einzel- oder Mehrfachfertigung
+- Nach Fertigungsverfahren
+	- Werkstatt- oder Fließbandprinzip
+
+##### Systematisierung von Unternehmen nach der Rechtsform
+Unternehmen 
 ### Das Umfeld eines Unternehmens
 >[!INFO] **Dimensionen des Umfeldes**
 >- [[Markt|Märkte]], wo [[Angebot]] und [[Nachfrage]] aufeinander treffen

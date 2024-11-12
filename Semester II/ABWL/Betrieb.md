@@ -12,7 +12,7 @@ Betriebe haben vier größere Faktoren:
 >	- Beispiel: Autohersteller wollen Autos *produzieren*.
 >- Betriebe verfolgen wirtschaftliche Ziele ([[Formalziel]])
 >	- Beispiel: Autohersteller wollen Autos produzieren, diese dann *verkaufen* und somit *[[Vermögen]]* mehren.
->- Mitarbeiter des Betriebs verfolgen außerdem soziale Ziele
+>- [[Arbeitnehmer|Mitarbeiter]] des Betriebs verfolgen außerdem soziale Ziele
 
 >[!WARNING] **ACHTUNG**
 >Ein [[Unternehmen]] **kann nicht erfolgreich sein, wenn das [[Sachziel]] nicht erfüllt ist.** Das **[[Sachziel]] ist Voraussetzung für das [[Formalziel]]**.
