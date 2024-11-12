@@ -3,7 +3,7 @@
 >Die Beziehungen eines [[Unternehmen|Unternehmens]] mit seinem Umfeld werden durch die herrschende Wirtschaftsordnung geregelt.
 
 ## Marktwirtschaft
-Die wirtschaftlichen Vorgänge innerhalb eines Wirtschaftsraumes beruhen auf den Aktivitäten von Haushalten und Unternehmen.
+Die wirtschaftlichen Vorgänge innerhalb eines Wirtschaftsraumes beruhen auf den Aktivitäten von Haushalten und [[Unternehmen]].
 ## Soziale Marktwirtschaft
 Die Freiheit einer Marktwirtschaft wird zugunsten der Sozialität und der Funktionsfähigkeit ebendieser Marktwirtschaft staatlich eingeschränkt.
 ## Rechtsordnung

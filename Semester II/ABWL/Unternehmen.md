@@ -82,7 +82,44 @@ Unternehmen können beispielsweise wie folgt sortiert werden:
 	- Werkstatt- oder Fließbandprinzip
 
 ##### Systematisierung von Unternehmen nach der Rechtsform
-Unternehmen 
+Unternehmen lassen sich in zwei Arten Gesellschaften aufteilen. 
+
+>[!WARNING] **Wesentliche Unterscheidungen**
+>Wesentlich unterscheiden sich die Rechtsformen in folgenden Punkten:
+>- Haftung
+>- Kapitalbeschaffung
+>- Unternehmensleitung
+>- Publizitäts- & Prüfungspflichten (siehe [[Jahresabschluss#Für größere Unternehmen|hier]])
+>- Flexibilität der Änderung der Gesellschaftsverhältnisse
+>- Steuerbelastung
+>- Mitbestimung
+
+```mermaid
+graph TD
+A[Gesellschaften] --> B[Personengesellschaften]
+A --> C[Kapitalgesellschaften]
+```
+
+Diese Gesellschaften wiederum lassen sich nun in weitere Untergruppierungen aufteilen:
+###### Kapitalgesellschaften
+- GmbH
+- AG
+- EU GmbH
+- SE (EU AG)
+###### Personengesellschaften
+- GbR
+- PartG
+- OHG
+- KG
+
+Außerdem gibt es noch
+###### Mischformen
+- KGaA
+- AG & Co KG
+- GmbH & Co KG
+
+###### Einzelunternehmen
+Einzelunternehmen werden von einer einzigen natürlichen Person betrieben, die unbeschränkt und allein, also inklusive privatem Vermögen haftet. Diese Person ist vermutlich als [[Kaufmann]] eingetragen.
 ### Das Umfeld eines Unternehmens
 >[!INFO] **Dimensionen des Umfeldes**
 >- [[Markt|Märkte]], wo [[Angebot]] und [[Nachfrage]] aufeinander treffen

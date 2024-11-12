@@ -18,6 +18,6 @@ Produktionsfaktoren sind beispielsweise folgende:
 - Energie
 - Informationen
 
-So kommt zustande, dass bestimmte Unternehmen beispielsweise besonders *personalintensiv* genannt werden. Diese Unternehmen arbeiten häufig in der Dienstleistungsbranche.
+So kommt zustande, dass bestimmte [[Unternehmen]] beispielsweise besonders *personalintensiv* genannt werden. Diese [[Unternehmen]] arbeiten häufig in der Dienstleistungsbranche.
 
 #tbcompleted 
