@@ -70,6 +70,8 @@ B --> |Zwischenprodukte| C[Verarbeitungsbetriebe]
 
 ```
 
+##### Systematisierung von Unternehmen nach Größe
+Unternehmen werden häufig anhand ihrer Beschäftigtengrößenklasse oder auch nach Umsatzgrößenklasse geordnet.
 ### Das Umfeld eines Unternehmens
 >[!INFO] **Dimensionen des Umfeldes**
 >- [[Markt|Märkte]], wo [[Angebot]] und [[Nachfrage]] aufeinander treffen
