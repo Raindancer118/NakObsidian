@@ -27,7 +27,7 @@ graph TD
 
 ## Branche
 
->[!info]
+>[!note]
 >- Ob sie ein Gewinnungsbetrieb sind der Naturstoffe abbaut.
 >- Ob sie ein Aufbereitungsbetrieb sind der Naturstoffe zu Zwischenprodukten verarbeitet
 >- Ob sie ein Verarbeitungsbetrieb sind der das Endprodukt Herstellt.
