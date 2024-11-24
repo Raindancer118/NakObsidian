@@ -72,5 +72,12 @@
 >Firma ist der Name unter dem das  Geschäft betrieben wird.
 
 ## Vollkaufmännisches Handelsgewerbe
+
 >[!summary]
 >Kaufmännisch eingerichteter Gewerbebetrieb. Das betrifft die Buchführung die auf eine Gewisse Art gemacht werden muss.
+
+## Preiselastizität
+
+>[!summary]
+>Gibt an wie stark sich die nachfrage verändert wenn wir den Preisverändern
+>Bei einer höheren Preiselstizität reagiert der Markt empfindlicher auf die Preisveränderung, somit verändert sich die nachfrage stärker als bei einer niedrigen. 
