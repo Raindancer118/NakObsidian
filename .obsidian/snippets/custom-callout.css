@@ -1,0 +1,12 @@
+/* Anpassungen für Callouts vom Typ "Gesselschafter" 
+.callout[data-callout="gesselschafter"] {
+    background-color: #3119e3; /* grauer Hintergrund */
+    color: #ffffff; /* Weisser Text */
+
+}
+
+.callout[data-callout="gesselschafter"] .callout-title {
+    font-weight: bold; /* Titel fett */
+    color: #ffffff; /* Weisser Text */
+}
+*/

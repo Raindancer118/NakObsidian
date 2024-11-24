@@ -46,3 +46,31 @@
 >- Maschinen (Potenzialfaktoren)
 >- Baupläne (Informationen)
 >- Fabrikangestellter (Arbeitsleistung)
+
+## Natürliche Person
+
+>[!summary]
+>Eine Menschliche Person.
+>Oder auch "Ein Mensch als Träger von Rechten und Pflichten".
+
+>[!example]
+>- Olaf scholz
+>- Du (hoffentlich) 
+
+## juristische Person
+
+>[!Summary]
+>Ein Unternehmen, Organistaion oder verein Rechtlich als eine Einheit gesehen wird.
+
+>[!example]
+>- ARGES
+>- Kion group AG
+
+## Firma
+
+>[!summary]
+>Firma ist der Name unter dem das  Geschäft betrieben wird.
+
+## Vollkaufmännisches Handelsgewerbe
+>[!summary]
+>Kaufmännisch eingerichteter Gewerbebetrieb. Das betrifft die Buchführung die auf eine Gewisse Art gemacht werden muss.
