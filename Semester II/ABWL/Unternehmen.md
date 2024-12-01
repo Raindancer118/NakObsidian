@@ -107,8 +107,8 @@ Diese Gesellschaften wiederum lassen sich nun in weitere Untergruppierungen auft
 - EU GmbH
 - SE (EU AG)
 ###### Personengesellschaften
-- GbR
-- PartG
+- [[GbR]]
+- [[PartG]]
 - OHG
 - KG
 
