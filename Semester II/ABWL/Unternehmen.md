@@ -109,8 +109,8 @@ Diese Gesellschaften wiederum lassen sich nun in weitere Untergruppierungen auft
 ###### Personengesellschaften
 - [[GbR]]
 - [[PartG]]
-- OHG
-- KG
+- [[OHG]]
+- [[KG]]
 
 Außerdem gibt es noch
 ###### Mischformen
