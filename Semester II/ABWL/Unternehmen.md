@@ -102,7 +102,7 @@ A --> C[Kapitalgesellschaften]
 
 Diese Gesellschaften wiederum lassen sich nun in weitere Untergruppierungen aufteilen:
 ###### Kapitalgesellschaften
-- GmbH
+- [[GmbH]]
 - AG
 - EU GmbH
 - SE (EU AG)

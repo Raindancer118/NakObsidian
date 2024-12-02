@@ -1,6 +1,7 @@
 ---
 aliases:
   - juristische und natürliche Personen
+  - natürliche und juristische Personen
 ---
 # <font color = "orange">Personen</font>
 ### Natürliche Personen
