@@ -7,6 +7,14 @@ Eine Nutzwertanalyse ist ein simples Tool, um zwischen mehreren Optionen eine En
 
 ![[230102 ABWL 1-10.pdf#page=39|Ein Beispiel einer Nutzwertanalyse]]
 ^ Ein Beispiel einer Nutzwertanalyse aus der Vorlesung
+
+| **Kriterium**       | **Gewichtung** | **Auto A** | **Auto B** | **Auto C** |
+|---------------------|----------------|------------|------------|------------|
+| **Kosten**          | 40 % (0,4)    | 8 (3,2)    | 6 (2,4)    | 9 (3,6)    |
+| **Umweltfreundlichkeit** | 30 % (0,3) | 7 (2,1)    | 9 (2,7)    | 6 (1,8)    |
+| **Komfort**         | 30 % (0,3)    | 8 (2,4)    | 7 (2,1)    | 9 (2,7)    |
+| **Gesamtnutzwert**  |                | **7,7**    | **7,2**    | **8,1**    |
+^ Ein weiteres Beispiel einer Nutzwertanalyse
 ## Die Nutzwertanalyse - Schritt für Schritt
 ### Vorbereitung
 - [ ] Ziel der Analyse geklärt?
