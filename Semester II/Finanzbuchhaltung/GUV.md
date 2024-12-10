@@ -10,7 +10,7 @@
 >Kapitalgesellschaften ist die Staffelform durch das [[HGB]] vorgeschrieben.
 
 >[!QUOTE]
->Die Gewinn- und Verlustrechnung ist zeitraumbezogen, d.h. sie erfasst die Aufwendungen und Erträge einer [[Rechnungsperiode|Abrechnungsperiode]].
+>Die Gewinn- und Verlustrechnung ist zeitraumbezogen, d.h. sie erfasst die [[Aufwendungen]] und Erträge einer [[Rechnungsperiode|Abrechnungsperiode]].
 >
 ***Aus dem Saldo von [[Aufwendungen]] und [[Erträge|Erträgen]] ergibt sich entweder 
 ▪ ein [[Gewinn]]/Jahresüberschuss ([[Erträge]] > [[Aufwendungen]]) oder 
@@ -40,4 +40,4 @@ Ein Gewinn würde die Bilanzposition Eigenkapital erhöhen, ein Verlust das Eige
 >
 Die Gewinn- und Verlustrechnung gibt somit Auskünfte über Art, Höhe und Quellen der Erfolgskomponenten. Im Gegensatz zur [[Bilanz]] (Zeitpunktrechnung) handelt es sich bei der Gewinn- und Verlustrechnung um eine Zeitraumrechnung.
 >
-***Aus dem Saldo von [[Aufwendungen]] und [[Erträge|Erträgen]] ergibt sich ein Jahresüberschuss (Erträge > Aufwendungen) oder ein Jahresfehlbetrag (Aufwendungen > Erträge).***
+***Aus dem Saldo von [[Aufwendungen]] und [[Erträge|Erträgen]] ergibt sich ein Jahresüberschuss (Erträge > [[Aufwendungen]]) oder ein Jahresfehlbetrag ([[Aufwendungen]] > Erträge).***

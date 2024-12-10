@@ -14,5 +14,5 @@ Rückstellungen werden nach kaufmännischer Beurteilung angesetzt und der Erfül
 >Rückstellungen werden wie folgt aufgelöst:
 >**Kosten genauso hoch wie Erwartung:** keine Auswirkung auf den Erfolg.
 >**Kosten kleiner als Erwartung:** *548 Erträge aus der Herabsetzung von Rückstellungen*
->**Kosten größer als Erwartung:** zusätzlicher Aufwand.
+>**Kosten größer als Erwartung:** zusätzlicher [[Aufwendungen|Aufwand]].
 
