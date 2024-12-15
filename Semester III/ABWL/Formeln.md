@@ -20,12 +20,23 @@
 ## Preis-Absatzfunktion
 
 >[!summary]
->Der Zusammenhang zwischen Preis p und Menge x
->x = f (p) bwz. p = g (x)
+>Zeigt wie der Preis die Absatzmenge beeinflusst.
 
+Der Zusammenhang zwischen Preis p und Menge x
+x = f (p) bzw. p = g (x)
+
+x = Absatzmenge / Verkaufsmenge
+p = Absatzpreis / Verkaufspreis
 a = Höchstpreis
 b = Proportionalitätsfaktor
 ![[Screenshot 2024-11-24 113821.png]]
 
 ## Preiselastizität der Nachfrage
+
+>[!summary]
+>Zeigt wie sich die Nachfrage verändert wenn der Preisverändert wird.  
+>
+
+Hohe Elastizität heißt, eine Preisänderung beeinflusst die Nachfrage stark. Dies Sieht man bei 
+
  $$n = \frac {p}{-b} $$![[Screenshot 2024-11-24 114236.png]]

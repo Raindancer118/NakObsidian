@@ -34,6 +34,8 @@ Die Idee ist das wenig Produkte einen Überproportionalen Anteil am gewinn haben
 >| ----- | ----- |
 >| 4. Produkt: 5.000 | 1,4 % | 100 %|
 
+>[!danger]
+>- Kann durch hohe kosten beeinflusst sein.
 
 
 

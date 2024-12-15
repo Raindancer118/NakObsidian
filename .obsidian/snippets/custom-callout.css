@@ -1,12 +1,13 @@
-/* Anpassungen für Callouts vom Typ "Gesselschafter" 
-.callout[data-callout="gesselschafter"] {
-    background-color: #3119e3; /* grauer Hintergrund */
-    color: #ffffff; /* Weisser Text */
+ /* Anpassungen für Callouts vom Typ "Gesselschafter"  */
+.callout[data-callout="kritik"] {
+    background-color: #fb4e547c ; /* grauer Hintergrund */
+    color: #DADADA; /* Weisser Text */
+    --callout-icon: lucide-badge-minus;
 
 }
 
-.callout[data-callout="gesselschafter"] .callout-title {
+.callout[data-callout="kritik"] .callout-title {
     font-weight: bold; /* Titel fett */
-    color: #ffffff; /* Weisser Text */
+    color: #dadada; /* Weisser Text */
 }
-*/
+
