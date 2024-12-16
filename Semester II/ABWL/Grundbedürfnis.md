@@ -12,5 +12,3 @@ aliases:
 
 >[!INFO] **Info**
 >Grundbedürfnisse gehören zu den **[[Wahlbedürfnis|Wahlbedürfnissen]]**.
-
-ein Grundbedürfnis ist Blubb
