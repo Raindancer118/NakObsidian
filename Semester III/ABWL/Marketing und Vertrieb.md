@@ -2,7 +2,7 @@
 Hier wird sich  damit beschäftigt wie der Umsatz erhöht werden kann durch Veränderung oder Einordnung des Produkts oder durch Veränderung des Preises. 
 Und damit auch was diese Veränderungen bewirken wie sie sich auf den Umsatz und Absatzzahlen auswirken.
 
-## Produkt / Produktpolitik
+# Produkt / Produktpolitik
 
 >[!summary]
 >Hier wird das Produkt analysiert und eingeordnet. 
@@ -13,10 +13,10 @@ Meist wird damit begonnen das Sortiment zu Analysieren. Dabei beinhaltet das Sor
 - Sortimentsbreite, wie viele Unterschiedliche Produkte es gibt. z.B. IPhone 16 und IPhone 17 sind Unterschiedliche Produkte.
 Die verschieden Produkte des Sortiments werden dann mit der [[ABC-Analyse]] verglichen um die wichtigsten zu finden, basierend auf dem Umsatz.
 
-## Preis / Konditionen
+# Preis / Konditionen
 
 >[!summary]
 >Hier wird Preis und andere Dienstleistungen wie Rabatt bestimmt.
 >- Preispolitik, welche auswirkungen hat eine Preisveränderung.
 
-### Preispolitik 
+## Preispolitik 
