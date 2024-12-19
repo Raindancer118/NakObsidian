@@ -3,11 +3,11 @@
 | ----------------------------------------------- | :------------: | :-------------------- | :----------------- | :------------------ |
 | **Preis**                                       |       20       | 3                     |                    |                     |
 | **On-Premise-Installation auf Windows-Servern** |       25       | 4                     |                    |                     |
-| **Pull (Merge) Requests**                       |       10       |                       |                    |                     |
-| **Visualisierung von Änderungen**               |       15       |                       |                    |                     |
-| **Continuous Integration (CI)**                 |       15       |                       |                    |                     |
-| **Connect To Cloud**                            |       5        |                       |                    |                     |
-| **Data Residency**                              |       10       |                       |                    |                     |
+| **Pull (Merge) Requests**                       |       10       | 5                     |                    |                     |
+| **Visualisierung von Änderungen**               |       15       | 5                     |                    |                     |
+| **Continuous Integration (CI)**                 |       15       | 3                     |                    |                     |
+| **Connect To Cloud**                            |       5        | 5                     |                    |                     |
+| **Data Residency**                              |       10       | 4                     |                    |                     |
 | **Gewichtung Gesamt:** $\sum$                   |      100       |                       |                    |                     |
 Bewertung: 
 	5 = perfekt
