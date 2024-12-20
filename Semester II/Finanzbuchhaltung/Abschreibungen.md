@@ -35,7 +35,7 @@ aliases:
 >
 
 >[!QUOTE]
->**[[Unternehmen]] mögen Abschreibungen, weil sie das [[Eigenkapital]] und den [[Gewinn]] mindern und damit die Steuern senken.**
+>**Unternehmen mögen Abschreibungen, weil sie das [[Eigenkapital]] und den [[Gewinn]] mindern und damit die Steuern senken.**
 
 >[!QUOTE]-
 >Laut [[HGB]]:

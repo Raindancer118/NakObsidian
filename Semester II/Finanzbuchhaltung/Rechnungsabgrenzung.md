@@ -13,7 +13,7 @@ Hierfür wird zwischen [[Ausgabe]] und [[Aufwendungen|Aufwand]] sowie [[Einnahme
 >1 | Ausgabe | Aufwand | Aktiver Rechnungsabgrenzungsposten (aktiver RAP) $293$
 >2 | Einnahme | Ertrag | Passiver Rechnungsabgrenzungsposten (passiver RAP) $490$
 >3 | Ertrag | Einnahme | Sonstige Forderungen $266$
->4 || Ausgabe | Sonstige Verbindlichkeiten $489$
+>4 | Aufwand | Ausgabe | Sonstige Verbindlichkeiten $489$
 
 Aktiver RAP und Passiver RAP sind [[Transitorische Rechnungsabgrenzung|Transitorische Rechnungsabgrenzungsposten]].
 

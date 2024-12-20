@@ -1,25 +1,16 @@
----
-aliases:
-  - Interfaces
----
 ## <font color = "orange">Interface</font>
 
 >[!SUMMARY]
->Ein Interface macht [[Klasse|Klassen]] im Endeffekt vergleichbar und ermöglicht es einer [[Methode]], mit einem statt mehreren [[Datentypen]] zu arbeiten und dennoch durch [[Vererbung|Mehrfachvererbung]] und [[Lose Kopplung|loser Kopplung]] verschiedene Objekttypen anzusprechen.
-
->[!WARNING] **ACHTUNG**
->Interfaces müssen [[Implementierung|implementiert]] werden. Hat eine [[Klasse]] ein Interface implementiert, muss sie **alle** [[Methode|Methoden]] daraus verwenden!
+>Ein Interface macht [[Klasse|Klassen]] im Endeffekt vergleichbar und ermöglicht es einer Methode, mit einem statt mehreren Datentypen zu arbeiten und dennoch durch Mehrfachvererbung und loser Kopplung verschiedene Objekttypen anzusprechen.
 
 >[!HINT]
 >Interfaces werden benannt, indem ein **"I" vor den Namen des [[Datentyp|Datentyps]] gehängt wird, der verarbeitet werden soll**.
 
->[!INFO]
->Interfaces unterscheiden sich von [[Abstrakte Klasse|Abstrakten Klassen]] dadurch, dass Interfaces einen Schnittstellenvertrag bilden, der den [[Klasse|Klassen]] vorgibt, welche [[Methode|Methoden]] sie zu implementieren haben, aber nicht genau, wie. So machen Interfaces [[Klasse|Klassen]] vergleichbar und [[polymorph]].
-
 >[!WARNING]
->Interfaces **können KEINE [[Exemplarvariable|Exemplarvariablen]] haben.** Interfaces können nur [[Konstante|Konstanten]] haben, also [[Variable|Variablen]] mit den Modifikatoren **public static final**.
+>Interfaces **können KEINE Exemplarvariablen haben.** Interfaces können nur Konstanten haben, also Variablen mit den Modifikatoren **public static final**.
 
 >[!EXAMPLE]
 >*public interface IPost{
 >...
 >}*
+
