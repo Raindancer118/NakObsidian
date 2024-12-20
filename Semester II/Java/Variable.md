@@ -1,3 +1,7 @@
+---
+aliases:
+  - Variablen
+---
 ## <font color = "orange">Variable</font>
 
 >[!SUMMARY]
@@ -6,6 +10,7 @@
 >[!HINT]
 >**Unterschiedliche Typen von Variablen:**
 >[[Exemplarvariable|Exemplarvariablen]]
+>[[Laufvariable|Laufvariablen]]
 
 >[!EXAMPLE]
 >*String x = 0;*
