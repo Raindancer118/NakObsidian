@@ -1,0 +1,13 @@
+ /* Anpassungen für Callouts vom Typ "Gesselschafter"  */
+.callout[data-callout="kritik"] {
+    background-color: #fb4e547c ; /* grauer Hintergrund */
+    color: #DADADA; /* Weisser Text */
+    --callout-icon: lucide-badge-minus;
+
+}
+
+.callout[data-callout="kritik"] .callout-title {
+    font-weight: bold; /* Titel fett */
+    color: #dadada; /* Weisser Text */
+}
+
