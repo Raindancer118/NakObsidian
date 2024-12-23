@@ -1,3 +1,5 @@
+# <font color = "orange">Prinzipien</font>
+
 ## Maximalprinzip
 
 >[!Summary]

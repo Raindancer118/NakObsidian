@@ -1,7 +1,4 @@
-
-
-
-
+# <font color = "orange">Investitionsrechnung</font>
 
 ## Statische Verfahren der Investitionsrechnung
 
