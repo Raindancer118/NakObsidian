@@ -6,4 +6,4 @@
 Im Grundsatz steht am Beginn jedes Verkaufes ein [[Bedürfnis]]. Die Wirtschaft funktioniert nur deshalb, weil es eine begrenzte Anzahl Produkte oder Dienstleistungen gibt, die nicht für jeden frei verfügbar sind. Hiermit sind [[Knappe Güter]] gemeint. Aus diesem Grund muss gewirtschaftet werden. 
 Jeder Kauf befriedigt ein Bedürfnis. 
 
-Für einen tatsächlichen Verkauf braucht es einen [[Bedarf]]. Dieser entsteht durch die Kombination eines [[Bedürfnis|Bedürfnisses]] mit Kaufkraft. Diese Kombination
+Für einen tatsächlichen Verkauf braucht es einen [[Bedarf]]. Dieser entsteht durch die Kombination eines [[Bedürfnis|Bedürfnisses]] mit Kaufkraft. Diese Kombination ermöglicht der Person, die das Bedürfnis verspürt, sich dieses zu erfüllen.
