@@ -17,10 +17,10 @@ Eine Nutzwertanalyse ist ein simples Tool, um zwischen mehreren Optionen eine En
 ^ Ein weiteres Beispiel einer Nutzwertanalyse
 ## Die Nutzwertanalyse - Schritt für Schritt
 ### Vorbereitung
-- [ ] Ziel der Analyse geklärt?
-- [ ] Optionen gewählt?
-- [ ] Kriterien ausgewählt?
-- [ ] Alle Kriterien relevant, messbar und voneinander unabhängig?
+- [x] Ziel der Analyse geklärt?
+- [x] Optionen gewählt?
+- [x] Kriterien ausgewählt?
+- [x] Alle Kriterien relevant, messbar und voneinander unabhängig?
 - [ ] Kriterien sinnvoll gewichtet?
 - [ ] Summe der Gewichtungen ergibt 100?
 - [ ] Bewertungsskala festgelegt? (Bsp: 1-10)
