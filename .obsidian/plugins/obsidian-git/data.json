@@ -1,5 +1,5 @@
 {
-  "commitMessage": "Obsidian Manual Upload: {{date}} - {{numFiles}} changes.",
+  "commitMessage": "(Raindancer118)\nObsidian Manual Upload: {{date}} - {{numFiles}} changes.",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 10,
   "autoPushInterval": 0,
