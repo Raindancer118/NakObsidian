@@ -1,3 +1,8 @@
+---
+aliases:
+  - Betriebe
+  - Betriebs
+---
 # <font color = "orange">Betrieb</font>
 
 >[!INFO] **Definition**

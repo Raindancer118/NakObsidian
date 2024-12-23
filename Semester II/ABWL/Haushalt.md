@@ -1,4 +1,10 @@
-# <font color = "orange">Haushalt</font>
+---
+aliases:
+  - Haushalte
+  - Haushaltes
+  - Haushalts
+---
+# <font color = "orange">Haushalt</font> 
 
 >[!INFO] **Definition**
 >Haushalte sind eine [[Technische Einheit|technische]], soziale und wirtschaftliche Einheit mit dem Ziel der **[[Eigenbedarfsdeckung]]**. Sie treffen selbstständige Entscheidungen und tragen eigene Risiken.
