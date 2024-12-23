@@ -7,3 +7,6 @@ Im Grundsatz steht am Beginn jedes Verkaufes ein [[Bedürfnis]]. Die Wirtschaft 
 Jeder Kauf befriedigt ein Bedürfnis. 
 
 Für einen tatsächlichen Verkauf braucht es einen [[Bedarf]]. Dieser entsteht durch die Kombination eines [[Bedürfnis|Bedürfnisses]] mit Kaufkraft. Diese Kombination ermöglicht der Person, die das Bedürfnis verspürt, sich dieses zu erfüllen.
+
+[[Wirtschaftsgut|Güter]] sind die Lösungen, die schlussendlich erstanden werden. Zu Gütern zählen hierbei **sowohl Sachgüter als auch Dienstleistungen**. 
+
