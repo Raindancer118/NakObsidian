@@ -12,3 +12,4 @@ aliases:
 
 >[!INFO] **Info**
 >Grundbedürfnisse gehören zu den **[[Wahlbedürfnis|Wahlbedürfnissen]]**.
+
