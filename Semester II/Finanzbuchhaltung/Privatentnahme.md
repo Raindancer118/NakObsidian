@@ -1,6 +1,6 @@
 ## <font color = "orange">Privatentnahme</font>
 
-Entscheidet sich einer der Eigentümer des Unternehmens, **für seine privaten Zwecke Geld aus dem [[Eigenkapital]] zu entnehmen**, spricht man von einer Privatentnahme. Diese mindert das Eigenkapital. 
+Entscheidet sich einer der Eigentümer des [[Unternehmen|Unternehmens]], **für seine privaten Zwecke Geld aus dem [[Eigenkapital]] zu entnehmen**, spricht man von einer Privatentnahme. Diese mindert das Eigenkapital. 
 
 Ein Unternehmer kann Geld als Vorschuss auf einen zu erwartenden [[Gewinn]] oder als Minderung seiner bisherigen Kapitaleinlage entnehmen.
 

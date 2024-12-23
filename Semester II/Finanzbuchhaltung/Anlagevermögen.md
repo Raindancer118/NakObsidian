@@ -6,7 +6,7 @@ aliases:
 ## <font color = "orange">Anlagevermögen</font>
 
 >[!SUMMARY]
->Das Anlagevermögen beschreibt laut [[HGB]] langfristige Anlagen, also Vermögen oder Gegenstände, die einem Unternehmen langfristig zur Verfügung stehen.
+>Das Anlagevermögen beschreibt laut [[HGB]] langfristige Anlagen, also Vermögen oder Gegenstände, die einem [[Unternehmen]] langfristig zur Verfügung stehen.
 
 Der Kaufpreis der Vermögensgegenstände bestimmt dabei die jeweiligen [[Anschaffungskosten]].
 
