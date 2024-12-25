@@ -3,4 +3,5 @@
 >Wertmäßiges Verhältnis von Gewinn zu eingesetztem Kapital
 
 ## Berechnung
-#### $Produktivität = \frac{Gewinn}{Eingesetztes Kapital}$
+$Rentabilität = \frac{Gewinn}{Eingesetztes Kapital}$ 
+
