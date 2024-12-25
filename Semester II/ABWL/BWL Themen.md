@@ -1,5 +1,5 @@
 # <font color = "orange">BWL Themen</font>
-- [ ] Rechtsformen
+- [x] Rechtsformen
 - [ ] Standortfaktoren
 	- [ ] Nutzwertanalyse
 - [ ] ABC-Analyse
