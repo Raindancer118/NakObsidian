@@ -1,7 +1,7 @@
 # <font color = "orange">Steuerungsprozess</font>
 
 >[!INFO] **Definition**
->Die Güter- und Finanzwirtschaftlichen Prozesse werden durch den Management-Prozess geordnet. 
+>Die [[Güter]]- und Finanzwirtschaftlichen Prozesse werden durch den Management-Prozess geordnet. 
 
 >[!HINT] **Der Steuerungsprozess**
 >Der Steuerungsprozess beginnt immer mit einer **Willensbildung**. Es wird also das Ziel erfasst. 

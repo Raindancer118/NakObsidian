@@ -1,6 +1,9 @@
 ---
 aliases:
   - Freies Gut
+  - Freien Güter
+  - Freie Güter
+  - Freies Güter
 ---
 # <font color = "orange">Freie Güter</font>
 
