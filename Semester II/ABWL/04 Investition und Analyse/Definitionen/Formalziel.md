@@ -3,7 +3,7 @@ Formalziele, auch **Erfolgsziele** genannt, bringen den wirtschaftlichen Erfolg 
 ## Typische Formalziele
 - [[Produktivität]]
 - [[Wirtschaftlichkeit]]
-- [[Semester II/ABWL/ABWL - Formelsammlung/Rentabilität]] und [[Gewinn]]
+- [[Rentabilität]] und [[Gewinn]]
 	- Dabei ist *[[Rentabilität]] relativ* und 
 	- *[[Gewinn]] absolut*
 

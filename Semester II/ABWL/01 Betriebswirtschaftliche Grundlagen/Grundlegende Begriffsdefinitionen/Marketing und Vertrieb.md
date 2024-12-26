@@ -1,3 +1,7 @@
+>[!HINT] **Die Abteilung**
+>In vielen, gerade kleineren Unternehmen werden die Abteilungen Marketing & Vertrieb häufig zusammengelegt.
+
+
 >[!summary]
 Hier wird sich  damit beschäftigt wie der Umsatz erhöht werden kann durch Veränderung oder Einordnung des Produkts oder durch Veränderung des Preises. 
 Und damit auch was diese Veränderungen bewirken wie sie sich auf den Umsatz und Absatzzahlen auswirken.
