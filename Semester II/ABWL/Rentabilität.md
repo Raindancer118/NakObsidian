@@ -1,6 +1,7 @@
 # <font color = "orange">Rentabilität</font>
->[!summary]
->Wertmäßiges Verhältnis von Gewinn zu eingesetztem Kapital
+>[!INFO] **DEFINITION**
+>Rentabilität beschreibt das relative Verhältnis zwischen Ertrag und des zur Erwirtschaftung eingesetzten Kapitals.
 
-## Berechnung
-#### $Produktivität = \frac{Gewinn}{Eingesetztes Kapital}$
+Die Rentabiliät beschreibt sich also als:
+$Rentabilität = \frac{Gewinn}{Aufwand}$
+Beispiel: Gewinn durch Brot: 750€. Kosten: 50€: $\frac{750€}{50€}$

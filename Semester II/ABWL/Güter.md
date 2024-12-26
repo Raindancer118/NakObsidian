@@ -1,1 +1,6 @@
+---
+aliases:
+  - Gutes
+  - Gut
+---
 #tbd

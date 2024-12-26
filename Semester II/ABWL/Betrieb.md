@@ -12,7 +12,7 @@ aliases:
 
 Betriebe haben vier größere Faktoren:
 >[!INFO] **Vier Faktoren:**
->- Betriebe lassen sich real beobachten
+>- **Betriebe lassen sich real beobachten**
 >- Bedarfsdeckung ist materiales Ziel ([[Sachziel]])
 >	- Beispiel: Autohersteller wollen Autos *produzieren*.
 >- Betriebe verfolgen wirtschaftliche Ziele ([[Formalziel]])

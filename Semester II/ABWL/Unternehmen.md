@@ -10,6 +10,7 @@ aliases:
 >Unternehmen sind auch **Produktionswirtschaften**. Das ist einfach zu merken, da sie Dinge Produzieren, um den [[Bedarf]] von anderen zu decken.
 
 >[!Warning] **Unternehmen sind eine Unterart von [[Betrieb|Betrieben]].**
+>Daraus folgt, dass alle Unternehmen automatisch auch Betriebe sind.
 
 >[!DANGER] **[[Arbeitnehmer|Mitarbeiter]] von Unternehmen verfolgen privat soziale Ziele**
 >Aus Management-Perspektive ist es das Ziel, wirtschaftliche und soziale Ziele zu erfüllen. **Glückliche [[Arbeitnehmer|Mitarbeiter]] arbeiten besser.**
