@@ -104,7 +104,7 @@ Eine Investition mit der Absicht Kosten zu senken.
 >Wird verwendet um die Rendite von Investitionsprojekten zu berechnen und diese zu vergleichen.
 
 #### Berechnung
-Rentabilität = $\frac{Gewinn}{durschnittlich_eingesetzes_Kapital}*100$ = $\frac{\frac{G}{(I+L)}}{2}*100$
+[[Rentabilität]] = $\frac{Gewinn}{durschnittlich_eingesetzes_Kapital}*100$ = $\frac{\frac{G}{(I+L)}}{2}*100$
 
 #### Beispiel 
 ![[Pasted image 20241226095909.png]]

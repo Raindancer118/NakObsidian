@@ -22,7 +22,7 @@
 - [ ] Investitionsrechnung
 	- [ ] Kostenvergleichsrechnung
 		- [ ] Gewinn
-		- [ ] Rentabilität
+		- [ ] [[Rentabilität]]
 		- [ ] Amortisation
 		- [ ] Kapitalwertmethode
 	- [ ] Barwertmethode

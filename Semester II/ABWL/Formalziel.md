@@ -4,7 +4,7 @@ Formalziele, auch **Erfolgsziele** genannt, bringen den wirtschaftlichen Erfolg 
 - [[Produktivität]]
 - [[Wirtschaftlichkeit]]
 - [[Semester II/ABWL/ABWL - Formelsammlung/Rentabilität]] und [[Gewinn]]
-	- Dabei ist *Rentabilität relativ* und 
+	- Dabei ist *[[Rentabilität]] relativ* und 
 	- *[[Gewinn]] absolut*
 
 ## Das ökonomische Prinzip
