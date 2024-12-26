@@ -1,6 +1,25 @@
 # <font color = "orange">Investitionsrechnung</font>
 
+## Arten von Investition
+### Erweiterungsinvestitionen
+Eine Investition mit der Absicht gewinn zu erwirtschaften.
+
+### Rationalisierungsinvestitionen
+Eine Investition mit der Absicht Kosten zu senken. 
+
 ## Statische Verfahren der Investitionsrechnung
+>[!summary] 
+>Verfahren welche Investitionsgrößen wie Kosten oder Gewinn berechnen und diese Mithilfe von Durchschnittswerte. Ausserdem wird angenommen das Einnahmen und Kosten konstant bleiben.
+
+#### Vorteile 
+- Einfache Verfahren mit guter Aussagekraft
+#### Nachteile
+- Zeitliche Verteilung der Einzahlungsüberschüsse bleibt unberücksichtigt
+- Betrachtung einer einzigen Periode ist eine nicht realistische Vereinfachung
+- Gewinnermittlung und -zurechnung praktisch häufig sehr schwierig 
+- Effektive Nutzungsdauern bleiben unberücksichtigt, dadurch systematische Unterbewertung längerfristiger Investitionen
+
+
 ### **Kostenvergleichsrechnung** 
 
 >[!summary]
@@ -82,13 +101,10 @@
 ### **Rentabilitätsrechnung**
 
 >[!summary]
->Bei der Rentabilitätsrechnung wird aus mehreren Investitionsmöglichkeiten jene Variante ausgewählt, die die höchste Rentabilität verspricht
-
-Ergänzend zu Gewinnvergleichsrechnung wird der durchschnittliche Gewinn in Beziehung zum durchschnittlichen Kapitaleinsatz gesetzt.
-Wird nur ein Investitionsprojekt isoliert beurteilt, so wird die Rentabilität mit einer vorher bestimmten Mindestrentabilität verglichen
+>Wird verwendet um die Rendite von Investitionsprojekten zu berechnen und diese zu vergleichen.
 
 #### Berechnung
-Rentabilität = $\frac{Gewinn}{durschnittlich_eingesetzes_Kapital}*100$
+Rentabilität = $\frac{Gewinn}{durschnittlich_eingesetzes_Kapital}*100$ = $\frac{\frac{G}{(I+L)}}{2}*100$
 
 #### Beispiel 
 ![[Pasted image 20241226095909.png]]
@@ -103,11 +119,51 @@ Rentabilität = $\frac{Gewinn}{durschnittlich_eingesetzes_Kapital}*100$
 - Mögliche Kosten- und Erlösveränderungen während der Nutzungsdauer werden nicht berücksichtigt 
 - Kapitalbindung und alternativer Kapitaleinsatz bleiben unberücksichtigt
 
+### **Amortisationsrechnung**
+auch Pay-back-Methode oder Pay-off-Methode genannt.
+
+>[!summary]
+>Berechnet den Zeitraum bis zum [[Break-even]] womit die Investitionsprojekte verglichen werden. Es wird dabei der Fokus auf den Geldrückfluss gelegt.
+#### Berechnung
+>[!note] 
+>Die Abschreibung werden hier dazu gerechnet, da sie in der GuV Rechnung vom Gewinn abgezogen wird, da sie aber kein Geldabfluss sind muss die Gewinnminderung ausgeglichen werden.
+##### [[Investitionsrechnung#Arten von Investition#Erweiterungsinvestitionen|Erweiterungsinvestitionen]]
+ Amortisationszeitraum = $\frac{Kapitaleinsatz}{Gewinn + Abschreibung}$
+ 
+ ##### [[Investitionsrechnung#Arten von Investition#Rationalisierungsinvestitionen|Rationalisierungsinvestitionen]]
+Amortisationszeitraum = $\frac{Kapitaleinsatz}{Kostenersparnis + Abschreibung}$
+
+
+#### Beispiel 
+![[Pasted image 20241226101720.png]]
+
+#### Vorteile 
+- Einfaches Verfahren 
+- Gute Aussagekraft 
+- Beruht auf liquiditätsorientierten Überlegungen 
+- Berücksichtigt implizit das Risiko einer Investition (je länger die Amortisationsdauer, umso größer das Risiko)
+#### Nachteile
+- Keine Aussage zur [[Rentabilität]] 
+- Schwierige Anwendbarkeit bei unterschiedlichen Nutzungsdauern alternativer Investitionsvorhaben 
+- Zeitliche Verteilung der Einzahlungsüberschüsse bleibt unberücksichtigt
 ## Dynamische Verfahren der Investitionsrechnung
 
+>[!summary]
+>
+
+Es wird versucht einige Schwächen der Statischen verfahren zu beseitigen
 
 
+### Berechnung des [[Barwert]]
 
+#### Nutzung des Abzinsungsfaktors 
+>[!Note]
+>Es gibt Abzinsung Tabellen in denen ein Fakor abgebildet ist mit dem man das Kapital mal nimmt um den [[Barwert]] zu erhalten
+>>[!INFO]- **Tabelle**
+>>![[Pasted image 20241226105535.png]]
 
-
-
+$Z_0=Z_t *\frac{1}{(1+i)^t}$
+t = Zeiteinheit (Time)
+i = Zins (Interest)
+##### Beispiel
+![[Pasted image 20241226105322.png]]
