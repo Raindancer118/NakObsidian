@@ -5,7 +5,7 @@ Die OHG ist eine Form der [[Unternehmen#Personengesellschaften|Personengesellsch
 >Die Abkürzung OHG steht für **Offene Handelsgesellschaft**.
 ## Merkmale
 - Vertrag zwischen zwei oder mehr Gesellschaftern
-- Betrieb eines [[Vollkaufmännisches Handelsgewerbe|vollkaufmännischen Handelsgewerbes]] unter einer gemeinsamen Firma
+- [[Betrieb]] eines [[Vollkaufmännisches Handelsgewerbe|vollkaufmännischen Handelsgewerbes]] unter einer gemeinsamen Firma
 ## Gesellschafter
 Gesellschafter können [[Personen|juristische und natürliche Personen]] sein.
 ## Haftung

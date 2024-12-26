@@ -1,6 +1,6 @@
 # <font color = "orange">Produktlebenszyklus</font>
 >[!summary]
-Wird verwendet um Produkte in Phasen einzuteilen und Entscheidung Prozesse zu vereinfachen, da mit einer Phase bestimmte Handlungsweisen und Gesetzmäßigkeiten verknüpft werden können. 
+Wird verwendet um [[Produkte]] in Phasen einzuteilen und Entscheidung Prozesse zu vereinfachen, da mit einer Phase bestimmte Handlungsweisen und Gesetzmäßigkeiten verknüpft werden können. 
 >z.B. wenn wir in der Letzten Phase sind machen wir nicht mehr viel und Konzentrieren uns auf das Nächste Produkt.
 
 Die Phasen sind:

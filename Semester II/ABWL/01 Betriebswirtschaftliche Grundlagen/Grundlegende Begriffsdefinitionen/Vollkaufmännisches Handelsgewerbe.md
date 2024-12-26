@@ -28,9 +28,9 @@ Ein vollkaufmännisches Handelsgewerbe wird als **Ist-Kaufmann** eingestuft. Das
 
 ### Abgrenzung
 
-- **Kleingewerbe**: Kleinere Betriebe, die keine aufwendige Organisation erfordern, zählen nicht als vollkaufmännisch.
-- **Kann-Kaufmann**: Gewerbetreibende, die freiwillig ins Handelsregister eingetragen werden können, wenn ihr Betrieb klein oder weniger komplex ist.
+- **Kleingewerbe**: Kleinere [[Betrieb|Betriebe]], die keine aufwendige Organisation erfordern, zählen nicht als vollkaufmännisch.
+- **Kann-Kaufmann**: Gewerbetreibende, die freiwillig ins Handelsregister eingetragen werden können, wenn ihr [[Betrieb]] klein oder weniger komplex ist.
 
 ### Beispiel
 
-Ein kleiner Kiosk, der nur wenige Produkte anbietet, ist kein vollkaufmännisches Handelsgewerbe. Eine Firma mit mehreren Angestellten, regelmäßigen Lieferungen und komplexen Abläufen hingegen schon.
+Ein kleiner Kiosk, der nur wenige [[Produkte]] anbietet, ist kein vollkaufmännisches Handelsgewerbe. Eine Firma mit mehreren Angestellten, regelmäßigen Lieferungen und komplexen Abläufen hingegen schon.

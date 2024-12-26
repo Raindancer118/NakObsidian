@@ -24,7 +24,7 @@ Standortfaktoren sind maßgeblich für die Wahl eines Standortes relevant
 - Art des Produktes
 #### Absatzbezogene
 - Transportfähigkeit
-- Bei Dienstleistungs-Unternehmen:
+- Bei Dienstleistungs-[[Unternehmen]]:
 	- Kundennähe
 	- Wartefrist
 #### Weitere

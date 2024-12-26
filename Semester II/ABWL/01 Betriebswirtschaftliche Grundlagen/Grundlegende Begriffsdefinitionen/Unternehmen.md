@@ -10,7 +10,7 @@ aliases:
 >Unternehmen sind auch **Produktionswirtschaften**. Das ist einfach zu merken, da sie Dinge Produzieren, um den [[Bedarf]] von anderen zu decken.
 
 >[!Warning] **Unternehmen sind eine Unterart von [[Betrieb|Betrieben]].**
->Daraus folgt, dass alle Unternehmen automatisch auch Betriebe sind.
+>Daraus folgt, dass alle Unternehmen automatisch auch [[Betrieb|Betriebe]] sind.
 
 >[!DANGER] **[[Arbeitnehmer|Mitarbeiter]] von Unternehmen verfolgen privat soziale Ziele**
 >Aus Management-Perspektive ist es das Ziel, wirtschaftliche und soziale Ziele zu erfüllen. **Glückliche [[Arbeitnehmer|Mitarbeiter]] arbeiten besser.**
@@ -104,9 +104,9 @@ A --> C[Kapitalgesellschaften]
 Diese Gesellschaften wiederum lassen sich nun in weitere Untergruppierungen aufteilen:
 ###### Kapitalgesellschaften
 - [[GmbH]]
-- AG
-- EU GmbH
-- SE (EU AG)
+- [[AG]]
+- [[EU GmbH]]
+- [[SE (EU AG)]]
 ###### Personengesellschaften
 - [[GbR]]
 - [[PartG]]
@@ -115,12 +115,12 @@ Diese Gesellschaften wiederum lassen sich nun in weitere Untergruppierungen auft
 
 Außerdem gibt es noch
 ###### Mischformen
-- KGaA
-- AG & Co KG
-- GmbH & Co KG
+- [[KGaA]]
+- [[AG & Co KG]]
+- [[GmbH & Co KG]]
 
 ###### Einzelunternehmen
-Einzelunternehmen werden von einer einzigen natürlichen Person betrieben, die unbeschränkt und allein, also inklusive privatem Vermögen haftet. Diese Person ist vermutlich als [[Kaufmann]] eingetragen.
+Einzelunternehmen werden von einer einzigen natürlichen Person betrieben, die unbeschränkt und allein, also inklusive privatem [[Vermögen]] haftet. Diese Person ist vermutlich als [[Kaufmann]] eingetragen.
 ### Das Umfeld eines Unternehmens
 >[!INFO] **Dimensionen des Umfeldes**
 >- [[Markt|Märkte]], wo [[Angebot]] und [[Nachfrage]] aufeinander treffen

@@ -16,7 +16,7 @@ $\frac{\mathrm{d}p_i}{p_i}$ = Relative Preisvariation
 $\frac{\mathrm{d}x_i}{x_i}$ = Relative Mengenänderung
 
 ## Elastische Nachfrage
-Nachfrage wird als **elastisch** bezeichnet, wenn sie eine Preiselastizität größer als 1 hat. Eine elastische Nachfrage bedeutet für den Anbieter eine geringe Kundenbindung und gleichzeitig die Möglichkeit, durch Preissenkungen Kunden zu gewinnen. Werden die Preise allerdings erhöht, könnten viele Kunden abspringen.
+Nachfrage wird als **elastisch** bezeichnet, wenn sie eine Preiselastizität größer als 1 hat. Eine elastische Nachfrage bedeutet für den Anbieter eine geringe Kundenbindung und gleichzeitig die Möglichkeit, durch Preissenkungen [[Kunden]] zu gewinnen. Werden die Preise allerdings erhöht, könnten viele [[Kunden]] abspringen.
 
 ## Unelastische Nachfrage
-Nachfrage ist unelastisch, wenn ihre Preiselastizität kleiner als 1 ist. Dies bedeutet eine hohe Kundenbindung und auch, dass Kunden auch trotz Preiserhöhungen weiterhin das Gut kaufen.
+Nachfrage ist unelastisch, wenn ihre Preiselastizität kleiner als 1 ist. Dies bedeutet eine hohe Kundenbindung und auch, dass [[Kunden]] auch trotz Preiserhöhungen weiterhin das [[Güter|Gut]] kaufen.

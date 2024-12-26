@@ -5,7 +5,7 @@ Die KG ist eine Form der [[Unternehmen#Personengesellschaften|Personengesellscha
 >Die Abkürzung KG steht für **Kommanditgesellschaft**.
 ## Merkmale
 - Vertrag zwischen zwei oder mehr Personen
-- Betrieb eines [[Vollkaufmännisches Handelsgewerbe|vollkaufmännischen Handelsgewerbes]] unter einer gemeinsamen Firma
+- [[Betrieb]] eines [[Vollkaufmännisches Handelsgewerbe|vollkaufmännischen Handelsgewerbes]] unter einer gemeinsamen Firma
 ## Gesellschafter
 [[Personen|natürliche und juristische Personen]] können Gesellschafter einer KG sein.
 Es gibt allerdings zwei Arten Gesellschafter, die sich in der Haftung unterscheiden:
