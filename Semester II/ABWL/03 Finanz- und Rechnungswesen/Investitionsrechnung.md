@@ -30,17 +30,17 @@ Eine Investition mit der Absicht Kosten zu senken.
 >Es gehen nur die Kosten in die Rechnung ein die durch die Jeweiligen Investitionsprojekte anfallen.
 
 #### Kosten
-- Variable Betriebskosten ($K_b$), Z.b. Materialkosten
+- Variable Betriebskosten ($\huge K_b$), Z.b. Materialkosten
 - Fixe Kapitalkosten 
-	- Abschreibung ($K_a$) pro Zeiteinheit, 
-	- Zinskosten ($K_z$) durchschnittlich des benötigen Kapitals, die Erträge die erhalten werden würden bei der Investition bsw. Anleihen. Diese müssen ausgeglichen werden, da sie Opportunitätskosten sind.
-	- Sonstige Fixkosten ($K_s$) Z.b. Gehälter
+	- Abschreibung ($\huge K_a$) pro Zeiteinheit, 
+	- Zinskosten ($\huge K_z$) durchschnittlich des benötigen Kapitals, die Erträge die erhalten werden würden bei der Investition bsw. Anleihen. Diese müssen ausgeglichen werden, da sie Opportunitätskosten sind.
+	- Sonstige Fixkosten ($\huge K_s$) Z.b. Gehälter
 
 #### Berechnung
 
 >[!summary]
 >Alle kosten werden addiert.
->$K_b + K_a + K_z + K_s$ 
+>$\huge K_b + K_a + K_z + K_s$ 
 
 >[!note]
 > - ($K_a$) = $\frac{I - L}{n}$
@@ -104,7 +104,7 @@ Eine Investition mit der Absicht Kosten zu senken.
 >Wird verwendet um die Rendite von Investitionsprojekten zu berechnen und diese zu vergleichen.
 
 #### Berechnung
-[[Rentabilität]] = $\frac{Gewinn}{durschnittlich_eingesetzes_Kapital}*100$ = $\frac{\frac{G}{(I+L)}}{2}*100$
+[[Rentabilität]] = $\huge \frac{Gewinn}{durschnittlich \;eingesetzes \;Kapital}*100$ = $\frac{\frac{G}{(I+L)}}{2}*100$
 
 #### Beispiel 
 ![[Pasted image 20241226095909.png]]
@@ -128,10 +128,10 @@ auch Pay-back-Methode oder Pay-off-Methode genannt.
 >[!note] 
 >Die Abschreibung werden hier dazu gerechnet, da sie in der GuV Rechnung vom Gewinn abgezogen wird, da sie aber kein Geldabfluss sind muss die Gewinnminderung ausgeglichen werden.
 ##### [[Investitionsrechnung#Arten von Investition#Erweiterungsinvestitionen|Erweiterungsinvestitionen]]
- Amortisationszeitraum = $\frac{Kapitaleinsatz}{Gewinn + Abschreibung}$
+ $$Amortisationszeitraum = \frac{Kapitaleinsatz}{Gewinn + Abschreibung}$$
  
  ##### [[Investitionsrechnung#Arten von Investition#Rationalisierungsinvestitionen|Rationalisierungsinvestitionen]]
-Amortisationszeitraum = $\frac{Kapitaleinsatz}{Kostenersparnis + Abschreibung}$
+$$Amortisationszeitraum = \frac{Kapitaleinsatz}{Kostenersparnis + Abschreibung}$$
 
 
 #### Beispiel 
@@ -162,8 +162,35 @@ Es wird versucht einige Schwächen der Statischen verfahren zu beseitigen
 >>[!INFO]- **Tabelle**
 >>![[Pasted image 20241226105535.png]]
 
-$Z_0=Z_t *\frac{1}{(1+i)^t}$
+$$\large Z_0=Z_t *\frac{1}{(1+i)^t}$$
 t = Zeiteinheit (Time)
 i = Zins (Interest)
+>[!warning]
+>i kann auch p sein für Prozent statt Interest.
 ##### Beispiel
 ![[Pasted image 20241226105322.png]]
+
+### Berechnung des [[Barwert#Rentenbarwert|Rentenbarwertes]]
+$$\large Z_0 = Z\frac{1}{(1+i)^1}+Z\frac{1}{(1+i)^2}+ ...Z\frac{1}{(1+i)^i}=Z(\frac{(1+i)^n -1}{i(1+i)^n}$$
+n = Periode (Jahre)
+i = Zins (Interest)
+>[!warning]
+>i kann auch p sein für Prozent statt Interest.
+
+#### Beispiel
+![[Pasted image 20241228091005.png]]
+
+### Kapitalwertmethode
+auch Net-Present-Value-Methode.
+>[!summary]
+>Bei der Kapitalwertmethode werden alle Ein- und Auszahlungen einer Investition auf einen Bestimmten Zeitpunkt [[Barwert#Abzinsen|abgezinst]]. Die Differenz dieser Ein- und Auszahlungen ist der Kapitalwert. Also wie viel Kapital hat die Investition unterm strich erbracht.
+
+Eine Investition ist vorteilhaft wenn der Kapitalwert größer Null ist, da in diesem Fall die Investition unterm strich kapital erbracht hat.
+Der Kapitalwert ergibt sich wie folgt : $\large 𝐾_0 = 𝐸_0 − 𝐴_0$ .
+Mit $\large 𝐸0$ als Abgezinste (diskontierte) Einzahlungen und $\large 𝐴0$ als Abgezinste (diskontierte) Auszahlungen
+
+#### Berechnung
+
+
+#### Beispiel
+![[Pasted image 20241228094048.png]]

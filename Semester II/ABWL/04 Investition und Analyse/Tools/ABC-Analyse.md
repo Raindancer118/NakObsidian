@@ -1,4 +1,4 @@
-#tbcompleted #tobi
+
 >[!summary]
 >Wird verwendet um herauszufinden welche [[Produkte]] am wichtigsten sind.
 
