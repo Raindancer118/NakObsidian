@@ -3,6 +3,8 @@
   "enabledCssSnippets": [
     "Extra-Callout",
     "Weaknesses",
-    "Strengths-Callout"
+    "Strengths-Callout",
+    "Weaknesses-Callout",
+    "Tags-Callout"
   ]
 }

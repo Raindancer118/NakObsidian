@@ -1,0 +1,4 @@
+.callout[data-callout="tag"] {
+    --callout-color: 126, 153, 163;
+    --callout-icon: lucide-tags;
+}

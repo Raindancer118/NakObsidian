@@ -11,6 +11,7 @@
 
 ![[kombinierte-swot-matrix-1.png]]
 ^ Der Aufbau einer SWOT-Analyse
+
 >[!HINT] **Die Ziele einer SWOT-Analyse**
 >  1. Visualisierung & 
 >  2. Identifikation von Stärken, Schwächen, Chancen & Risiken
