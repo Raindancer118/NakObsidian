@@ -4,3 +4,4 @@
 
 ![[kombinierte-swot-matrix-1.png]]
 ^ Der Aufbau einer SWOT-Analyse
+
