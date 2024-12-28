@@ -1,6 +1,8 @@
 {
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
-    "Extra-Callout"
+    "Extra-Callout",
+    "Weaknesses",
+    "Strengths-Callout"
   ]
 }

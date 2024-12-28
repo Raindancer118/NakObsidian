@@ -1,0 +1,4 @@
+.callout[data-callout="weaknesses"] {
+    --callout-color: 124, 68, 79;
+    --callout-icon: lucide-thumbs-down;
+}

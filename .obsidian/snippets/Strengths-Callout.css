@@ -1,0 +1,4 @@
+.callout[data-callout="strengths"] {
+    --callout-color: 101, 146, 135;
+    --callout-icon: lucide-biceps-flexed;
+}
