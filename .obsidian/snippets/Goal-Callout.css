@@ -1,0 +1,4 @@
+.callout[data-callout="goal"] {
+    --callout-color: 255, 245, 215;
+    --callout-icon: lucide-goal;
+}

@@ -15,4 +15,6 @@
 >[!HINT] **Die Ziele einer SWOT-Analyse**
 >  1. Visualisierung & 
 >  2. Identifikation von Stärken, Schwächen, Chancen & Risiken
->  3. 
+
+>[!HOWTO] **Vorgehensweise**
+>

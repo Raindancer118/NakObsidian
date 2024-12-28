@@ -1,0 +1,4 @@
+.callout[data-callout="howto"] {
+    --callout-color: 203, 157, 240;
+    --callout-icon: lucide-notepad-text;
+}
