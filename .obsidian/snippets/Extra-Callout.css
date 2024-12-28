@@ -1,0 +1,4 @@
+.callout[data-callout="extra"] {
+    --callout-color: 239, 182, 200;
+    --callout-icon: lucide-circle-plus;
+}
