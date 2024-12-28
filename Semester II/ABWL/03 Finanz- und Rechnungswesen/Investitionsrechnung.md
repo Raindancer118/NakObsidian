@@ -190,7 +190,19 @@ Der Kapitalwert ergibt sich wie folgt : $\large 𝐾_0 = 𝐸_0 − 𝐴_0$ .
 Mit $\large 𝐸0$ als Abgezinste (diskontierte) Einzahlungen und $\large 𝐴0$ als Abgezinste (diskontierte) Auszahlungen
 
 #### Berechnung
-
+$\huge t$: Zeitindex n: Nutzungsdauer 
+$\huge  i$: Diskontierungszinssatz 
+$\huge  I_0$: Anschaffungsauszahlung (z.B. Kaufpreis einer Maschine) 
+$\huge a_t$: Auszahlungen während der Nutzungsdauer (nachschüssig) 
+$\huge e_t$: Einzahlungen während der Nutzungsdauer (nachschüssig) 
+$\huge g_t$: Einzahlungsüberschüsse ($\huge e_t - a_t$) 
+$\huge L_n$: Liquidationserlös am Ende der Nutzungsdauer
+##### Einzahlung
+$$\huge E_0 = \sum_{t=0}^{n}\frac{e_t}{(1+i)^t}+\frac{L_n}{(1+i)^n}$$
+##### Auszahlung
+$$\huge A_0 = \sum_{t=0}^{n}\frac{a_t}{(1+i)^t}+I_0$$
+##### Kapitalwert
+$$\huge K_0 = \sum_{t=0}^{n}\frac{e_t-a_t}{(1+i)^t}+\frac{L_n}{(1+i)^n}-I_0$$
 
 #### Beispiel
 ![[Pasted image 20241228094048.png]]
