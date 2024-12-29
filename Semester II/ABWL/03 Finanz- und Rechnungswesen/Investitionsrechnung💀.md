@@ -170,16 +170,6 @@ i = Zins (Interest)
 ##### Beispiel
 ![[Pasted image 20241226105322.png]]
 
-### Berechnung des [[Barwert#Rentenbarwert|Rentenbarwertes]]
-$$\large Z_0 = Z\frac{1}{(1+i)^1}+Z\frac{1}{(1+i)^2}+ ...Z\frac{1}{(1+i)^i}=Z(\frac{(1+i)^n -1}{i(1+i)^n}$$
-n = Periode (Jahre)
-i = Zins (Interest)
->[!warning]
->i kann auch p sein für Prozent statt Interest.
-
-#### Beispiel
-![[Pasted image 20241228091005.png]]
-
 ### Kapitalwertmethode
 auch Net-Present-Value-Methode.
 >[!summary]
