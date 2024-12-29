@@ -6,7 +6,7 @@
 >[!summary]
 >Gibt den Barwert an für mehrere Konstante Zahlungen am Jahresende über n (gewisse Anzahl) Jahre an.
 >![[Pasted image 20241228091411.png]]
-
+>Für berechnung siehe [[Investitionsrechnung💀#Berechnung des Barwert Rentenbarwert Rentenbarwertes|Berechnung des Rentenbarwertes]]
 ## Abzinsen 
 
 >[!summary]

@@ -24,7 +24,7 @@
   - [ ] Finanzierungsdaten (Kurz & Lang)  
 
 # <font color="#6292ff">Investition und Analyse</font>
-- [ ] [[Investitionsrechnung]]  
+- [ ] [[Investitionsrechnung💀]]  
   - [ ] Kostenvergleichsrechnung  
     - [ ] [[Gewinn]]  
     - [ ] [[Rentabilität]]  

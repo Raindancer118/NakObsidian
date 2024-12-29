@@ -1,4 +1,4 @@
-# <font color = "orange">Investitionsrechnung</font>
+# <font color = "orange">Investitionsrechnung💀</font>
 
 ## Arten von Investition
 ### Erweiterungsinvestitionen
@@ -127,10 +127,10 @@ auch Pay-back-Methode oder Pay-off-Methode genannt.
 #### Berechnung
 >[!note] 
 >Die Abschreibung werden hier dazu gerechnet, da sie in der GuV Rechnung vom Gewinn abgezogen wird, da sie aber kein Geldabfluss sind muss die Gewinnminderung ausgeglichen werden.
-##### [[Investitionsrechnung#Arten von Investition#Erweiterungsinvestitionen|Erweiterungsinvestitionen]]
+##### [[Investitionsrechnung💀#Arten von Investition#Erweiterungsinvestitionen|Erweiterungsinvestitionen]]
  $$Amortisationszeitraum = \frac{Kapitaleinsatz}{Gewinn + Abschreibung}$$
  
- ##### [[Investitionsrechnung#Arten von Investition#Rationalisierungsinvestitionen|Rationalisierungsinvestitionen]]
+ ##### [[Investitionsrechnung💀#Arten von Investition#Rationalisierungsinvestitionen|Rationalisierungsinvestitionen]]
 $$Amortisationszeitraum = \frac{Kapitaleinsatz}{Kostenersparnis + Abschreibung}$$
 
 
@@ -184,12 +184,15 @@ i = Zins (Interest)
 auch Net-Present-Value-Methode.
 >[!summary]
 >Bei der Kapitalwertmethode werden alle Ein- und Auszahlungen einer Investition auf einen Bestimmten Zeitpunkt [[Barwert#Abzinsen|abgezinst]]. Die Differenz dieser Ein- und Auszahlungen ist der Kapitalwert. Also wie viel Kapital hat die Investition unterm strich erbracht.
+>Eine Investition ist vorteilhaft wenn der Kapitalwert größer Null ist.
 
 Eine Investition ist vorteilhaft wenn der Kapitalwert größer Null ist, da in diesem Fall die Investition unterm strich kapital erbracht hat.
 Der Kapitalwert ergibt sich wie folgt : $\large 𝐾_0 = 𝐸_0 − 𝐴_0$ .
 Mit $\large 𝐸0$ als Abgezinste (diskontierte) Einzahlungen und $\large 𝐴0$ als Abgezinste (diskontierte) Auszahlungen
 
 #### Berechnung
+
+
 $\huge t$: Zeitindex n: Nutzungsdauer 
 $\huge  i$: Diskontierungszinssatz 
 $\huge  I_0$: Anschaffungsauszahlung (z.B. Kaufpreis einer Maschine) 
@@ -199,10 +202,41 @@ $\huge g_t$: Einzahlungsüberschüsse ($\huge e_t - a_t$)
 $\huge L_n$: Liquidationserlös am Ende der Nutzungsdauer
 ##### Einzahlung
 $$\huge E_0 = \sum_{t=0}^{n}\frac{e_t}{(1+i)^t}+\frac{L_n}{(1+i)^n}$$
+Es werden alle Einzahlungen der einzelnen Perioden abgezinst und addiert und dann die abgezinsten Verkaufserlöse (Liquidationserlös) der Investition dazu gerechnet.
 ##### Auszahlung
 $$\huge A_0 = \sum_{t=0}^{n}\frac{a_t}{(1+i)^t}+I_0$$
+Es werden alle Auszahlung der einzelnen Perioden abgezinst und addiert und dann die Investitionskosten dazu gerechnet. 
 ##### Kapitalwert
 $$\huge K_0 = \sum_{t=0}^{n}\frac{e_t-a_t}{(1+i)^t}+\frac{L_n}{(1+i)^n}-I_0$$
 
 #### Beispiel
 ![[Pasted image 20241228094048.png]]
+
+### Vereinfachung der Kapitalwertmethode bei Konstanter Zahlung
+#### Berechnung 
+
+$\large K_0=$ [[Barwert#Rentenbarwert|Rentenbarwert]] $\huge *g+\frac{L_n}{(1+i)^n} -I_0$
+#### Beispiel
+![[Pasted image 20241229085632.png]]
+
+### Interner Zinssatz 
+auch Internal-Rate-of-Return-Methode.
+
+>[!summary]
+>Es wird durch umstellen der Kapitalwert Formel der Zins der Investition berechnet. Dabei wird der Kapitalwert null gesetzt um den Zinsauszurechnen.
+>Eine Investition Ist vorteilhaft wenn der Mindestzins erreicht wurde.
+
+$$\huge I_0=\sum_{t=0}^{n}\frac{e_t-a_t}{(1+i)^t}+\frac{L_n}{(1+i)^n}$$
+### Vereinfachung des Interner Zinssatz bei Konstanter Zahlung
+Es wird der Rentenbarwert mit einer vereinfachten Formel berechnet die nur hier verwendet werden kann, da der Kapitalwert Null entsprich. Dann wird mit den Jahren und dem Rentenbarwert die Prozentanzahl aus der Tabelle gesucht.
+$$\large Rentenbarwertfaktor = \frac{I_0}{g}$$ 
+#### Beispiel
+![[Pasted image 20241229091207.png]]
+
+### Annuitätenmethode
+>[!summary]
+>Mit der Methode werden aus einem gegebenen Kapitalwert konstante Einzahlungsüberschüsse (Annuitäten) errechnet.
+
+
+#### Beispiel
+![[Pasted image 20241229093952.png]]
