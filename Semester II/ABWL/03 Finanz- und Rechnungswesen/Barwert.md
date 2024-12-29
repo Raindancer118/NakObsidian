@@ -4,7 +4,10 @@
 ![[Pasted image 20241228091352.png]]
 
 >[!INFO] **Definition**
->Der Barwert stellt dar, welcher Betrag gerade zu einem bestimmten Zinssatz angelegt werden müsste, um in einem gewissen Zeitraum die Summe einer zukünftigen Zahlung zu erreichen. Die Berechnung funktioniert anhand der folgenden Formel:
+>Der Barwert stellt dar, welcher Betrag gerade zu einem bestimmten Zinssatz angelegt werden müsste, um in einem gewissen Zeitraum die Summe einer zukünftigen Zahlung zu erreichen. 
+
+>[!FORMULA]
+>Die Berechnung funktioniert anhand der folgenden Formel:
 >$$
 >Z_0=Z_t\frac{1}{(1+i)^t}
 >$$
@@ -22,6 +25,9 @@
 >Gibt den Barwert an für mehrere Konstante Zahlungen am Jahresende über n (gewisse Anzahl) Jahre an.
 >![[Pasted image 20241228091411.png]]
 >Für berechnung siehe [[Investitionsrechnung💀#Berechnung des Barwert Rentenbarwert Rentenbarwertes|Berechnung des Rentenbarwertes]]
+
+>[!FORMULA]
+>
 ## Abzinsen 
 
 >[!summary]
