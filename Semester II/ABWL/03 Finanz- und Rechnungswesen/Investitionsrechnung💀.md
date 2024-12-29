@@ -235,8 +235,13 @@ $$\large Rentenbarwertfaktor = \frac{I_0}{g}$$
 
 ### Annuitätenmethode
 >[!summary]
->Mit der Methode werden aus einem gegebenen Kapitalwert konstante Einzahlungsüberschüsse (Annuitäten) errechnet.
+>Verteilt den mehr ertrag einer Investition gleichmäßig auf mehrere Jahre. 
 
+#### Berechnung
+##### 1.Berechnung des Kapitalwertes
+$$\huge K_0 = \sum_{t=0}^{n}\frac{e_t-a_t}{(1+i)^t}+\frac{L_n}{(1+i)^n}-I_0$$
+##### 2.Berechnung der Annuität
 
+A= Abzinsungstabellen Prozent(𝐴𝑛𝑛𝑢𝑖𝑡ä𝑡𝑒𝑛𝑓𝑎𝑘𝑡𝑜𝑟) * $\large K_0$
 #### Beispiel
 ![[Pasted image 20241229093952.png]]
