@@ -3,5 +3,5 @@
 >Wertmäßiges Verhältnis von [[Gewinn]] zu eingesetztem Kapital
 
 ## Berechnung
-$Rentabilität = \frac{Gewinn}{Eingesetztes Kapital}$ 
+$\text{Rentabilität} = \huge{\frac{\text{Gewinn}}{\text{Eingesetztes Kapital}}}*100$ 
 

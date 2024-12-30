@@ -153,23 +153,11 @@ $$Amortisationszeitraum = \frac{Kapitaleinsatz}{Kostenersparnis + Abschreibung}$
 
 Es wird versucht einige Schwächen der Statischen verfahren zu beseitigen
 
+### Der Barwert
+![[Barwert#^a90d45]]
 
-### Berechnung des [[Barwert]]
-
-#### Nutzung des Abzinsungsfaktors 
->[!Note]
->Es gibt Abzinsung Tabellen in denen ein Fakor abgebildet ist mit dem man das Kapital mal nimmt um den [[Barwert]] zu erhalten
->>[!INFO]- **Tabelle**
->>![[Pasted image 20241226105535.png]]
-
-$$\large Z_0=Z_t *\frac{1}{(1+i)^t}$$
-t = Zeiteinheit (Time)
-i = Zins (Interest)
->[!warning]
->i kann auch p sein für Prozent statt Interest.
-##### Beispiel
-![[Pasted image 20241226105322.png]]
-
+### Der Rentenbarwert
+![[Barwert#^9d6089]]
 ### Kapitalwertmethode
 auch Net-Present-Value-Methode.
 >[!summary]

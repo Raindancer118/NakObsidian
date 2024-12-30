@@ -1,4 +1,5 @@
 # <font color = "orange">Barwert</font>
+## Barwert
 >[!summary]
 >Der Wert, der einer Zahlung, die noch in der Zukunft liegt, heute zugemessen wird.
 ![[Pasted image 20241228091352.png]]
@@ -13,6 +14,8 @@
 >$$
 >Dabei steht $i$ für den Prozentsatz der Zinsen, $Z_0$ für den Barwert und $Z_t$ für den Soll-Wert der Zahlung in der Zukunft. $t$ ist dabei die Anzahl der Jahre, die die Zahlung noch in der Zukunft liegt.
 
+^a90d45
+
 >[!EXAMPLE]
 >Angenommen, der Soll-Wert einer Zahlung liegt bei $5000$€ und sie wird knapp zwei Jahre im Voraus bereits zu einem Prozentsatz von 6% angelegt. Dann ergibt sich folgende Rechnung:
 >$$
@@ -20,14 +23,28 @@
 >$$
 
 >[!HINT] **Wenn vorhanden, nutze Abzinsungstabellen, um die Berechnung zu ersparen!**
+
+---
 ## Rentenbarwert
 >[!summary]
 >Gibt den Barwert an für mehrere Konstante Zahlungen am Jahresende über n (gewisse Anzahl) Jahre an.
 >![[Pasted image 20241228091411.png]]
->Für berechnung siehe [[Investitionsrechnung💀#Berechnung des Barwert Rentenbarwert Rentenbarwertes|Berechnung des Rentenbarwertes]]
+
+>[!INFO] Definition
+>Der Rentenbarwert ist quasi der **Barwert**, doch wird davon ausgegangen, dass über die Spanne der Jahre, die das Geld angelegt wird, Zahlungen mit dem Wert $Z$ ausgeführt werden.
+>Theoretisch könnte nun repetitiv dieselbe Rechnung durchgeführt werden, sodass der Barwert für jedes Jahr erneut ausgerechnet wird.
+>$$
+>Z_0=Z\frac{1}{(1+i)^1}+Z\frac{1}{(1+i)^2}+\text{...} Z\frac{1}{(1+i)^n}
+>$$
 
 >[!FORMULA]
->
+>Aus eben genannter Formel ergibt sich die **Formel für den Rentenbarwert**, die da wäre:
+>$$
+>Z_0=Z(\frac{(1+i)^n - 1}{i(1+i)^n})
+>$$
+
+^9d6089
+
 ## Abzinsen 
 
 >[!summary]

@@ -1,2 +1,2 @@
->[!Hint] **Hinweis**
+>[!Hint] Hinweis
 >
