@@ -33,7 +33,7 @@ Eine Investition mit der Absicht Kosten zu senken.
 - Variable Betriebskosten ($\huge K_b$), Z.b. Materialkosten
 - Fixe Kapitalkosten 
 	- Abschreibung ($\huge K_a$) pro Zeiteinheit, 
-	- Zinskosten ($\huge K_z$) durchschnittlich des benötigen Kapitals, die Erträge die erhalten werden würden bei der Investition bsw. Anleihen. Diese müssen ausgeglichen werden, da sie Opportunitätskosten sind.
+	- Zinskosten ($\huge K_z$) des durchschnittlich benötigen Kapitals. 
 	- Sonstige Fixkosten ($\huge K_s$) Z.b. Gehälter
 
 #### Berechnung
@@ -45,8 +45,8 @@ Eine Investition mit der Absicht Kosten zu senken.
 >[!note]
 > - ($K_a$) = $\frac{I - L}{n}$
 >Hier wird mit einbezogen das die Investition(I) nach der Nutzung(n) noch weiterverkauft werden kann für Liquidationserlöse(L)
-> - ($K_z$) =$\frac{I + L}{2}$.
-> Es werden die Opportunitätskosten berechnet, da das gebunden Kapital (verschiebbares Kapital) aber durch eine Abschreibung abnimmt wird durch 2 geteilt. 
+> - ($K_z$) =$\frac{I + L}{2}*\frac{p}{100}$.
+> Da mit dem durchschnitt gerechnet wird wird durch 2 gerechnet. Weil das Benötigte Kapital durch Abschreibungen abnimmt.
 > 
 #### Beispiel 
 ![[Pasted image 20241223133617.png]]
