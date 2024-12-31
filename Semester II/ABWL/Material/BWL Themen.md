@@ -17,7 +17,7 @@
 # <font color="#6292ff">Finanz- und Rechnungswesen</font>
 - [ ] Internes Rechnungswesen  
   - [ ] Berechnung der Zuschlagssätze  
-  - [ ] Voll- und Teilkostenrechnung  
+  - [ ] [[Voll- und Teilkostenrechnung]]
 - [ ] Finanzplanung und -Kontrolle  
   - [ ] Kennzahlenberechnung  
 - [ ] Fremdfinanzierung  
