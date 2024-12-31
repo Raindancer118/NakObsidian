@@ -35,10 +35,4 @@ $$
 >K = K_b + \frac{I-L}{n}+\frac{I+L}{2}+\frac{p}{100}+K_s
 >$$
 
-Darin stehen 
-$K_b$ = Variable Betriebskosten
-$I$ = Investitionsbetrag
-$L$ = Liquidationserlös
-$n$ = Laufzeit des Projektes
-$p$ = Zinssatz in Prozent / Jahr
-$K_s$ = Sonstige Fixkosten
+![[Variablen#Investitionsrechnung]]
