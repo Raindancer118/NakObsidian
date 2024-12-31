@@ -29,4 +29,7 @@ $$
 Darin stehen 
 $K_b$ = Variable Betriebskosten
 $I$ = Investitionsbetrag
-$L$ = 
+$L$ = Liquidationserlös
+$n$ = Laufzeit des Projektes
+$p$ = Zinssatz in Prozent / Jahr
+$K_s$ = Sonstige Fixkosten
