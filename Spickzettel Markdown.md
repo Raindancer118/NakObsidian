@@ -54,7 +54,6 @@ Ich habe einige Callout-Typen hinzugefügt. Overall gibt es jetzt also folgende 
 
 >[!EXAMPLE]
 
->[!]
 ## Listen
 
 ### Geordnete Liste
