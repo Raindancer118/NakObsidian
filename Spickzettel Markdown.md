@@ -20,6 +20,41 @@ Markdown nutzt `#` für Überschriften:
 ###### H6
 ````
 
+## Callouts
+Ich habe einige Callout-Typen hinzugefügt. Overall gibt es jetzt also folgende Callout-Typen:
+### Custom
+>[!EXTRA]
+
+>[!FORMULA]
+
+>[!GOAL]
+
+>[!HowTo]
+
+>[!STRENGTHS]
+
+>[!TAG]
+
+>[!Weaknesses]
+
+### Native Obsidian
+>[!HINT]
+
+>[!TIP]
+
+>[!NOTE]
+
+>[!WARNING]
+
+>[!DANGER]
+
+>[!DONE]
+
+>[!TODO]
+
+>[!EXAMPLE]
+
+>[!]
 ## Listen
 
 ### Geordnete Liste

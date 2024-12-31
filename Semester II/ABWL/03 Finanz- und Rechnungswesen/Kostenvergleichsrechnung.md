@@ -27,3 +27,6 @@ $$
 >$$
 
 Darin stehen 
+$K_b$ = Variable Betriebskosten
+$I$ = Investitionsbetrag
+$L$ = 
