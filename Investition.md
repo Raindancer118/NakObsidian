@@ -47,3 +47,17 @@ A --> C[Arbeitsplatzgestaltung]
 A --> D[Umweltschutz]
 A --> E[Sicherheit]
 ```
+
+## Methoden der Investitionsrechnung
+Um bestimmen zu können, ob eine Investition sich rentieren wird, gibt es verschiedene Verfahren der [[Investitionsrechnung]].
+Es gibt:
+### Statische Verfahren
+- [[Kostenvergleichsrechnung]]
+- [[Gewinnvergleichsrechnung]]
+- [[Rentabilitätsrechnung]]
+- [[Amortisationsrechnung]]
+### Dynamische Verfahren
+- [[Kapitalwertmethode]]
+- [[Interne Zinsfußmethode]]
+- [[Annuitätenmethode]]
+
