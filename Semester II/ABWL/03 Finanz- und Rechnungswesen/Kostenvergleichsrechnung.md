@@ -8,6 +8,15 @@ Dabei gibt es zwei Möglichkeiten, denn man kann mit den Kosten pro
 - **Leistungseinheit**
 rechnen. 
 
+>[!STRENGTHS]
+>- Einfaches Verfahren
+>- Gute Aussagekraft
+>- Besonders für Ersatzinvestitionen geeignet
+
+>[!WEAKNESSES]
+>- Potentieller Gewinn wird ignoriert
+>- Kostenveränderungen während der Nutzungsdauer werden auch ignoriert
+
 In die Rechnung einbezogen werden nur die Kosten, die durch die Investitionsalternative hervorgerufen werden und sich zwischen den Alternativen unterscheiden. Dementsprechend fließen beispielsweise ein:
 - Variable Betriebskosten ($K_b$)
 - fixe Kapitalkosten
