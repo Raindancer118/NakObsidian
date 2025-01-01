@@ -9,7 +9,7 @@ aliases:
 - $p$ = Preis
 - $x$ = Menge
 - $a$ = Höchstpreis
-- $b$ = Proportionalitätsfaktor
+- $b$ = Proportionalitätsfaktor (Preisänderung bei der Herstellung einer weiteren Einheit)
 - $n$ = [[Preiselastizität]]
 ## Verschiedene Varianten
 ### 1. Lineare Preis-Absatzfunktion
