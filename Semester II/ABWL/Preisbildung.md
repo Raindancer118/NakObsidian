@@ -19,7 +19,8 @@ $$\large Endpreis - (Handelspanne + MWST +Gewinn) = Zielkosten$$
 ## Abnehmerorientierte
 >[!Summary]
 >Die abnehmerorientierte Preisbildung richtet sich nach der Zahlungsbereitschaft und dem wahrgenommenen Wert eines Produkts.
-- Bezugsgrößen sind das Preisverhalten 
+- Bezugsgrößen sind das Preisverhalten der Abnehmer und dessen Verhalten.
+- 
 ### Abschöpfungsstrategie
 >[!summary]
 >Es wird ein hoher Anfangspreis gesetzt.
