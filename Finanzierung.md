@@ -5,8 +5,9 @@
 ## Aufteilung von Finanzierungen
 ### Finanzierungsanlass
 Finanzierungen lassen sich nach unterschiedlichen Anlässen ordnen:
-#### Gründungsfinanzierung
+- Gründungsfinanzierung
+- Wachstumsfinanzierung
+- Übernahmefinanzierung
+- Sanierungsfinanzierung
 
-#### Wachstumsfinanzierung
-#### Übernahmefinanzierung
-#### Sanierungsfinanzierung
+### 
