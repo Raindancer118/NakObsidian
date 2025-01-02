@@ -1,9 +1,9 @@
 # <font color="#6292ff">Betriebswirtschaftliche Grundlagen</font>
-- [ ] [[Unternehmen#Systematisierung von Unternehmen nach der Rechtsform|Rechtsformen]]
-- [ ] Standortfaktoren  
+- [x] [[Unternehmen#Systematisierung von Unternehmen nach der Rechtsform|Rechtsformen]]
+- [x] Standortfaktoren  
   - [x] [[Semester II/ABWL/04 Investition und Analyse/Tools/Nutzwertanalyse|Nutzwertanalyse]]
 - [x] [[Produktlebenszyklus]]
-- [ ] Preistheorie  
+- [ ] Preistheorie
   - [ ] Preisabsatzfunktion  
 
 # <font color="#6292ff">Beschaffung und Produktion</font>
@@ -17,20 +17,20 @@
 # <font color="#6292ff">Finanz- und Rechnungswesen</font>
 - [ ] Internes Rechnungswesen  
   - [ ] Berechnung der Zuschlagssätze  
-  - [ ] [[Voll- und Teilkostenrechnung]]
+  - [x] [[Voll- und Teilkostenrechnung]]
 - [ ] Finanzplanung und -Kontrolle  
   - [ ] Kennzahlenberechnung  
 - [ ] Fremdfinanzierung  
   - [ ] Finanzierungsdaten (Kurz & Lang)  
 
 # <font color="#6292ff">Investition und Analyse</font>
-- [ ] [[Investitionsrechnung💀]]  
-  - [ ] Kostenvergleichsrechnung  
-    - [ ] [[Gewinn]]  
-    - [ ] [[Rentabilität]]  
-    - [ ] Amortisation  
-    - [ ] Kapitalwertmethode  
-  - [ ] Barwertmethode  
-  - [ ] Kapitalwertmethode  
-  - [ ] Interner Zinssatz  
+- [x] [[Investitionsrechnung💀]]  
+  - [x] Kostenvergleichsrechnung  
+    - [x] [[Gewinn]]  
+    - [x] [[Rentabilität]]  
+    - [x] Amortisation  
+    - [x] Kapitalwertmethode  
+  - [x] Barwertmethode  
+  - [x] Kapitalwertmethode  
+  - [x] Interner Zinssatz  
 - [x] [[ABC-Analyse]]  
