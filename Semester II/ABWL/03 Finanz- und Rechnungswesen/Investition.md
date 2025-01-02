@@ -1,6 +1,6 @@
 # <font color = "orange">Investition</font>
 >[!INFO] Definition
->Eine **Investition** ist die **Umwandlung liquider Mittel** eines Unternehmens **in Sachgüter, Dienstleistungen oder Forderungen**.
+>Eine **Investition** ist die **Umwandlung liquider Mittel** eines Unternehmens **in Sachgüter, Dienstleistungen oder Forderungen**, also eine ***Umwandlung von KAPITAL in VERMÖGEN***.
 
 ## Aufteilung nach Kategorien
 Dabei werden Investitionen in unterschiedliche Kategorien aufgeteilt:
