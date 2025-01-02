@@ -18,8 +18,8 @@ Sie werden wie folgt berechnet:
 $$\large Endpreis - (Handelspanne + MWST +Gewinn) = Zielkosten$$
 ## Abnehmerorientierte
 >[!Summary]
->
-
+>Die abnehmerorientierte Preisbildung richtet sich nach der Zahlungsbereitschaft und dem wahrgenommenen Wert eines Produkts.
+- Bezugsgrößen sind das Preisverhalten 
 ### Abschöpfungsstrategie
 >[!summary]
 >Es wird ein hoher Anfangspreis gesetzt.
