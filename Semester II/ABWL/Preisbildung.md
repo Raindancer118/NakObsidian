@@ -22,8 +22,13 @@ $$\large Endpreis - (Handelspanne + MWST +Gewinn) = Zielkosten$$
 
 ### Abschöpfungsstrategie
 >[!summary]
->Es wird ein Hoher anfänglicher preisgese
+>Es wird ein hoher Anfangspreis gesetzt 
 
+>[!STRENGTHS]
+>
+
+>[!Weaknesses]
+>Kosten sind nicht Wettbewerbsfähig
 
 
 ## Wettbewerbsorientierte
