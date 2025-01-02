@@ -18,7 +18,7 @@
 - [ ] Internes Rechnungswesen  
   - [ ] Berechnung der Zuschlagssätze  
   - [x] [[Voll- und Teilkostenrechnung]]
-- [ ] Finanzplanung und -Kontrolle  
+- [ ] [[Finanzplanung]] und -Kontrolle  
   - [ ] Kennzahlenberechnung  
 - [ ] Fremdfinanzierung  
   - [ ] Finanzierungsdaten (Kurz & Lang)  
