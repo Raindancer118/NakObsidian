@@ -25,7 +25,7 @@ $$\large Endpreis - (Handelspanne + MWST +Gewinn) = Zielkosten$$
 >Es wird ein hoher Anfangspreis gesetzt 
 
 >[!STRENGTHS]
->
+>Die hohen einnahmen 
 
 >[!Weaknesses]
 >Kosten sind nicht Wettbewerbsfähig
