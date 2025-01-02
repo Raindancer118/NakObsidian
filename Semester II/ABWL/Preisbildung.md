@@ -45,5 +45,5 @@ $$\large Endpreis - (Handelspanne + MWST +Gewinn) = Zielkosten$$
 
 >[!Weaknesses]
 >- Einschränkung des Spielraums für Preisvariation.
->- 
+>- kann mit minderer Qualität assoziiert werden.
 
