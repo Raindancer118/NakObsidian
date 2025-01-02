@@ -33,5 +33,6 @@ $$\large Endpreis - (Handelspanne + MWST +Gewinn) = Zielkosten$$
 >Kosten sind nicht Wettbewerbsfähig
 ## Wettbewerbsorientierte
 
-
-
+>[!Summary]
+>Die Preise Orientieren sich an denen der Konkurrenten.
+>
