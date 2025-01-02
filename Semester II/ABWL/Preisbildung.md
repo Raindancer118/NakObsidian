@@ -36,3 +36,14 @@ $$\large Endpreis - (Handelspanne + MWST +Gewinn) = Zielkosten$$
 >[!Summary]
 >Die Preise Orientieren sich an denen der Konkurrenten.
 >
+
+### Niedrigpreispolitik 
+>[!STRENGTHS]
+>- Abschreckung von Konkurrenz. 
+>- Schnelle Erschließung eines großen Kundenpotenzials.
+>- Eintrittsbarriere für Nachahmer.
+
+>[!Weaknesses]
+>- Einschränkung des Spielraums für Preisvariation.
+>- 
+
