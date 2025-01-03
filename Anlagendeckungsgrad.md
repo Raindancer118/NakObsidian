@@ -18,5 +18,5 @@
 
 >[!FORMULA]
 >$$
->
+>\text{Anlagendeckungsgrad}=\frac{\text{Eigenkapital + langfr. Fremdkapital}}{\text{Anlagevermögen}}
 >$$
