@@ -4,5 +4,6 @@
 
 >[!FORMULA]
 >$$
->\text{Verschuldungsgrad}=\frac{}
+>\text{Verschuldungsgrad}=\frac{\text{Fremdkapital}}{\text{Eigenkapital}}
 >$$
+
