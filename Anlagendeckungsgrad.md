@@ -12,3 +12,11 @@
 >\text{Anlagendeckungsgrad}=\frac{\text{Eigenkapital}}{\text{Anlagevermögen}}
 >$$
 
+## Anlagendeckungsgrad 2: 
+>[!INFO] Definition
+>ADG 2 vergleicht zusätzlich zum Eigenkapital auch noch das langfristige Fremdkapital mit dem Anlagevermögen.
+
+>[!FORMULA]
+>$$
+>
+>$$
