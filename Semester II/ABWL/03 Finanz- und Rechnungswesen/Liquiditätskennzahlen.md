@@ -3,3 +3,4 @@
 ![[Quick Ratio#<font color = "orange">Quick Ratio</font>]]
 ![[Current Ratio#<font color = "orange">Current Ratio</font>]]
 
+
