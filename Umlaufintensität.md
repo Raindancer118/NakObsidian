@@ -4,3 +4,6 @@
 
 >[!FORMULA]
 >$$
+>\text{Umlaufintensität}=\frac{\text{Umlaufvermögen}}{\text{Gesamtvermögen}}
+>$$
+
