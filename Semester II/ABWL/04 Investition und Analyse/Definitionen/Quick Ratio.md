@@ -4,3 +4,4 @@
 >
 >Die Quick-Ratio sollte dabei möglichst über 100% liegen.
 
+ 
