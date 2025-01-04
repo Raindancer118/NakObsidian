@@ -18,7 +18,7 @@
 >**Private Key:**
 >$(n,d)$
 
-#### <font color = "orange">Was bedeuten die Variablen?</font>
+#### <font color = "orange">Was bedeuten die [[Variablen]]?</font>
 $c$ ist die **verschlüsselte Nachricht**, während $m$ die **entschlüsselte Nachricht** ist. $e$ ist eine **teilerfremde Zahl** von **Phi($n$)**. Meist ist $e$ allerdings gegeben.
 
 >[!Definition]

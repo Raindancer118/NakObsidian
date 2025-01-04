@@ -7,7 +7,7 @@ Welchen Prozentanteil hat das Fremdkapital am Gesamtkapital.
 >[!summary]
 >Welchen Prozentanteil hat das Eigenkapital am Gesamtkapital. 
 
-## Verschuldungsgrad
+## [[Verschuldungsgrad]]
 >[!summary]
 >Wie stark ist das unternehmen verschuldet.
 >

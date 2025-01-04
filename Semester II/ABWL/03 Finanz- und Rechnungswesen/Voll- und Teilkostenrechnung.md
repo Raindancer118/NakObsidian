@@ -19,7 +19,7 @@
 >    Heißt ein Produkt welches viele Fixkosten trägt könnte als Gewinn mindern gesehen werden und somit eliminiert werden. Dadurch müssen die anderen Produkte mehr Fixe kosten tragen und sind unprofitabel. 
 ## Teilkostenrechnung
 >[!INFO] Definition
->Es werden nur die Variablen kosten die ein Produkt verursacht auf das Produkt gerechnet, die Fixen kosten werden separat verrechnet.
+>Es werden nur die [[Variablen]] kosten die ein Produkt verursacht auf das Produkt gerechnet, die Fixen kosten werden separat verrechnet.
 ### Vorteil 
 >[!STRENGTHS]
 >- Verbessert die Kostentransparenz und - kontrolle

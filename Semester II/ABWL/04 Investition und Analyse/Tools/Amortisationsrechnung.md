@@ -4,6 +4,6 @@
 
 >[!FORMULA] Amortisationszeit
 >$$
->\frac{\text{Kapitaleinsatz}}{\text{Gewinn + Abschreibungen}}
+>\frac{\text{Kapitaleinsatz}}{\text{[[Gewinn]] + [[Abschreibungen]]}}
 >$$
 

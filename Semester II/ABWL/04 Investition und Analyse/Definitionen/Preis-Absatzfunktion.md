@@ -5,7 +5,7 @@ aliases:
 >[!INFO] **DEFINITION**
 >Die Preis-Absatzfunktion beschreibt den Funktionalen Zusammenhang zwischen Preis $p$ und Menge $x$.
 
-## Variablen
+## [[Variablen]]
 - $p$ = Preis
 - $x$ = Menge
 - $a$ = Höchstpreis

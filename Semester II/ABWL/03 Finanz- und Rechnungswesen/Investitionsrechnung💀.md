@@ -20,7 +20,7 @@ Eine Investition mit der Absicht Kosten zu senken.
 - Effektive Nutzungsdauern bleiben unberücksichtigt, dadurch systematische Unterbewertung längerfristiger Investitionen
 
 
-### **Kostenvergleichsrechnung** 
+### **[[Kostenvergleichsrechnung]]** 
 
 >[!summary]
 >Ermittelt die Kosten von mehreren Investitionsprojekten und stellt diese gegenüber bezogen auf einen gewissen Zeitabschnitt.
@@ -57,7 +57,7 @@ Eine Investition mit der Absicht Kosten zu senken.
 #### Nachteile
 - Erlösseite wird komplett außen vor gelassen. Selbst bei der kostengünstigsten Alternative bleibt es ungewiss, ob ein Gewinnbeitrag generiert wird.
 - Mögliche Kostenveränderungen während der Nutzungsdauer, wie z.B. Lohnerhöhungen oder Zinsschwankungen werden nicht berücksichtigt.
-### **Gewinnvergleichsrechnung**
+### **[[Gewinnvergleichsrechnung]]**
 
 
 >[!summary]
@@ -98,7 +98,7 @@ Eine Investition mit der Absicht Kosten zu senken.
 #### Nachteile
 - Gewinnermittlung praktisch häufig sehr schwierig. 
 - Mögliche Kosten- und Erlösveränderungen während der Nutzungsdauer, wie z.B. Preisveränderungen, Lohnerhöhungen oder Zinsschwankungen werden nicht berücksichtigt
-### **Rentabilitätsrechnung**
+### **[[Rentabilitätsrechnung]]**
 
 >[!summary]
 >Wird verwendet um die [[Rendite]] von Investitionsprojekten zu berechnen und diese zu vergleichen.
@@ -119,7 +119,7 @@ Eine Investition mit der Absicht Kosten zu senken.
 - Mögliche Kosten- und Erlösveränderungen während der Nutzungsdauer werden nicht berücksichtigt 
 - Kapitalbindung und alternativer Kapitaleinsatz bleiben unberücksichtigt
 
-### **Amortisationsrechnung**
+### **[[Amortisationsrechnung]]**
 auch Pay-back-Methode oder Pay-off-Methode genannt.
 
 >[!summary]

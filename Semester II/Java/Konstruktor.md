@@ -35,7 +35,7 @@ private int size;
 
 // Konstruktor:
 public Apple(boolean halfEaten, int size) {
-// Zuweisung der Variablen innerhalb des Konstruktors:
+// Zuweisung der [[[[Variablen]]]] innerhalb des Konstruktors:
 this.halfEaten = halfEaten;
 this.size = size;
 }

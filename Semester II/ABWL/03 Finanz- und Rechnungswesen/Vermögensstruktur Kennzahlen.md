@@ -3,10 +3,10 @@
 ## [[Investitionsverhältnis]]
 >[!summary]
 >Das verhältnis zwischen [[Umlaufvermögen]] und [[Anlagevermögen]].
-## Umlaufintensität
+## [[Umlaufintensität]]
 >[!summary]
 >wie viel prozent vom gesamtvermögen das [[Umlaufvermögen]] ausmacht.
-## Anlageintensität
+## [[Anlageintensität]]
 >[!summary]
 >wie viel prozent vom gesamtvermögen das [[Anlagevermögen]] ausmacht.
 

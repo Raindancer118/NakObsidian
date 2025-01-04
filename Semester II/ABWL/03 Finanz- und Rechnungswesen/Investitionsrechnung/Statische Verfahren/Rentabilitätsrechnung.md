@@ -2,7 +2,7 @@
 >[!INFO] Definition
 >Es wird aus mehreren Optionen diejenige mit der **höchsten Rentabilität** herausgesucht.
 
-Dabei wird zusätzlich zur Gewinnvergleichsrechnung das eingesetzte Kapital in Beziehung zum durchschnittlichen Gewinn gebracht.
+Dabei wird zusätzlich zur [[Gewinnvergleichsrechnung]] das eingesetzte Kapital in Beziehung zum durchschnittlichen Gewinn gebracht.
 
 Wird nur eine Option beurteilt, vergleicht man die Rentabilität mit einer bestimmten Mindest-Rentabilität.
 

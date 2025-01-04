@@ -20,12 +20,12 @@
   - [x] [[Voll- und Teilkostenrechnung]]
 - [ ] [[Finanzplanung]] und -Kontrolle  
   - [ ] Kennzahlenberechnung  
-- [ ] Fremdfinanzierung  
+- [ ] [[Fremdfinanzierung]]  
   - [ ] Finanzierungsdaten (Kurz & Lang)  
 
 # <font color="#6292ff">Investition und Analyse</font>
 - [x] [[Investitionsrechnung💀]]  
-  - [x] Kostenvergleichsrechnung  
+  - [x] [[Kostenvergleichsrechnung]]  
     - [x] [[Gewinn]]  
     - [x] [[Rentabilität]]  
     - [x] Amortisation  
