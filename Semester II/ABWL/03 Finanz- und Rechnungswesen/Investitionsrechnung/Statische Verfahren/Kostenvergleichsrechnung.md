@@ -36,3 +36,4 @@ $$
 >$$
 
 ![[Variablen#Investitionsrechnung]]
+
