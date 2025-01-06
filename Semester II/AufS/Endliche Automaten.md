@@ -9,3 +9,15 @@ Hier ein Beispiel für einen endlichen Automaten:
 Dabei wird jeder Zustand nur einmal aufgelistet.
 
 Endlich heißt dabei, dass jede Möglichkeit hingeschrieben werden kann.
+
+# Deterministische Endliche Zustandsautomaten
+Diese sind ein *Quintupel* bestehend aus: 
+$$
+(\sum,S,\delta,s_0,F)
+$$
+$\sum$ bezeichnet dabei das [[Alphabete|Eingabealphabet]].
+$S$ ist die [[Zustandsmenge]]
+$\delta : S*\sum -> S$ ist die [[Zustandsüberführungsfunktion]].
+$S_0$ ist der Startzustand.
+$F$ ist ein Endzustand.
+
