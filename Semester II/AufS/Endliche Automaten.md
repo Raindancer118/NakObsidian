@@ -21,3 +21,5 @@ $\delta : S*\sum -> S$ ist die [[Zustandsüberführungsfunktion]].
 $S_0$ ist der Startzustand.
 $F$ ist ein Endzustand.
 
+# Generelle Informationen
+Es gibt endliche Automaten, die einen Speicher haben.
