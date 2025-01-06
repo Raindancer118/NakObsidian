@@ -19,7 +19,7 @@ aliases:
 >   [[Double]]
 >1. [[ArrayList]]
 >2. [[Array]]
->3. [[Interface]]
+>3. [[Semester II/Java/Interface]]
 >4. [[Klasse|Class]]
 >5. [[Char]]
 
