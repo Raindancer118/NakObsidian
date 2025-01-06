@@ -1,0 +1,2 @@
+# <font color = "orange">IEEE 802</font>
+Das *Institute of Electrical and Electronics Engineers* ist dafür zuständig, verschiedene Standards über lokale Netze unter der Standardisierungsnummer 802 zu definieren.
