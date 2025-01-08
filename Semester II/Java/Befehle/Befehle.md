@@ -9,10 +9,10 @@
 >[[Import|import]]
 
 >[!INFO] **Collections**
->[[.add()]]
->[[.contains()]]
->[[.remove()]]
->[[.equals()]]
+>.add()
+>.contains()
+>.remove()
+>.equals()
 
 [[.next()]]
 [[.hasNext()]]
