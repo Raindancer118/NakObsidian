@@ -9,5 +9,6 @@ Constraints können als Spalten- oder auch Tabellen-Constraints angelegt werden.
 ## CONSTRAINT-SYNTAX:
 ```
 [CONSTRAINT <name>] <bedingung>
-bedingung
+<bedingung> := CHECK (<boolsche_bedingung>)
 ```
+
