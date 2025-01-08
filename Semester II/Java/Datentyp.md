@@ -8,7 +8,7 @@ aliases:
 ## <font color = "orange">Datentyp</font>
 
 >[!SUMMARY]
->Daten von [[Variable|Variablen]] oder auch [[Parameter|Parametern]] besitzen einen bestimmten Typ. Damit [[Methode|Methoden]] wissen, welchen genau sie verarbeiten sollen, existieren Datentypen, die **vor der [[Variable]]** angegeben werden.
+>Daten von [[Programmierung - Variable|Variablen]] oder auch [[Parameter|Parametern]] besitzen einen bestimmten Typ. Damit [[Methode|Methoden]] wissen, welchen genau sie verarbeiten sollen, existieren Datentypen, die **vor der [[Programmierung - Variable]]** angegeben werden.
 
 >[!IMPORTANT]
 >**Datentypen:**

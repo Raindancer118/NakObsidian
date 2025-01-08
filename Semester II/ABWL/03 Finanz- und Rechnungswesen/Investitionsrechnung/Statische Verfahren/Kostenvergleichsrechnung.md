@@ -35,5 +35,5 @@ $$
 >K = K_b + \frac{I-L}{n}+\frac{I+L}{2}+\frac{p}{100}+K_s
 >$$
 
-![[Variablen#Investitionsrechnung]]
+![[Investitionsrechnung - Variablen#Investitionsrechnung]]
 

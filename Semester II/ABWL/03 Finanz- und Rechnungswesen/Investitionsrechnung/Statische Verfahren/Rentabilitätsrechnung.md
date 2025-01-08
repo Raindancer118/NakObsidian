@@ -12,7 +12,7 @@ Wird nur eine Option beurteilt, vergleicht man die Rentabilität mit einer besti
 >\text{Rentabilität} = \frac{\text{Gewinn}}{\text{eingesetztes Kapital}}*100 = \frac{G}{\frac{I+L}{2}}*100
 >$$
 
-![[Variablen#Investitionsrechnung]]
+![[Investitionsrechnung - Variablen#Investitionsrechnung]]
 
 >[!STRENGTHS]
 >- Einfach

@@ -17,7 +17,7 @@ aliases:
 >Interfaces unterscheiden sich von [[Abstrakte Klasse|Abstrakten Klassen]] dadurch, dass Interfaces einen Schnittstellenvertrag bilden, der den [[Klasse|Klassen]] vorgibt, welche [[Methode|Methoden]] sie zu implementieren haben, aber nicht genau, wie. So machen Interfaces [[Klasse|Klassen]] vergleichbar und [[polymorph]].
 
 >[!WARNING]
->Interfaces **können KEINE [[Exemplarvariable|Exemplarvariablen]] haben.** Interfaces können nur [[Konstante|Konstanten]] haben, also [[Variable|Variablen]] mit den Modifikatoren **public static final**.
+>Interfaces **können KEINE [[Exemplarvariable|Exemplarvariablen]] haben.** Interfaces können nur [[Konstante|Konstanten]] haben, also [[Programmierung - Variable|Variablen]] mit den Modifikatoren **public static final**.
 
 >[!EXAMPLE]
 >*public interface IPost{

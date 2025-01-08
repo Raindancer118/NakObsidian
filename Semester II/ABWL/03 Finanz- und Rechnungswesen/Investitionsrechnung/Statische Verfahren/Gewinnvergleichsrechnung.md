@@ -19,7 +19,7 @@ Es werden in die Rechnung aufgenommen:
 >G = E - K = px - K_b - K_a - K_z - K_s
 >$$
 
-![[Variablen#Investitionsrechnung]]
+![[Investitionsrechnung - Variablen#Investitionsrechnung]]
 
 >[!Danger] Hier steht allerdings $p$ für **Preis pro Stück**.
 
