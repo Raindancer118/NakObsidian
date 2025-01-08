@@ -12,3 +12,8 @@ Constraints können als Spalten- oder auch Tabellen-Constraints angelegt werden.
 <bedingung> := CHECK (<boolsche_bedingung>)
 ```
 
+## ForeignKey-CONSTRAINTS
+- `ON DELETE CASCADE`
+- `ON DELETE RESTRICT`
+- `ON DELETE SET NULL`
+- `ON DELETE SET DEFAULT`

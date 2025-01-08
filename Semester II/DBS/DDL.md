@@ -41,4 +41,3 @@ Hier gibt es verschiedene Optionen:
 - `MODIFY <spaltenname> <datentyp>`
 
 >[!HINT] `DROP` löscht die gesamte Tabelle, inklusive der Struktur, während `DELETE` nur die Daten innerhalb der Tabelle löscht.
-
