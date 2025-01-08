@@ -7,4 +7,6 @@ Das DBMS stellt die Tools zur Verfügung, die Nutzer benötigen, um Änderungen 
 
 Zudem versucht das System, eine Speicherung von redundanten Daten zu vermeiden sowie dafür zu sorgen, dass keine logischen Fehler auftreten.
 
-Mithilfe bestimmter Kategorien werden Daten sortiert und geordnet, sodass eine einfache Filterung und Suche möglich ist. Je nach Nutzer sollten auch unterschiedliche Ansichten, also unterschiedliche Auswahlen der Daten verfügbar sein
+Mithilfe bestimmter Kategorien werden Daten sortiert und geordnet, sodass eine einfache Filterung und Suche möglich ist. Je nach Nutzer sollten auch unterschiedliche Ansichten, also unterschiedliche Auswahlen der Daten verfügbar sein. Gleichzeitig hat jeder Nutzer bestimmte Zugriffsrechte auf die Datenbank, sodass nicht jeder Nutzer alles, sondern nur bestimmte Dinge tun kann.
+
+Weiterhin stellt das DBMS 
