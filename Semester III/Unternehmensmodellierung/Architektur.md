@@ -15,5 +15,3 @@
 >- Wartbarkeit
 >- Stabilität
 >- Erweiterbarkeit
-
-test
