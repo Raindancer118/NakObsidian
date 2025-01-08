@@ -5,7 +5,7 @@ aliases:
 ---
 # <font color = "orange">SQL Datentypen</font>
 >[!INFO] Definition
->SQL benötigt bestimmte Datentypen, in denen Daten zu speichern sind. Diese sind hier aufgelistet, allerdings mit einem Blick auf ORACLE Datenbanken.
+>SQL benötigt bestimmte Datentypen, in denen Daten zu speichern sind. Diese sind hier aufgelistet, allerdings mit einem Blick auf ORACLE [[Datenbanken]].
 
 ## Ganze Zahlen
 - SMALLINT
@@ -31,4 +31,4 @@ aliases:
 - BLOB
 	*BLOB steht dafür für **B**inary **L**arge **OB**ject*.
 ### Andere Datentypen
-Es ist möglich, in Datenbanken andere Datentypen zu definieren. Dabei muss allerdings aufgepasst werden, dass nicht gegen die [[1. Normalform]] verstoßen wird.
+Es ist möglich, in [[Datenbanken]] andere Datentypen zu definieren. Dabei muss allerdings aufgepasst werden, dass nicht gegen die [[Normalformen#1. Normalform|1. Normalform]] verstoßen wird.

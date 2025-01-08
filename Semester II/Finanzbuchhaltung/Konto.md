@@ -8,7 +8,7 @@ aliases:
 >Ein Konto ist kein im urspünglichen Sinne gemeintes Konto, sondern kommt vom italienischen Wort "Conto", was so viel wie **Rechung** bedeutet.
 
 >[!HINT]
->Ein Konto ist eine *Mini-[[Bilanz]]*. Statt *[[Aktiv]]* und *[[Passiv]]* heißen die Seiten hier *[[Soll]]* und *[[Haben]]*.
+>Ein Konto ist eine *Mini-[[Bilanz]]*. Statt *[[Aktiv]]* und *[[Passiv]]* heißen die Seiten hier *[[FiBu - Soll]]* und *[[FiBu - Haben]]*.
 >Auch auf einem Konto müssen beide Seiten **immer ausgeglichen** sein.
 
 #### <font color = "orange">Arten von Konten</font>

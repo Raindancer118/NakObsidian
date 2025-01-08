@@ -11,7 +11,7 @@ aliases:
 >Interfaces müssen [[Implementierung|implementiert]] werden. Hat eine [[Klasse]] ein Interface implementiert, muss sie **alle** [[Methode|Methoden]] daraus verwenden!
 
 >[!HINT]
->Interfaces werden benannt, indem ein **"I" vor den Namen des [[Datentyp|Datentyps]] gehängt wird, der verarbeitet werden soll**.
+>Interfaces werden benannt, indem ein **"I" vor den Namen des [[Java - Datentyp|Datentyps]] gehängt wird, der verarbeitet werden soll**.
 
 >[!INFO]
 >Interfaces unterscheiden sich von [[Abstrakte Klasse|Abstrakten Klassen]] dadurch, dass Interfaces einen Schnittstellenvertrag bilden, der den [[Klasse|Klassen]] vorgibt, welche [[Methode|Methoden]] sie zu implementieren haben, aber nicht genau, wie. So machen Interfaces [[Klasse|Klassen]] vergleichbar und [[polymorph]].

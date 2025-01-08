@@ -18,7 +18,7 @@
 	- Build-Tools
 	- [[Errorhandling]]
 	- [[Generics]], [[File Handling]]
-	- [[Klasse]], [[Objekt]] & [[Collections]]
+	- [[Klasse]], [[Java - Objekt]] & [[Collections]]
 	- Multi Threading
 	- [[Lambda|Lambdas]] & [[Stream]]
 	- [[GUI]]

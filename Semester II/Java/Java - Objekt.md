@@ -6,7 +6,7 @@ aliases:
 ## <font color = "orange">Objekt</font>
 
 >[!SUMMARY]
->Ein Objekt ist **eine [[Instanz]] einer [[Klasse]]** und somit ein **Vertreter des entsprechenden [[Datentyp|Datentyps]].
+>Ein Objekt ist **eine [[Instanz]] einer [[Klasse]]** und somit ein **Vertreter des entsprechenden [[Java - Datentyp|Datentyps]].
 >Objekte werden über einen [[Konstruktor]] der jeweiligen [[Klasse]] erstellt.**
 
 >[!WARNING]

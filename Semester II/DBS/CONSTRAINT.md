@@ -1,6 +1,6 @@
 # <font color = "orange">CONSTRAINT</font>
 >[!INFO] Definition
->Constraints erlauben das Festlegen von Bedingungen für Manipulationen. Diese werden vor der Änderung überprüft. Dies ist für jede schreibende Änderung der Datenbank gültig.
+>Constraints erlauben das Festlegen von Bedingungen für Manipulationen. Diese werden vor der Änderung überprüft. Dies ist für jede schreibende Änderung der [[Datenbanken|Datenbank]] gültig.
 
 Der Wert im Constraint muss immer angegeben werden. Dabei darf er nicht als `NULL` festgelegt werden. 
 

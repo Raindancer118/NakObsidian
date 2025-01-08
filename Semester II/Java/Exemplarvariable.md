@@ -5,7 +5,7 @@ aliases:
 ## <font color = "orange">Exemplarvariable</font>
 
 >[!SUMMARY]
->Exemplarvariablen **bestimmen den [[Zustand]] eines [[Objekt|Objektes]]** oder geben die Möglichkeit, **[[Datentyp|Daten]] methodenübergreifend zu speichern**.
+>Exemplarvariablen **bestimmen den [[Zustand]] eines [[Java - Objekt|Objektes]]** oder geben die Möglichkeit, **[[Java - Datentyp|Daten]] methodenübergreifend zu speichern**.
 
 >[!HINT]
 >Exemplarvariablen stehen **zwischen [[Klassenkopf]] und [[Konstruktor]]**. 

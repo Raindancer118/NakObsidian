@@ -12,7 +12,7 @@
 >- **Höhere Komplexität**
 >- Durch notwendige Zusammenführung evtl **Performance-Einbußen**
 ## 1. Normalform
-Die erste Normalform gilt als erfüllt, wenn die Werte der Tabellen einer Datenbank ausschließlich in atomarer Form vorliegen, also **ein Wert pro Zelle**, nicht mehr.
+Die erste Normalform gilt als erfüllt, wenn die Werte der Tabellen einer [[Datenbanken|Datenbank]] ausschließlich in atomarer Form vorliegen, also **ein Wert pro Zelle**, nicht mehr.
 ## 2. Normalform
 Die zweite Normalform gilt als erfüllt, wenn die Tabelle in [[#1. Normalform]] ist und zudem jeder Wert, der nicht als [[Schlüsselattribut]] fungiert, voll funktional von einem [[Schlüsselattribut]] abhängig ist.
 >[!HOWTO] Wie?

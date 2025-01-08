@@ -5,7 +5,7 @@ aliases:
 ## <font color = "orange">Methode</font>
 
 >[!SUMMARY]
->Methoden erlauben uns, das [[Verhalten]] von [[Objekt|Objekten]] zu kontrollieren oder bestimmte Operationen auszuführen.
+>Methoden erlauben uns, das [[Verhalten]] von [[Java - Objekt|Objekten]] zu kontrollieren oder bestimmte Operationen auszuführen.
 
 >[!INFO]
 >Die **Main-Methode** ist eine spezielle Methode, die das Programm in gängigen [[IDE|IDEs]] erst ausführbar macht.

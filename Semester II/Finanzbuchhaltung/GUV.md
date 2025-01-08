@@ -21,7 +21,7 @@ Ein Gewinn würde die Bilanzposition Eigenkapital erhöhen, ein Verlust das Eige
 **Zum [[Jahresabschluss]] wird das GuV im [[Eigenkapital]] abgerechnet. Dafür wird eine [[Buchung]] vom GuV ans [[Eigenkapital]] erstellt.**
 
 >[!HINT]
->**[[Gewinn]] steht im GuV auf der [[Soll]] und [[Verlust]] auf der [[Haben]]-Seite.** 
+>**[[Gewinn]] steht im GuV auf der [[FiBu - Soll]] und [[Verlust]] auf der [[FiBu - Haben]]-Seite.** 
 >Dadurch wird auch dieses [[Konto]] ausgeglichen, da sonst die Seiten ja ungleich wären.
 
 >[!Example]
