@@ -10,4 +10,4 @@ CREATE TABLE <tabellenname> (<attributsname> <datentyp>, ..., <attributsname> <d
 ```
 
 #### Tabellennamen
-Tabellennamen dürfen maximal 30 Zeichen beinhalten.
+Tabellennamen dürfen maximal 30 Zeichen in Buchstaben und Zahlen beinhalten, sollten aber mit einem Buchstaben beginnen.
