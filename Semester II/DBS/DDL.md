@@ -6,5 +6,8 @@
 
 ## Erstellen von Tabellen
 ```
-CREATE TABLE <tabellenname> (<attributsname> <datentyp)
+CREATE TABLE <tabellenname> (<attributsname> <datentyp>, ..., <attributsname> <datentyp>) 
 ```
+
+#### Tabellennamen
+Tabellennamen dürfen maximal 30 Zeichen beinhalten.
