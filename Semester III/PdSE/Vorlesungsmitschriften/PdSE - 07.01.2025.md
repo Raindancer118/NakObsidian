@@ -13,12 +13,12 @@
 	- Wie gut getestet?
 	- Wie modular?
 - Themenübersicht:
-	- IntelliJ
-	- Arbeiten im Team mit Git
+	- [[IntelliJ]]
+	- Arbeiten im Team mit [[Git]]
 	- Build-Tools
-	- Errorhandling
-	- Generics, File Handling
-	- Klasse, Objekt & Collections
+	- [[Errorhandling]]
+	- [[Generics]], [[File Handling]]
+	- [[Klasse]], [[Objekt]] & [[Collections]]
 	- Multi Threading
-	- Lambdas & Stream
-	- Graphische Oberflächen
+	- [[Lambda|Lambdas]] & [[Stream]]
+	- [[GUI]]
