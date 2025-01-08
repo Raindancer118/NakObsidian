@@ -17,3 +17,28 @@ CREATE TABLE <tabellenname> (<attributsname> <datentyp>, ..., <attributsname> <d
 Die Zahlen in den runden Klammern hinter den Datentypen bedeuten in diesem Zusammenhang die maximale Anzahl Zeichen, die in dem jeweiligen Feld verarbeitet werden.
 #### Tabellennamen
 Tabellennamen dürfen maximal 30 Zeichen in Buchstaben und Zahlen beinhalten, sollten aber mit einem Buchstaben beginnen.
+
+## Tabelleneigenschaften ändern
+```
+ALTER TABLE <tabellenname>
+```
+
+Hier gibt es verschiedene Optionen:
+- `ADD <spaltenname> <datentyp>`
+- `RENAME COLUMN <spaltenname> TO <neuerSpaltenname>`
+- `DROP <PRIMARY KEY>`
+	- `UNIQUE (<spaltenliste>)`
+	- `CONSTRAINT <constraintname>`
+	- `COLUMN <spaltenname>`
+- `DISABLE <PRIMARY KEY>`
+	- `UNIQUE (<spaltenliste>)`
+	- `CONSTRAINT <constraintname>`
+	- `ALL TRIGGERS`
+- `ENABLE <PRIMARY KEY>`
+	- `UNIQUE (<spaltenliste>)`
+	- `CONSTRAINT <constraintname>`
+	- `ALL TRIGGERS`
+- `MODIFY <spaltenname> <datentyp>`
+
+>[!HINT] `DROP` löscht die gesamte Tabelle, inklusive der Struktur, während `DELETE` nur die Daten innerhalb der Tabelle löscht.
+
