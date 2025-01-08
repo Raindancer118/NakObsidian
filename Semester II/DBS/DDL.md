@@ -26,7 +26,7 @@ ALTER TABLE <tabellenname>
 Hier gibt es verschiedene Optionen:
 - `ADD <spaltenname> <datentyp>`
 - `RENAME COLUMN <spaltenname> TO <neuerSpaltenname>`
-- `DROP PRIMARY KEY`
+- `DROP PRIMARY KEY` ^3a9948
 	- `UNIQUE (<spaltenliste>)`
 	- `CONSTRAINT <constraintname>`
 	- `COLUMN <spaltenname>`
