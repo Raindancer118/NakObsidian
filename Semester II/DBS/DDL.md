@@ -26,15 +26,15 @@ ALTER TABLE <tabellenname>
 Hier gibt es verschiedene Optionen:
 - `ADD <spaltenname> <datentyp>`
 - `RENAME COLUMN <spaltenname> TO <neuerSpaltenname>`
-- `DROP <PRIMARY KEY>`
+- `DROP PRIMARY KEY`
 	- `UNIQUE (<spaltenliste>)`
 	- `CONSTRAINT <constraintname>`
 	- `COLUMN <spaltenname>`
-- `DISABLE <PRIMARY KEY>`
+- `DISABLE PRIMARY KEY`
 	- `UNIQUE (<spaltenliste>)`
 	- `CONSTRAINT <constraintname>`
 	- `ALL TRIGGERS`
-- `ENABLE <PRIMARY KEY>`
+- `ENABLE PRIMARY KEY`
 	- `UNIQUE (<spaltenliste>)`
 	- `CONSTRAINT <constraintname>`
 	- `ALL TRIGGERS`
