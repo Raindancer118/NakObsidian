@@ -6,7 +6,7 @@ Der Wert im Constraint muss immer angegeben werden. Dabei darf er nicht als `NUL
 
 Constraints können als Spalten- oder auch Tabellen-Constraints angelegt werden.
 
-## CONSTRAINT-SYNTAX:
+## CONSTRAINTS ANLEGEN
 ```
 [CONSTRAINT <name>] <bedingung>
 <bedingung> := CHECK (<boolsche_bedingung>)
@@ -23,6 +23,7 @@ Dabei gibt es vier Optionen:
 	*Diese Option setzt den Wert, von dem der Foreign-Key ausgeht, auf 0, falls das Ziel gelöscht wird.*
 - `ON DELETE SET DEFAULT`
 	*Diese Option setzt den Wert, von dem der Foreign-Key ausgeht, auf einen Standard-Wert. Dies könnte genutzt werden, um beispielsweise einen Wert zu hinterlegen, der anmerkt, dass das Ziel der Verknüpfung gelöscht wurde.*
+
 >[!HOWTO] `ON DELETE`-Statements löschen
 >`ON DELETE`-Statements können gelöscht werden, indem dafür ein [[DDL#^3a9948|ALTER TABLE <tabellenname> DROP]] verwendet wird.
 
