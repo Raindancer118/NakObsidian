@@ -1,3 +1,4 @@
+# <font color = "orange">AufS - 06.01.2025</font>
 - zweite Vorlesung am Freitag
 - Insgesamt 9 Veranstaltungen
 - Abschluss mit Klausur am Anfang zu Q2
