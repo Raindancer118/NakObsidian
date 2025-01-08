@@ -5,5 +5,6 @@
    - Ästhetik
    - Standardisiert
    - Berücksichtigung von Anforderungen
-2. Die Unternehmensarchitektur setzt die verschiedenen Geschäftsbereiche in Verbindung und betrachtet dabei deren Zusammenarbeit. Dies soll dafür sorgen, dass die IT effizienter unterstützen kann. Insgesamt soll ein Überblick über die Struktur des Unternehmens geschaffen werden, um so einen strategische Vorteil zu erhalten.
+2. Die Unternehmensarchitektur setzt die verschiedenen Geschäftsbereiche in Verbindung und betrachtet dabei deren Zusammenarbeit. Insgesamt soll ein Überblick über die Struktur des Unternehmens geschaffen werden, um so einen strategische Vorteil zu erhalten.
 3. Enterprise Architecture Management beschreibt die Gestaltung von Unternehmen und ihren Geschäftsbeziehungen. Dabei ist die Verwaltung, Steuerung und Optimierung der Enterprise Architecture die Hauptaufgabe.
+4. 
