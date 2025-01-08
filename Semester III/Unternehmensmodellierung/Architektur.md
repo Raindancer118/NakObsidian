@@ -11,7 +11,7 @@
 >- Barrierefreiheit
 >- Sicherheit
 >- Innovation
->- Flexibilität
+>- Flexibilität, Skalierbarkeit
 >- Wartbarkeit
 >- Stabilität
 >- Erweiterbarkeit
