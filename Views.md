@@ -12,5 +12,19 @@
 ```
 CREATE VIEW <viewname> [(spaltennamen)] AS <abfrage>
 ```
+*abfrage* ist dabei eine beliebige Abfrage, die wie ein [[SELECT]]-Statement funktioniert.
+
+>[!WARNING] *[[ORDER BY]]* darf jedoch nicht in Views verwendet werden.
 
 >[!EXAMPLE] 
+>```
+>CREATE VIEW Leichtteile AS 
+>SELECT TeilNr, Bezeichnung, Material, Gewicht 
+>FROM Teile 
+>WHERE Gewicht < 10 ;
+>```
+
+## Löschen von Views
+```
+DROP VIEW <viewname>
+```
