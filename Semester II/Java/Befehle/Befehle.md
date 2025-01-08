@@ -14,8 +14,8 @@
 >.remove()
 >.equals()
 
-[[.next()]]
-[[.hasNext()]]
-[[System.out.println()]]
-[[System.out.print()]]
+.next()
+.hasNext()
+System.out.println()
+System.out.print()
 
