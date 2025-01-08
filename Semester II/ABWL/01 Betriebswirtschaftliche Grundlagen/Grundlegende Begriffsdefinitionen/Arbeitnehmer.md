@@ -6,4 +6,4 @@ aliases:
   - Arbeitskräfte
   - Arbeitskraft
 ---
-#tbd 
+#empty 

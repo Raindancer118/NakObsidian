@@ -3,4 +3,4 @@ aliases:
   - Gutes
   - Gut
 ---
-#tbd
+#empty
