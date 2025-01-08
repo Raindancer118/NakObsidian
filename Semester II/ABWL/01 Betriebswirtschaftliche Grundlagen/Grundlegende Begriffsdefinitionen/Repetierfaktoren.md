@@ -3,4 +3,4 @@ aliases:
   - Werkstoff
   - Werkstoffe
 ---
-#tbd
+#empty
