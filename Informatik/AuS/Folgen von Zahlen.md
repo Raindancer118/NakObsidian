@@ -1,5 +1,17 @@
 # <font color = "orange">Folgen von Zahlen</font>
->[!INFO] Definition
+>[!INFO] Definition "Folge"
+>Eine Folge ist eine Funktion einer [[DM II - Abbildung|Abbildung]] von $\mathbb{N}$ in $\mathbb{R}$.
+>
+>**Schreibweise**
+>Aufzählend: $(\frac{1}{2},\frac{1}{2^2},\frac{1}{2^3},\dots)$         $a_n:=\frac{1}{2^n}$
+>Nicht aufzählend: $(a_n)_{n\in\mathbb{N}}$
+>
+>**Folgenglieder**
+>Die Reellen Zahlen $a_n:=f(n)$ heißen Glieder der Folge.
+>Die Menge, die ausschließlich die Folgenglieder enthält, heißt *Menge der Folgenglieder* einer Folge f, dies wäre also: $\{a_{i_1},a_{i_2},a_{i_3}\}$
+>>[!WARNING] Eigentlich richtig wäre hier "Menge der Folgengliederwerte".
+>
+>Es ist auch zugelassen, dass der Index einer Folge auch mit $0$ oder $n>1$ beginnen kann. 
 
 >[!EXAMPLE] Aktienkurse
 >Aktienkurse sind eigentlich eine Folge von Werten, keine kontinuierliche Kurve.
@@ -15,4 +27,8 @@
 >*Welche Tendenz ergibt sich? -> 1 oder -> 2?*
 >*Annahme: Die Folge der $a_n$ nähren sich immer mehr einer (unbekannten) Zahl $a$.*
 
-
+>[!FORMULA] Fibonacci-Zahlen
+>Die Fibonacci-Zahlen sind eine besondere Folge von Zahlen, die sich anhand der folgenden Formel errechnen lassen:
+>$f_0=0$
+>$f_1=1$
+>$f_n=f_{n-1}+f_{n-2}$ n ist dabei größer gleich 2
