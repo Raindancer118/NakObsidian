@@ -2,7 +2,10 @@
 aliases:
   - Zahlensysteme
 ---
-# Zahlenbereiche
+# <font color = "orange">Zahlensysteme</font>
+>[!INFO] Definition
+>
+## Zahlenbereiche
 >[!FORMULA] Natürliche Zahlen
 $\mathbb{N} := \{1,2,3,4,\dots\}$
 
@@ -18,17 +21,17 @@ $\mathbb{N} := \{1,2,3,4,\dots\}$
 >[!FORMULA] Rationale Zahlen
  $\mathbb{R} := \mathbb{Q} \text{ } \cup$ Menge der irrationalen Zahlen
 
-# Teilmengennotation
+## Teilmengennotation
 >[!FORMULA] Echte Teilmenge
 $A \subset B$ 
 
 >[!FORMULA] Echte oder unechte Teilmenge
 >$A \subseteq B$
 
-# Mächtigkeit
+## Mächtigkeit
 $M:=\{1,2,3\}$ Die Mächtigkeit der Menge $M$ ist dementsprechend $|M| = 3$.
 
-# Betrag
+## Betrag
 >[!HINT] Fallunterscheidung
 >Falls ein Betrag auftritt muss direkt eine Fallunterscheidung gemacht werden:
 >$|a-x| =$
@@ -39,6 +42,6 @@ $M:=\{1,2,3\}$ Die Mächtigkeit der Menge $M$ ist dementsprechend $|M| = 3$.
 >Fall 1: $a-x<\varepsilon$ <=> $a-\varepsilon<x$
 >Fall 2: $-(a-x)<\varepsilon$ <=> $x-a<\varepsilon$ <=> $x<a+\varepsilon$
 
-# Mengen
-## Offene Menge
+## Mengen
+### Offene Menge
 Zu einer offenen Menge gehören die Randlinien nicht dazu.
