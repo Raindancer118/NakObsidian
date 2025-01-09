@@ -1,6 +1,6 @@
 ## <font color = "orange">Umsatzsteuer</font>
 
-**[[KONTO]]NUMMER: $480$**
+**[[Konto]]NUMMER: $480$**
 **[[Passivkonto]]**
 
 >[!DEFINITION]

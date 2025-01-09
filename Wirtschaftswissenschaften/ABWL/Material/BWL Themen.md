@@ -1,7 +1,7 @@
 # <font color="#6292ff">Betriebswirtschaftliche Grundlagen</font>
 - [x] [[Unternehmen#Systematisierung von Unternehmen nach der Rechtsform|Rechtsformen]]
 - [x] Standortfaktoren  
-  - [x] [[Semester II/ABWL/04 Investition und Analyse/Tools/Nutzwertanalyse|Nutzwertanalyse]]
+  - [x] [[Wirtschaftswissenschaften/ABWL/04 Investition und Analyse/Tools/Nutzwertanalyse|Nutzwertanalyse]]
 - [x] [[Produktlebenszyklus]]
 - [ ] Preistheorie
   - [ ] Preisabsatzfunktion  

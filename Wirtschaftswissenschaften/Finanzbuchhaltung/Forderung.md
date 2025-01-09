@@ -2,7 +2,7 @@
 
 Eine Forderung zu haben, bedeutet, dass jemand Schulden einem gegenüber hat.
 
-Eine Forderung kann beispielsweise entstehen, wenn jemand etwas [[auf Ziel]] kauft.
+Eine Forderung kann beispielsweise entstehen, wenn jemand etwas [[Auf Ziel]] kauft.
 
 
 Es kann vorkommen, dass Forderungen einen Wertverlust hinnehmen, wenn ein Schuldner seiner Zahlungsverpflichtung nicht nachkommen kann.

@@ -1,6 +1,6 @@
 ## <font color = "orange">Vorsteuer</font>
 
-**[[KONTO]]NUMMER: $260$**
+**[[Konto]]NUMMER: $260$**
 **[[Aktivkonto]]**
 >[!INFO]
 >Die Vorsteuer fällt beim [[Einkauf]] eines Produktes an. Sie ist allerdings keine langfristige Schuld, weil wir sie an den Endverbraucher weitergeben.

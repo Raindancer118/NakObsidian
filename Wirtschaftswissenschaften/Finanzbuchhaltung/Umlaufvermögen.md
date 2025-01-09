@@ -14,7 +14,7 @@ So wird z.B. in einem Öltank Öl gelagert, welches im Regelfall zu unterschiedl
 
 >[!IMPORTANT]
 >**Verbrauchsreihenfolgen**
->1. [[LiFo]]
+>1. [[LiFO]]
 >2. [[FiFo]]
 >3. [[HiFo]]
 >4. [[LoFo]]

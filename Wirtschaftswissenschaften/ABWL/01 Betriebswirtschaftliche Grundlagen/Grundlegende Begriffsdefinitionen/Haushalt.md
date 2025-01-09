@@ -17,4 +17,4 @@ aliases:
 >[!WARNING] **Haushalte sind eine Unterart von [[Betrieb|Betrieben]]**
 
 >[!HINT] **Arten von Haushalten**
->Es kann verschiedene Arten von Haushalten geben. Beispielsweise könnte **eine Familie ein Haushalt** sein. Gleichzeitig hat beispielsweise die BRD einen **Bundeshaushalt**. Das vorwiegende Ziel mit diesem Haushalt ist jeweils die **[[EIGENBEDARFSDECKUNG]]**.
+>Es kann verschiedene Arten von Haushalten geben. Beispielsweise könnte **eine Familie ein Haushalt** sein. Gleichzeitig hat beispielsweise die BRD einen **Bundeshaushalt**. Das vorwiegende Ziel mit diesem Haushalt ist jeweils die **[[Eigenbedarfsdeckung]]**.

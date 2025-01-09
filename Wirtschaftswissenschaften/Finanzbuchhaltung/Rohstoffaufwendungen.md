@@ -1,6 +1,6 @@
 ## <font color = "orange">Rohstoffaufwendungen</font>
 
-**[[KONTO]]NUMMER: $600$**
+**[[Konto]]NUMMER: $600$**
 Werden [[Rohstoffe]] aus dem Lager in die Produktion gegeben, wird dafür eine eigene [[Buchung]] erstellt. Der Buchungssatz dafür ist: 
 *Rohstoffaufwendungen an Rohstoffe*
 

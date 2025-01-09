@@ -1,6 +1,6 @@
 ## <font color = "orange">GUV</font>
 
-**[[KONTO]]NUMMER: $802$**
+**[[Konto]]NUMMER: $802$**
 
 > [!SUMMARY]
 > Das **GUV steht für Gewinn-und-Verlust-Rechnung**. In diesem [[Konto]] werden alle [[Erträge]] und [[Aufwendungen]] aus den [[Erfolgskonten]] aufgeführt und schließlich ein [[Gewinn]] oder ein [[Verlust]] für die jeweilige [[Rechnungsperiode]] errechnet. 
