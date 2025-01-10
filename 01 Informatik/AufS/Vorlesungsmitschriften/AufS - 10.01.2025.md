@@ -23,3 +23,5 @@ Die Vereinigung aller Potenzen über $\sum$ bildet den **[[Kleene-Abschluss]]** 
 Heute gemacht:
 [[Wörter]]
 [[Alphabete]]
+Folien:
+![[AuFS - 02 - Grundbegriffe.pdf]]
