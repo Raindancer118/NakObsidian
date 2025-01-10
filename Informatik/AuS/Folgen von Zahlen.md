@@ -1,18 +1,22 @@
 # <font color = "orange">Folgen von Zahlen</font>
 >[!INFO] Definition "Folge"
 >Eine Folge ist eine Funktion einer [[DM II - Abbildung|Abbildung]] von $\mathbb{N}$ in $\mathbb{R}$.
->
->**Schreibweise**
->Aufzählend: $(\frac{1}{2},\frac{1}{2^2},\frac{1}{2^3},\dots)$         $a_n:=\frac{1}{2^n}$
->Nicht aufzählend: $(a_n)_{n\in\mathbb{N}}$
->
->**Folgenglieder**
->Die Reellen Zahlen $a_n:=f(n)$ heißen Glieder der Folge.
->Die Menge, die ausschließlich die Folgenglieder enthält, heißt *Menge der Folgenglieder* einer Folge f, dies wäre also: $\{a_{i_1},a_{i_2},a_{i_3}\}$
->>[!WARNING] Eigentlich richtig wäre hier "Menge der Folgengliederwerte".
->
->Es ist auch zugelassen, dass der Index einer Folge auch mit $0$ oder $n>1$ beginnen kann. 
 
+## Schreibweise
+Aufzählend: $(\frac{1}{2},\frac{1}{2^2},\frac{1}{2^3},\dots)$         $a_n:=\frac{1}{2^n}$
+Nicht aufzählend: $(a_n)_{n\in\mathbb{N}}$
+
+## Folgenglieder
+Die Reellen Zahlen $a_n:=f(n)$ heißen Glieder der Folge.
+Die Menge, die ausschließlich die Folgenglieder enthält, heißt *Menge der Folgenglieder* einer Folge f, dies wäre also: $\{a_{i_1},a_{i_2},a_{i_3}\}$
+>[!WARNING] Eigentlich richtig wäre hier "Menge der Folgengliederwerte".
+
+Es ist auch zugelassen, dass der Index einer Folge auch mit $0$ oder $n>1$ beginnen kann. 
+
+## Darstellung von Folgen
+Folgen können anhand eines Graphen dargestellt werden. Dies kann ein- oder zweidimensional passieren. Geogebra kann da verwendet werden.
+
+## Beispiele von Folgen
 >[!EXAMPLE] Aktienkurse
 >Aktienkurse sind eigentlich eine Folge von Werten, keine kontinuierliche Kurve.
 
