@@ -14,5 +14,5 @@ Aufbau formaler Sprachen:
 
 Automaten bekommen eine Eingabe, verarbeiten diese und schließlich gibt es eine Ausgabe.
 
-Es gibt verschiedene Sprachtypen: ![[AuFS - 01 - Einführung.pdf]]
+Es gibt verschiedene Sprachtypen: ![[AuFS - 02 - Grundbegriffe.pdf#page=7]]
 
