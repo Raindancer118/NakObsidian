@@ -9,5 +9,6 @@
     "HowTo-Callout",
     "Goal-Callout",
     "Formula-Callout"
-  ]
+  ],
+  "theme": "obsidian"
 }
