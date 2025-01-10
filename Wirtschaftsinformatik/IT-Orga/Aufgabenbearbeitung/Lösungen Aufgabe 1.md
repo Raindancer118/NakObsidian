@@ -11,3 +11,6 @@
 - Virtual Reality
 - Internet of Things
 - Cybersecurity
+
+Bearbeitung auf dem [Mural Board]()
+![[Pasted image 20250110111446.png]]
