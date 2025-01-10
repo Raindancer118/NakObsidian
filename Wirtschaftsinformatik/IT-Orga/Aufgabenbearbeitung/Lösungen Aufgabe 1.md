@@ -4,3 +4,10 @@
 - Prozessautomatisierung
 - Cyber Security
 
+[Quelle 2](https://www.hco.de/blog/die-10-wichtigsten-it-trends-die-man-kennen-sollte)
+- Künstliche Intelligenz & Maschinelles Lernen
+- Quantum Computing
+- Augmented Reality
+- Virtual Reality
+- Internet of Things
+- Cybersecurity
