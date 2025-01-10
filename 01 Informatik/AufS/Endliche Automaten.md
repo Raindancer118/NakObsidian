@@ -10,6 +10,9 @@ Dabei wird jeder Zustand nur einmal aufgelistet.
 
 Endlich heißt dabei, dass jede Möglichkeit hingeschrieben werden kann.
 
+>[!EXAMPLE] Lichtschalter
+>Lichtschalter sind endliche Automaten mit dem einen Zeichen "Drücken" im Alphabet.
+
 # Deterministische Endliche Zustandsautomaten
 Diese sind ein *Quintupel* bestehend aus: 
 $$
