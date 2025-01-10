@@ -6,3 +6,4 @@
 ## Lexikographische Ordnung
 >[!INFO] Definition
 >Die lexikographische Ordnung bedeutet eine Sortierung nach Länge. Bei gleicher Länge wird anschließend lexikalisch geordnet.
+
