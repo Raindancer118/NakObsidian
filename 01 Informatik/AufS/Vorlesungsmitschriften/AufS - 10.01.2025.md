@@ -16,3 +16,8 @@ Automaten bekommen eine Eingabe, verarbeiten diese und schließlich gibt es eine
 
 Es gibt verschiedene Sprachtypen: ![[AuFS - 02 - Grundbegriffe.pdf#page=7]]
 
+Man kann Zeichen konkatenieren, aber auch verschiedene Zeichenmengen.
+
+Heute gemacht:
+[[Wörter]]
+[[Alphabete]]
