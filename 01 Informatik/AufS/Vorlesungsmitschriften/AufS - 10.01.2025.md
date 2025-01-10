@@ -18,6 +18,8 @@ Es gibt verschiedene Sprachtypen: ![[AuFS - 02 - Grundbegriffe.pdf#page=7]]
 
 Man kann Zeichen konkatenieren, aber auch verschiedene Zeichenmengen.
 
+Die Vereinigung aller Potenzen über $\sum$ bildet den **[[Kleene-Abschluss]]** oder auch die Kleenesche Hülle. 
+
 Heute gemacht:
 [[Wörter]]
 [[Alphabete]]

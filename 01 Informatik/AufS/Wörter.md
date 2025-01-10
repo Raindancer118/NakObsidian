@@ -3,11 +3,6 @@
 
 >[!EXAMPLE]
 >$w=abc$
-
-## Das leere Wort $\varepsilon$
-$\varepsilon$ ist das Neutralelement der Verkettungsoperation.
->[!WARNING] $\varepsilon$ heißt im internationalen Kontext $\lambda$.
-
 ## Mit sich selbst konkatenierte Zeichen
 Wird ein Zeichen mit sich selbst konkateniert, führt dies zu einer Potenz.
 $a\in\sum$ wiederholt konkateniert mit sich selbst ergibt $a^n$. 
