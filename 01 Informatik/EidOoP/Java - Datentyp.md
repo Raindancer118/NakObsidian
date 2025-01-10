@@ -19,7 +19,7 @@ aliases:
 >   [[Double]]
 >1. [[ArrayList]]
 >2. [[Array]]
->3. [[Informatik/EidOoP/Interface]]
+>3. [[01 Informatik/EidOoP/Interface]]
 >4. [[Klasse|Class]]
 >5. [[Char]]
 

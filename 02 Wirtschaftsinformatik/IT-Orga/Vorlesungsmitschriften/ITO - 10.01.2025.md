@@ -2,7 +2,7 @@
 ## Themen
 - IT-Stategie
 	- [[Strategische Bedeutung der IT]]
-	- [[Priorisierung von IT-Projekten]]
+	- Priorisierung von IT-Projekten
 - IT-Gouvernance, Risikomanagement & Compliance
 - IT-Organisation
 - IT-Outsourcing
