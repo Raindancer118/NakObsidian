@@ -10,5 +10,5 @@
 		- Unüberwachtes Lernen
 			- Clustering
 	- Reinforcement Learning
-	- Ensemlble-Methoden
+	- Ensemble-Methoden
 	- 
