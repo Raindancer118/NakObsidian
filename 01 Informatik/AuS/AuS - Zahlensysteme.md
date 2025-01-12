@@ -28,9 +28,6 @@ $A \subset B$
 >[!FORMULA] Echte oder unechte Teilmenge
 >$A \subseteq B$
 
-## Mächtigkeit
-$M:=\{1,2,3\}$ Die Mächtigkeit der Menge $M$ ist dementsprechend $|M| = 3$.
-
 ## Betrag
 >[!INFO] Definition
 >Der Betrag einer Zahl $x$ heißt, dass $|-x| = x$. Es geht dabei darum, dass die "Mächtigkeit" der Zahl genommen wird, ohne Rücksicht auf das Vorzeichen.
