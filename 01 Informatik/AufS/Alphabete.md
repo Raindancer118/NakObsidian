@@ -10,3 +10,24 @@ Alphabete können auch intensional dargestellt werden, wobei eine eingrenzende E
 
 >[!WARNING] Die leere Menge ist auch ein Alphabet.
 
+## Darstellungen 
+Alphabete lassen sich auf verschiedene Arten abbilden.
+### Extensional
+>[!INFO] Definition
+>Aufzählende Darstellung.
+>Die einzelnen Elemente werden aufgeschrieben. 
+
+>[!Danger] **Achtung**
+>Geht nur bei Endlichen Alphabeten.
+
+>[!example] Beispiel
+>$\sum_3=${$0,1,2,3,4,5,6,7,8,9$}
+### Intensionale
+>[!INFO] Definition
+>Definition über Eigenschaften oder Bedingungen.
+>Für die Eigenschaft wird stellvertretend $\xi$ verwendet.
+
+>[!example] Beispiel
+>$\large \sum_4 =${$\large \in \mathbb{N}^+|\xi (a)$} mit $\xi (a) = a$ mod $2 = 0 \vee a < 10$
+>
+
