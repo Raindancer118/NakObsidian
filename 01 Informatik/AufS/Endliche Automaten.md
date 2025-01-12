@@ -1,3 +1,4 @@
+# <font color = "orange">Endliche Automaten</font>
 Endliche Automaten sind im Endeffekt endliche Graphen. 
 Sie haben verschiedene Zustände. Wir wollen vom Start des Automaten zu dessen doppelt umkreisten Ziel.
 Es lassen sich verschiedene Zustände anzeigen und man kann endliche Automaten beweisen.

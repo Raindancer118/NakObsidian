@@ -1,3 +1,4 @@
+# <font color = "orange">Wörter</font>
 >[!INFO] Definition
 >Wörter $w$ sind endlich lange Zeichenfolgen über dem Alphabet. Diese werden durch die [[AufS - Konkatenation]] einzelner Zeichen aus dem Alphabet $\sum$  zusammengesetzt.
 
