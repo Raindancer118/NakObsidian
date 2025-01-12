@@ -1,3 +1,4 @@
+# <font color = "orange">Mengenoperationen</font>
 ## Differenzmengenoperation
 $A \setminus B=C$
 ![[Pasted image 20250112100652.png]]
