@@ -6,4 +6,3 @@
 
 >[!Danger] Parity wird kaum noch verwendet und verbraucht bloß ein Bit beim Senden der Daten.
 
-+
