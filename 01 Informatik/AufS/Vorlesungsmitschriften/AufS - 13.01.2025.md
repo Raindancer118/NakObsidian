@@ -19,4 +19,17 @@ Man kann nun auch eine reflexiv-transitive Hülle $R^+$ von $\delta$ bilden. Die
 Die Berechnung eines Automaten ist abbildbar über die Konfiguration eines Automaten.
 $k$ ist die Konfiguration eines Automaten. Ausgegeben wird $S\times\Sigma^*$.
 
-Die *Vorgänger-Nachfolger-Beziehung* 
+Die *Vorgänger-Nachfolger-Beziehung* $\vdash$ zwischen dem Paar $k$ und $k'$ lässt sich über eine Relation beschreiben:
+$$
+\vdash\subseteq(S\times\Sigma^*)\times(S\times\Sigma^*)
+$$
+Dies lässt sich ganz allgemein ableiten zu: 
+$$
+k\vdash k' = (s,w)\vdash (s',w')
+$$
+Die *reflexiv-transitive Hülle* $\vdash^*$ für die Relation $\vdash$ ist rekursiv definiert. Für Erklärung siehe [[AuFS - 03 - Deterministische Endliche Automaten.pdf#page=15]]. 
+>[!INFO] Anmerkung des Autors
+>Hab davon gerade nichts gecheckt, aber das wird schon noch. (Trust)
+
+
+Wenn die Elemente $w\in L \subseteq\Sigma^*$ vom Startzustand $s_0$ zu einem Endzustand $s_i\in F$ ist die Sprache $L$ als durch den Automaten $A$ akzeptiert.
