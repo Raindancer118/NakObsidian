@@ -9,4 +9,4 @@
 ### Screened Unshielded Twisted Pair
 ### Shielded Twisted Pair
 ### Screened Shielded Pair
-## Glasfaser
+## Glasfaser (Lichtwellenleiter)
