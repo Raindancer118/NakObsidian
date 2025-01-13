@@ -36,3 +36,4 @@ Wenn die Elemente $w\in L \subseteq\Sigma^*$ vom Startzustand $s_0$ zu einem End
 
 
 ## Aufgabenbearbeitung #1
+a) Welche Sprache erkennt der rechts stehende Automat
