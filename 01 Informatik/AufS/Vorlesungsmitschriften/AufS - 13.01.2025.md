@@ -37,3 +37,16 @@ Wenn die Elemente $w\in L \subseteq\Sigma^*$ vom Startzustand $s_0$ zu einem End
 
 ## Aufgabenbearbeitung #1
 a) Welche Sprache erkennt der rechts stehende Automat
+
+
+>[!INFO] Anmerkung des Autors
+>Was zum Fick ist ein Kleene-Stern?? 
+>-> Raussuchen und in [[Reguläre Ausdrücke#Die Menge der Regulären Sprachen]] einfügen. Vielleicht [[Kleene-Abschluss#^031945]]??
+
+
+## <font color = "lightblue">Nacharbeitung - Aufgaben</font>
+- [ ] Kleene-Stern recherchieren
+	- Lösung: Es ist tatsächlich $\Sigma^*$ aus [[Kleene-Abschluss#^031945]]
+- [ ] Komplementbildung recherchieren
+- [ ] Spiegelung recherchieren
+- [ ] 
