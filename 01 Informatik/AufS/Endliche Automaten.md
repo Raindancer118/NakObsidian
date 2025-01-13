@@ -34,3 +34,6 @@ Es gibt endliche Automaten, die einen Speicher haben.
 	- NEA
 	- $\varepsilon$-EA
 - Transduktoren
+
+>[!Danger] Endliche Automaten können nicht bis **$\infty$** zählen. Sie können ausschließlich **endliche** Zustandsmengen abbilden.
+
