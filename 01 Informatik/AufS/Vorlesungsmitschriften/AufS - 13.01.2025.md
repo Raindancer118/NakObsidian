@@ -33,3 +33,6 @@ Die *reflexiv-transitive Hülle* $\vdash^*$ für die Relation $\vdash$ ist rekur
 
 
 Wenn die Elemente $w\in L \subseteq\Sigma^*$ vom Startzustand $s_0$ zu einem Endzustand $s_i\in F$ ist die Sprache $L$ als durch den Automaten $A$ akzeptiert.
+
+
+## Aufgabenbearbeitung #1
