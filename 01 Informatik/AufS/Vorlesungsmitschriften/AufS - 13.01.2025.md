@@ -12,4 +12,9 @@ Die akzeptierte Sprache eines DEA heißt $A_1$ und wird wie folgt ausgedrückt:
 $$
 L_1=\{a_1a_2a_3a_4a_5,a_1a_2a_3a_4a_6\}
 $$
->[!HINT] Die Sprachbeschreibung von 
+---
+
+Man kann nun auch eine reflexiv-transitive Hülle $R^+$ von $\delta$ bilden. Dies wäre dann $\delta^*$.
+
+Die Berechnung eines Automaten ist abbildbar über die Konfiguration eines Automaten.
+$k$ ist die Konfiguration eines Automaten. Ausgegeben wird $S
