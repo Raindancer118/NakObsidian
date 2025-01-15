@@ -32,3 +32,6 @@ aliases:
 	*BLOB steht dafür für **B**inary **L**arge **OB**ject*.
 ### Andere Datentypen
 Es ist möglich, in [[Datenbanken]] andere Datentypen zu definieren. Dabei muss allerdings aufgepasst werden, dass nicht gegen die [[Normalformen#1. Normalform|1. Normalform]] verstoßen wird.
+
+# <font color = "orange">PL/SQL Datentypen</font>
+## Zusammengesetzte Datentypen
