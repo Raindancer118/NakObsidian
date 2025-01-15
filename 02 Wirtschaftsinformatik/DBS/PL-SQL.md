@@ -2,6 +2,8 @@
 >[!INFO] Definition
 >PL/SQL steht für **P**rocedural **L**anguage **S**ystem **Q**uery **L**anguage. PL ist dabei ein Aufsatz, der Funktionen aus klassischen Programmiersprachen in SQL einbindet.
 
+>[!HINT] Dieser Teil der Vorlesung wird in [[11_PLSQL v2.0jh.pdf]] besprochen.
+d
 >[!STRENGTHS] 
 >PL/SQL erlaubt die Ausführung von Skripts auf dem Server, sodass diese vorher an den Server übertragen und anschließlich in einem Block ausgeführt werden. 
 >
