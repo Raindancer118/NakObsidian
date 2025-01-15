@@ -1,5 +1,5 @@
 # <font color = "orange">Hexadezimal</font>
-#tbd 
+ 
 >[!INFO] Definition
 >Ein Zahlensystem das auf 16 Symbolen aufbaut.
 >Das Dezimal System wird um die ersten 6 Buchstaben des Alphabets erweitert.
