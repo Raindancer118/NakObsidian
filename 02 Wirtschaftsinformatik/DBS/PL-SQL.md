@@ -20,6 +20,12 @@
 >[!INFO] `EXCEPTION`
 >Der Befehl `EXCEPTION` erlaubt das Abfangen von bestimmten Fehlern.
 >
+
+>[!HOWTO] `LOOP`
+>Der Befehl `LOOP` erlaubt das Bauen einer Schleife à la `while` in Java. Zudem kann eine Bedingung für diesen Loop festgelegt werden.
+
+>[!HOWTO] Kommentar
+>Ein Kommentar kann mit zwei Minussen nacheinander geöffnet werden. Also so: `--`.
 ## Blocktypen
 >[!INFO] Anonymer Block
 >```
