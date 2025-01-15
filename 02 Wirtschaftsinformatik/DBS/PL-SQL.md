@@ -59,3 +59,5 @@
 Zunächst muss für die Ausgabe von Text auf dem Bildschirm der Befehl `SET SERVEROUTPUT ON` ausgeführt werden, um diese zu aktivieren.
 ## Variablen
 Variablennamen dürfen eine Länge von maximal 30 Zeichen haben und dürfen Sonderzeichen, sowie Buchstaben und Zahlen enthalten. Sie dürfen nicht nach einem reservierten Ausdruck wie `SELECT` verwendet werden.
+[[11_PLSQL v2.0jh.pdf#page=10|Siehe Folien für weitere Informationen]]
+
