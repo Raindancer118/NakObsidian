@@ -1,14 +1,15 @@
 # <font color = "orange">PL/SQL</font>
 >[!INFO] Definition
->PL/SQL steht für **P**rocedural **L**anguage **S**ystem **Q**uery **L**anguage. PL ist dabei ein Aufsatz, der Funktionen aus klassischen Programmiersprachen in SQL einbindet.
+>PL/SQL steht für **P**rocedural **L**anguage **S**tructured **Q**uery **L**anguage. PL ist dabei eine Erweiterung für SQL, die Funktionen aus klassischen Programmiersprachen einbindet.
+>
+>Natürlich könnte man auch Datenbankenzugriffe über andere prozedurale Programmiersprachen durchführen, doch PL/SQL ist in der Performance stärker als diese Optionen.
 
 >[!HINT] Dieser Teil der Vorlesung wird in [[11_PLSQL v2.0jh.pdf]] besprochen.
-d
+
 >[!STRENGTHS] 
 >PL/SQL erlaubt die Ausführung von Skripts auf dem Server, sodass diese vorher an den Server übertragen und anschließlich in einem Block ausgeführt werden. 
 >
 >Zudem lassen sich Datenbankenabfragen und Skripte nun benennen, sodass diese per Schnellzugriff verfügbar sind. Ferner sind diese Unterprogramme weiter verwendbar, wie Methoden in Java, quasi.
-
 ## Befehle
 >[!INFO] `BEGIN`
 >Der Befehl `BEGIN` wechselt von SQL-Anweisungen in den PL/SQL-Modus, sodass die neuen Anweisungen ausgeführt werden können.
