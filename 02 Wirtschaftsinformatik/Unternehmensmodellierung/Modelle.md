@@ -14,3 +14,8 @@ Modelle können für Erkenntnisse genutzt werden, die andernfalls nicht zu errei
 >- Dokumentation / Wissenskonservierung
 >- Erkennen von Schwachstellen, Risiken und Optimierungsmöglichkeiten im Prozess
 >- Durchführung von Tests / Experimenten / Simulationen
+>- Aufzeigen / Abstimmen von Schnitstellen
+>- Entwicklung von Produkten und Leistungen
+>- Strategieplanung
+>- Definition von Vorgaben / Standards
+>- "gemeinsame Sprache"
