@@ -14,3 +14,4 @@ aliases:
 
 >[!IMPORTANT] Die schrittweise Detaillierung der Unternehmensmodellierung ist für Frameworks Standard.
 
+In der Vorlesung haben wir das [[TOGAF-Framework]] kennengelernt, was wahrscheinlich für die Vorlesung weiter sehr wichtig sein wird. 

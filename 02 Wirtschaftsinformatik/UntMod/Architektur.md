@@ -3,7 +3,7 @@
 >Architektur ist die planvolle und kreative Gestaltung von Strukturen nach technischen, funktionalen und ästhetischen Aspekten. Dabei wird nach Anforderungen gebaut und bestimmte Bedürfnisse werden berücksichtigt.
 
 >[!GOAL] Zielsetzung von Architektur
->- Effizienz, Wirtschaftlichkeit
+>- Effizienz, [[Wirtschaftlichkeit]]
 >- Ästhetik, Außenwirkung
 >- Standard
 >- Anforderungen, Funktionalität, Genauigkeit
