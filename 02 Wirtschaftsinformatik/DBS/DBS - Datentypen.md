@@ -35,3 +35,4 @@ Es ist möglich, in [[Datenbanken]] andere Datentypen zu definieren. Dabei muss 
 
 # <font color = "orange">PL/SQL Datentypen</font>
 ## Zusammengesetzte Datentypen
+Zusammengesetzte Datentypen erlauben die Speicherung 
