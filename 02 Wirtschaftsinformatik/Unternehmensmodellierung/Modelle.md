@@ -12,4 +12,5 @@ Modelle können für Erkenntnisse genutzt werden, die andernfalls nicht zu errei
 >- Herstellung von Übersicht und Transparenz
 >- Erklärung und Darstellung von Sachverhalten (Schulung, Einarbeitung, ...)
 >- Dokumentation / Wissenskonservierung
->- Erkennen von Schwach
+>- Erkennen von Schwachstellen, Risiken und Optimierungsmöglichkeiten im Prozess
+>- Durchführung von Tests / Experimenten / Simulationen
