@@ -31,3 +31,7 @@ $\emptyset$ ist offen, $\mathbb{R}$ ist offen und abgeschlossen.
 $\mathbb{R}$ mit einem ^ darüber heißt "R-Dach" und es entspricht $\mathbb{R}\cup$
 
 Folgen von Zahlen sind mit einer Bildungsvorschrift versehen.
+
+Wir hatten letztes Mal bereits die geometrische Darstellung von Folgen bearbeitet. Diese findet sich auf den Folien [[Folien.pdf#page=18|hier]].
+
+Eine **Folge kann auch als Abbildung oder Funktion** definiert werden.

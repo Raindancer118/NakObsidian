@@ -1,6 +1,8 @@
 # <font color = "orange">Folgen von Zahlen</font>
 >[!INFO] Definition "Folge"
 >Eine Folge ist eine Funktion einer [[DM II - Abbildung|Abbildung]] von $\mathbb{N}$ in $\mathbb{R}$.
+>
+>Folgen sind Funktionen.
 
 ## Schreibweise
 Aufzählend: $(\frac{1}{2},\frac{1}{2^2},\frac{1}{2^3},\dots)$         $a_n:=\frac{1}{2^n}$
@@ -39,3 +41,6 @@ Folgen von Zahlen können in aufzählender und nicht aufzählender Schreibweise 
 >$f_0=0$
 >$f_1=1$
 >$f_n=f_{n-1}+f_{n-2}$ n ist dabei größer gleich 2
+
+## Rechnen mit Folgen
+>[!HINT] Es wird elementeweise gerechnet. 
