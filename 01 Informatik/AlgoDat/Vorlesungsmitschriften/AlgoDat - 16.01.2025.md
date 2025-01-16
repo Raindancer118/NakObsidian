@@ -5,6 +5,8 @@ Die letzte Veranstaltung wird verwendet für Klausurvorbereitung. Letztes Jahr g
 
 Durchfallquote letztes Semester: *ca 10-15%*. Diese Durchfallquote variiert allerdings sehr stark und lässt sich nicht deutlich festlegen, sodass sie jedes Mal dasselbe ist.
 
+>[!WARNING] Falls bei einer Aufgabe alle Studierenden schlecht abschneiden, dann wertet Hufenbach diese Aufgabe deutlich besser. Dabei wird nur auf Zenturienebene besser gewertet.
+
 Arraylists werden in Java sehr häufig verwendet, allerdings wird dort häufig Speicher verschwendet.
 
 Es gibt allerdings auch eine andere Art der Implementation; die LinkedList.
