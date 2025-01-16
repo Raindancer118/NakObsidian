@@ -58,6 +58,9 @@ $$
 >[!WARNING] Eine Folge gilt nur dann als beschränkt, wenn $f$ **sowohl durch eine untere als auch eine Obere Schranke** begrenzt ist.
 
 ### Eigenschaften reeller Folgen
+(Siehe Folien [[Folien.pdf#page=22|hier]])
 Wenn wir eine riesige $\varepsilon$-Umgebung schaffen, dann sind natürlich alle Folgenglieder in der Folge. Ist dies allerdings nicht der Fall, dann haben wir eine *Zweiteilung* der Folge in ein *Anfangsstück* und ein *Endstück*.
 
 Das *Anfangsstück* der Folge ist endlich und das *Endstück* ist unendlich.
+>[!QUOTE] Die Endlichkeit bleibt draußen und wir beherrschen die Unendlichkeit.
+
