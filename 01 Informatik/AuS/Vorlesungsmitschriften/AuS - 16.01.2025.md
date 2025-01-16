@@ -38,3 +38,20 @@ Eine **Folge kann auch als Abbildung oder Funktion** definiert werden.
 
 ## Neue Vorlesungsinhalte
 Erst die hinteren Teile der Folgen sind interessant. 
+In den Vorlesungen muss $n\in\mathbb{N}$ nicht danebenstehen, aber in der Klausur wird das erwartet. Wenn wir das allerdings darüber schreiben als Anmerkung ist es okay.
+
+### Monotonie
+Wenn $a_n \leq a_{n+1}$, ist eine Folge *monoton wachsend*.
+Wenn $a_n < a_{n+1}$, ist eine Folge *streng monoton wachsend*.
+Im Umkehrschluss kann es selbstverständlich auch *monoton fallende* und *streng monoton fallende* Folgen geben. Weiterhin kann es selbstverständlich auch *monotone* Folgen (monoton wachsend oder monoton fallend) geben oder auch *streng monotone* Folgen (streng monoton wachsend oder fallend.)
+Monoton wachsend und Monoton fallend: *konstante* Folge.
+
+### Schranken
+Es kann sein, dass eine Folge $f$ durch reelle Zahlen $s$ und $S$ mit $S$ als *oberer Schranke* und $s$ als *unterer Schranke* **beschränkt** heißt. Dies gilt allerdings **nur für reelle Folgen**.
+$$
+s\leq a_n \leq S
+$$
+Dabei gilt:
+$$
+\forall_n \in \mathbb{N}
+$$
