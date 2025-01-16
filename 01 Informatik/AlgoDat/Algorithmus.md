@@ -11,3 +11,24 @@ Eine Problemklasse lässt sich durch einen spezifischen Algorithmus lösen. Dabe
 
 >[!INFO] Finit (dynamisch)
 >Zu jedem Zeitpunkt während der Verarbeitung eines Algorithmus wird nur eine endliche Menge Arbeitsspeicher benötigt.
+
+>[!INFO] Effektiv
+>Jeder Schritt des Algorithmus muss ausführbar sein.
+
+>[!INFO] Reproduzierbar
+>Der Algorithmus sollte unabhängig von einer bestimmten Implementierung und damit maschinenunabhängig sein.
+
+>[!INFO] Terminierend
+>Der Algorithmus sollte nach einer endlichen Zeit zu einem Ergebnis kommen, also terminieren.
+
+>[!INFO] Korrekt
+>Der Algorithmus sollte für eine Eingabe das Ergebnis liefern, das von ihm erwartet wird.
+
+>[!INFO] Determiniert
+>Gleiche Eingaben sollten zum gleichen Ergebnis führen.
+
+>[!INFO] Deterministisch
+>Der Ablauf der Berechnung des Algorithmus verfolgt zu jedem Zeitpunkt den ihm vorgegebenen Pfad.
+
+>[!INFO] Effizient
+>Der Algorithmus benötigt eine möglichst sparsame Menge Speicher und Rechenkapazität.
