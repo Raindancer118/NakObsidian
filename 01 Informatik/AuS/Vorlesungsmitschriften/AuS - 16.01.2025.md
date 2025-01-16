@@ -67,5 +67,17 @@ Das *Anfangsstück* der Folge ist endlich und das *Endstück* ist unendlich.
 Folgen mit der Eigenschaft, dass für jede beliebig kleine oder große $\huge\varepsilon$-Umgebung einer Zahl a (Beispiel: 0) die Folge in ein endliches Anfangsstück und ein unendliches Endstück geteilt wird, werden wir als *[[konvergent]]* bezeichnen.
 
 $$
-\forall \varepsilon > 0: \exists n_0 \in \mathbb{N}: \forall n \in \mathbb{N}: n>n_0 \Rightarrow 
+\forall \varepsilon > 0: \exists n_0 \in \mathbb{N}: \forall n \in \mathbb{N}: n>n_0 \Rightarrow |a_n-a|<\varepsilon
 $$
+*Konvergenz gegen $a\in\mathbb{R}$*
+
+>[!QUOTE] "Für jede Epsilon-Umgebung, die größer als Null ist, gilt, dass es ein N-Null gibt, das in N ist,"
+
+>[!EXAMPLE]
+>$(a_n)n\in\mathbb{N}$
+>$a_n:=2+\frac{(-1)^n}{n}$
+>$(1,2+\frac{1}{2},2-\frac{1}{3},2+\frac{1}{4},\dots)$
+>$\varepsilon = 0,001$
+
+### Rechnen mit Folgen #2
+Es gibt einige Rechenregeln für Konvergente Folgen, die sich [[Folien.pdf#page=26|hier]] finden.
