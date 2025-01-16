@@ -3,11 +3,9 @@
 >Eine Folge ist eine Funktion einer [[DM II - Abbildung|Abbildung]] von $\mathbb{N}$ in $\mathbb{R}$.
 >
 >Folgen sind Funktionen.
-
 ## Schreibweise
 Aufzählend: $(\frac{1}{2},\frac{1}{2^2},\frac{1}{2^3},\dots)$         $a_n:=\frac{1}{2^n}$
 Nicht aufzählend: $(a_n)_{n\in\mathbb{N}}$
-
 ## Folgenglieder
 Die Reellen Zahlen $a_n:=f(n)$ heißen Glieder der Folge.
 Die Menge, die ausschließlich die Folgenglieder enthält, heißt *Menge der Folgenglieder* einer Folge f, dies wäre also: $\{a_{i_1},a_{i_2},a_{i_3}\}$
