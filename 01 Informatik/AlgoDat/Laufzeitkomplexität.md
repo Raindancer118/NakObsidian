@@ -12,6 +12,7 @@
 ### Konstant
 ### Logarithmisch
 ### Linear
+Eine Funktion wird wahrscheinlich $\Theta(n)$ sein. Dies heißt, dass die Kurve der Funktion immer zwischen zwei Linien fest liegt und diese nicht überschreitet.
 ### Überlogarithmisch
 ### Quadratisch
 ### Kubisch
