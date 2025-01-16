@@ -4,3 +4,7 @@
 >>[!QUOTE] "Bloße Muskelkraft"
 >
 > ein Problem gelöst wird.
+
+Bruteforce-Methoden:
+- [[Selection Sort]]
+- [[Erschöpfende Suche]]

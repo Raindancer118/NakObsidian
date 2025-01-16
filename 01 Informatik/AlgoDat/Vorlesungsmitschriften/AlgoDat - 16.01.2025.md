@@ -31,3 +31,5 @@ B[Hamburg] -->|100km| A[Kiel]
 ```
 
 ## Interpolationssuche
+## Insertion Sort
+Ein Sortierverfahren, das Decrease & Conquer zuzuordnen ist.
