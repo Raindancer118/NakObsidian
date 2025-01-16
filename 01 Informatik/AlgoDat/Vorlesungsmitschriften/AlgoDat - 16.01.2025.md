@@ -14,6 +14,9 @@ Eine LinkedList hat zwei Zeiger. In den einen Zeiger kommt der Inhalt rein und d
 
 >[!WEAKNESSES] LinkedLists erlauben kein Springen zu einem bestimmten Pointer.
 
+
+In einer Klausur könnten Graphen drankommen.
+
 ## Graphen
-### Gerichtete Graphen
-Bei einem gerichteten Graphen kann man
+### Gewichtete Graphen
+Bei einem gewichteten Graphen kann man dem Graphen einen Wert geben.
