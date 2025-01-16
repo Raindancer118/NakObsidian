@@ -4,4 +4,4 @@
 
 >[!WARNING] In Pseudocode findet dabei keine Fehlerbehandlung statt, genauso wenig wie eine Überprüfung von Eingaben.
 
->[!STRENGTHS] Pseudocode sollte ohne Programmierkenntnisse verständlich sein.
+>[!STRENGTHS] Pseudocode sollte ohne Programmierkenntnisse verständlich sein und verwendet daher eine simple und elementare Syntax.
