@@ -32,3 +32,4 @@ Eine Problemklasse lässt sich durch einen spezifischen Algorithmus lösen. Dabe
 
 >[!INFO] Effizient
 >Der Algorithmus benötigt eine möglichst sparsame Menge Speicher und Rechenkapazität.
+
