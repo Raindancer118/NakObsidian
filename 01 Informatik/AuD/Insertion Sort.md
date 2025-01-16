@@ -4,4 +4,5 @@
 $n$ ist die Größe des Arrays.
 
 Die *Basisoperation ist das Einsetzen ins Array*.
-Best/ Worst(Avg => siehe Folien)
+Best/ Worst(Avg => [[Aufgaben Teil 5.pdf|siehe Folien]])
+
