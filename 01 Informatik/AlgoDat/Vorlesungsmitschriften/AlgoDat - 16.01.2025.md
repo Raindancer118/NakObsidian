@@ -29,3 +29,5 @@ A -->|1000km| C
 C[München] -->|900km| B
 B[Hamburg] -->|100km| A[Kiel]
 ```
+
+## Interpolationssuche
