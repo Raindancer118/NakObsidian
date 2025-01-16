@@ -23,7 +23,7 @@ In einer Klausur könnten Graphen drankommen.
 Bei einem gewichteten Graphen kann man dem Graphen einen Wert geben.
 ```mermaid
 graph TD
-B[Hamburg] --> A[Kiel]
-C[München] --> B
-A --> C
+A -->|1000km| C
+C[München] -->|900km| B
+B[Hamburg] -->|100km| A[Kiel]
 ```
