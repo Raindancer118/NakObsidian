@@ -100,6 +100,8 @@ $$
 
 ### Berechnung von Grenzwerten bei ganzrationalen Ausdrücken (Faustformel)
 ![[Folien.pdf#page=29|Folien S.23]]
-Wenn wir im Nenner eine höhere Potenz (einen höheren Polynom-Grad) haben, dann ist der Grenzwert eines entsprechenden Polynoms automatisch 0.
+Wenn wir im Nenner eine höhere Potenz (einen höheren [[Polynom]]-Grad) haben, dann ist der Grenzwert eines entsprechenden Polynoms automatisch 0.
 
 Wenn der Grad des Zähler-Polynoms höher ist als der Grad des Nenner-Polynoms, dann spielen Vorzeichen eine Rolle. Jedenfalls geht es immer gegen $\huge\infty$. Somit existiert hier kein Grenzwert. Hier ist jedoch keine Rechnung nötig.
+
+Ein Beispiel dazu findet sich auf [[Folien.pdf#page=30|Folie 24]].
