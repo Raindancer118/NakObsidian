@@ -19,4 +19,4 @@ Eine Funktion wird wahrscheinlich $\Theta(n)$ sein. Dies heißt, dass die Kurve 
 ### Exponenziell
 ### Faktoriell
 
-![[01 Informatik/AlgoDat/Material/Vorlesungsfolien/AuD02_WINF.pdf#page=8|AuD02_WINF]]
+![[01 Informatik/AuD/Material/Vorlesungsfolien/AuD02_WINF.pdf#page=8|AuD02_WINF]]
