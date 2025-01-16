@@ -30,7 +30,7 @@ $\neg$ offene Menge $\neq$ abgeschlossene Menge
 $\emptyset$ ist offen, $\mathbb{R}$ ist offen und abgeschlossen.
 $\mathbb{R}$ mit einem ^ darüber heißt "R-Dach" und es entspricht $\mathbb{R}\cup$
 
-Folgen von Zahlen sind mit einer Bildungsvorschrift versehen.
+[[Folgen von Zahlen]] sind mit einer Bildungsvorschrift versehen.
 
 Wir hatten letztes Mal bereits die geometrische Darstellung von Folgen bearbeitet. Diese findet sich auf den Folien [[Folien.pdf#page=18|hier]].
 
@@ -46,7 +46,7 @@ Wenn $a_n < a_{n+1}$, ist eine Folge *streng monoton wachsend*.
 Im Umkehrschluss kann es selbstverständlich auch *monoton fallende* und *streng monoton fallende* Folgen geben. Weiterhin kann es selbstverständlich auch *monotone* Folgen (monoton wachsend oder monoton fallend) geben oder auch *streng monotone* Folgen (streng monoton wachsend oder fallend.)
 Monoton wachsend und Monoton fallend: *konstante* Folge.
 
-### Schranken
+### [[Schranken]]
 Es kann sein, dass eine Folge $f$ durch reelle Zahlen $s$ und $S$ mit $S$ als *oberer Schranke* und $s$ als *unterer Schranke* **beschränkt** heißt. Dies gilt allerdings **nur für reelle Folgen**.
 $$
 s\leq a_n \leq S
