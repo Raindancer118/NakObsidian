@@ -45,4 +45,5 @@ Folgen von Zahlen können in aufzählender und nicht aufzählender Schreibweise 
 ## Rechnen mit Folgen
 >[!HINT] Es wird elementeweise gerechnet. 
 
-Summe: $f_1 + f_2 = (a_n) + (b_n) := 
+Summe: $f_1 + f_2 = (a_n) + (b_n) := (a_n + b_n) = (\frac{1}{n} + \frac{n^2 + 1}{n}) = (\frac{n^2 + 2}{n})$
+Produkt: $f_1 * f_2 = (a_n)*(b_n):=(a_n * b_n) = (\frac{1}{n} * \frac{n^2 + 1}{n}) = (\frac{n^2 + 1}{n^2})$
