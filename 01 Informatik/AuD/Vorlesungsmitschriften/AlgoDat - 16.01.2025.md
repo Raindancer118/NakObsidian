@@ -35,6 +35,3 @@ B[Hamburg] -->|100km| A[Kiel]
 Ein Sortierverfahren, das Decrease & Conquer zuzuordnen ist.
 
 Für rekursive Funktionen kann keine Summenformel verwendet werden.
-$$
-
-$$
