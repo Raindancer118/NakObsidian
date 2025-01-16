@@ -76,5 +76,5 @@ Es gibt aber auch Folgen, die *nicht konvergent* sind; diese werden allerdings i
 >
 >Konvergiert $f$ gegen ein $a\in\mathbb{R}$, so heißt $f$ auch *konvergent*.
 >
->Ist $f$ konvergent gegen $a$, so heißt $a$ **Grenzwert** von $f$ und wird mit $\lim\limits_{n \to \infty}$ bezeichnet. Schreibweise: $\lim\limits_{n \to \infty} f = a$.
+>Ist $f$ konvergent gegen $a$, so heißt $a$ **Grenzwert** (Synonym: Konvergenzpunkt) von $f$ und wird mit $\lim\limits_{n \to \infty}$ bezeichnet. Schreibweise: $\lim\limits_{n \to \infty} f = a$.
 
