@@ -17,6 +17,13 @@ Eine LinkedList hat zwei Zeiger. In den einen Zeiger kommt der Inhalt rein und d
 
 In einer Klausur könnten Graphen drankommen.
 
+>[!QUOTE] "Zeichnen Sie durch einen selbstgewählten Graphen einen gewichteten, ungewichteten und zyklenfreien Graphen."
 ## Graphen
 ### Gewichtete Graphen
 Bei einem gewichteten Graphen kann man dem Graphen einen Wert geben.
+```mermaid
+graph TD
+B[Hamburg] --> A[Kiel]
+C[München] --> B
+A --> C
+```
