@@ -35,3 +35,6 @@ Folgen von Zahlen sind mit einer Bildungsvorschrift versehen.
 Wir hatten letztes Mal bereits die geometrische Darstellung von Folgen bearbeitet. Diese findet sich auf den Folien [[Folien.pdf#page=18|hier]].
 
 Eine **Folge kann auch als Abbildung oder Funktion** definiert werden.
+
+## Neue Vorlesungsinhalte
+Erst die hinteren Teile der Folgen sind interessant. 
