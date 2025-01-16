@@ -13,8 +13,21 @@ $$\Leftrightarrow -2 \sqrt{b}\sqrt{a} < -2a$$
 $$\Leftrightarrow \sqrt{b}\sqrt{a} > a$$
 $$\Leftrightarrow b*a > a^2$$
 
-Kurzwiederholung:
+## Kurzwiederholung:
 $$
 \mathbb{N}_0\mathbb{,N, Z, Q, R}
 $$
-|    -> Betrag -> Fallunterscheidung!
+
+$|x|$    -> Betrag -> Fallunterscheidung!
+
+$\varepsilon$-Umgebung einer Zahl $a\in\mathbb{R}: U_3 (a): = \{x | x-a|<\varepsilon\}$
+-> symmetrisches offenes Intervall um $a$.
+
+offene Menge: Randpunkte gehören nicht dazu
+abgeschlossene Menge: Randpunkte gehören dazu
+$\neg$ offene Menge $\neq$ abgeschlossene Menge
+		(gemischte Fälle!)
+$\emptyset$ ist offen, $\mathbb{R}$ ist offen und abgeschlossen.
+$\mathbb{R}$ mit einem ^ darüber heißt "R-Dach" und es entspricht $\mathbb{R}\cup$
+
+Folgen von Zahlen sind mit einer Bildungsvorschrift versehen.

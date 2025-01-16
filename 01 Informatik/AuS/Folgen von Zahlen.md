@@ -13,8 +13,11 @@ Die Menge, die ausschließlich die Folgenglieder enthält, heißt *Menge der Fol
 
 Es ist auch zugelassen, dass der Index einer Folge auch mit $0$ oder $n>1$ beginnen kann. 
 
+>[!WARNING] Folgen sind mit einer Bildungsvorschrift versehen, die angibt, wie diese Folge zu bilden ist.
 ## Darstellung von Folgen
 Folgen können anhand eines Graphen dargestellt werden. Dies kann ein- oder zweidimensional passieren. Geogebra kann da verwendet werden.
+
+Folgen von Zahlen können in aufzählender und nicht aufzählender Schreibweise geschrieben werden.
 
 ## Beispiele von Folgen
 >[!EXAMPLE] Aktienkurse
