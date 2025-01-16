@@ -55,3 +55,6 @@ Dabei gilt:
 $$
 \forall_n \in \mathbb{N}
 $$
+>[!WARNING] Eine Folge gilt nur dann als beschränkt, wenn $f$ **sowohl durch eine untere als auch eine Obere Schranke** begrenzt ist.
+
+### Eigenschaften reeller Folgen
