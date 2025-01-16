@@ -84,3 +84,5 @@ Es gibt einige Rechenregeln für Konvergente Folgen, die sich [[Folien.pdf#page=
 
 >[!INFO] Reziprok
 >Reziprok nennt man Quadratzahlen, die als Nenner in einem Bruch stehen.
+
+Wir sollen uns definitiv die Materialien [[Folien.pdf#page=27]] und [[Folien.pdf#page=28]] anschauen und diese auswendig können. 
