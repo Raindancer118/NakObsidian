@@ -33,3 +33,8 @@ B[Hamburg] -->|100km| A[Kiel]
 ## Interpolationssuche
 ## Insertion Sort
 Ein Sortierverfahren, das Decrease & Conquer zuzuordnen ist.
+
+Für rekursive Funktionen kann keine Summenformel verwendet werden.
+$$
+
+$$
