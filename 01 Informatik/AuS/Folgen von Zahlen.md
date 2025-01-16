@@ -47,3 +47,27 @@ Folgen von Zahlen können in aufzählender und nicht aufzählender Schreibweise 
 
 Summe: $f_1 + f_2 = (a_n) + (b_n) := (a_n + b_n) = (\frac{1}{n} + \frac{n^2 + 1}{n}) = (\frac{n^2 + 2}{n})$
 Produkt: $f_1 * f_2 = (a_n)*(b_n):=(a_n * b_n) = (\frac{1}{n} * \frac{n^2 + 1}{n}) = (\frac{n^2 + 1}{n^2})$
+## Monotonie
+Wenn $a_n \leq a_{n+1}$, ist eine Folge *monoton wachsend*.
+Wenn $a_n < a_{n+1}$, ist eine Folge *streng monoton wachsend*.
+Im Umkehrschluss kann es selbstverständlich auch *monoton fallende* und *streng monoton fallende* Folgen geben. Weiterhin kann es selbstverständlich auch *monotone* Folgen (monoton wachsend oder monoton fallend) geben oder auch *streng monotone* Folgen (streng monoton wachsend oder fallend.)
+Monoton wachsend und Monoton fallend: *konstante* Folge.
+## Schranken
+Es kann sein, dass eine Folge $f$ durch reelle Zahlen $s$ und $S$ mit $S$ als *oberer Schranke* und $s$ als *unterer Schranke* **beschränkt** heißt. Dies gilt allerdings **nur für reelle Folgen**.
+$$
+s\leq a_n \leq S
+$$
+Dabei gilt:
+$$
+\forall_n \in \mathbb{N}
+$$
+>[!WARNING] Eine Folge gilt nur dann als beschränkt, wenn $f$ **sowohl durch eine untere als auch eine Obere Schranke** begrenzt ist.
+
+## Eigenschaften reeller Folgen
+(Siehe Folien [[Folien.pdf#page=22|hier]])
+Wenn wir eine riesige $\varepsilon$-Umgebung schaffen, dann sind natürlich alle Folgenglieder in der Folge. Ist dies allerdings nicht der Fall, dann haben wir eine *Zweiteilung* der Folge in ein *Anfangsstück* und ein *Endstück*.
+
+Das *Anfangsstück* der Folge ist endlich und das *Endstück* ist unendlich.
+>[!QUOTE] Die Endlichkeit bleibt draußen und wir beherrschen die Unendlichkeit.
+
+Folgen mit der Eigenschaft, dass für jede beliebig kleine oder große $\huge\varepsilon$-Umgebung einer Zahl a (Beispiel: 0) die Folge in ein endliches Anfangsstück und ein unendliches Endstück geteilt wird, werden wir als *[[konvergent]]* bezeichnen.
