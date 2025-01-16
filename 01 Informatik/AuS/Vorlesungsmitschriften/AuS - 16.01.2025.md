@@ -87,10 +87,19 @@ Es gibt einige Rechenregeln für Konvergente Folgen, die sich [[Folien.pdf#page=
 
 Wir sollen uns definitiv die Materialien [[Folien.pdf#page=27]] und [[Folien.pdf#page=28]] anschauen und diese auswendig können. 
 
-Berechne:
+Berechne: (Berechenbar da Zählerpolynom = Nennerpolynom)
 $$
 \huge\lim\limits_{n \to \infty} \frac{3n^5 - 2n^2 + n + 3}{5n^5 + 6n^4 - 3n +7}
 $$
 $$
 \huge=\lim\limits_{n \to \infty} \frac{(3-\frac{2}{n^3}+\frac{1}{n^4}+\frac{3}{n^5})}{5+\frac{6}{n}-\frac{3}{n^4}+\frac{7}{n^5}}
 $$
+$$
+\huge=\frac{3}{5}
+$$
+
+### Berechnung von Grenzwerten bei ganzrationalen Ausdrücken (Faustformel)
+![[Folien.pdf#page=29|Folien S.23]]
+Wenn wir im Nenner eine höhere Potenz (einen höheren Polynom-Grad) haben, dann ist der Grenzwert eines entsprechenden Polynoms automatisch 0.
+
+Wenn der Grad des Zähler-Polynoms höher ist als der Grad des Nenner-Polynoms, dann spielen Vorzeichen eine Rolle. Jedenfalls geht es immer gegen $\huge\infty$. Somit existiert hier kein Grenzwert. Hier ist jedoch keine Rechnung nötig.
