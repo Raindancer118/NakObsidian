@@ -4,3 +4,5 @@ Die letzte Veranstaltung wird verwendet für Klausurvorbereitung. Letztes Jahr g
 8 von 9 Aufgaben waren so im Skript zu finden in der letzten Klausur.
 
 Durchfallquote letztes Semester: *ca 10-15%*. Diese Durchfallquote variiert allerdings sehr stark und lässt sich nicht deutlich festlegen, sodass sie jedes Mal dasselbe ist.
+
+Arraylists werden in Java sehr häufig verwendet, allerdings wird 
