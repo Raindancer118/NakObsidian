@@ -69,4 +69,4 @@ Das *Anfangsstück* der Folge ist endlich und das *Endstück* ist unendlich.
 >[!QUOTE] Die Endlichkeit bleibt draußen und wir beherrschen die Unendlichkeit.
 
 Folgen mit der Eigenschaft, dass für jede beliebig kleine oder große $\huge\varepsilon$-Umgebung einer Zahl a (Beispiel: 0) die Folge in ein endliches Anfangsstück und ein unendliches Endstück geteilt wird, werden wir als *[[konvergent]]* bezeichnen. 
-Es gibt aber auch Folgen, die *nicht konvergent* sind.
+Es gibt aber auch Folgen, die *nicht konvergent* sind; diese werden allerdings in der Vorlesung nicht betrachtet.
