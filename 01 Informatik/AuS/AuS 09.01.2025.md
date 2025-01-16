@@ -1,4 +1,4 @@
-# <font color = "orange">AS 09.01.2025</font>
+# <font color = "orange">AuS 09.01.2025</font>
 - Normalerweise 30% Durchfallquote
 - Keine Exmatrikulationen aufgrund von Analysis & Stochastik
 
