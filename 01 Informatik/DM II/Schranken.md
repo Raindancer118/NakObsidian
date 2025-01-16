@@ -1,3 +1,6 @@
+# <font color = "orange">Schranken</font>
+>[!INFO] Definition
+>Schranken sind 
 ## Infimum
 Das Infimum ist das größte Element der unteren Schranke.
 >[!QUOTE] Von den unteren Schranken ist es die Größte.
