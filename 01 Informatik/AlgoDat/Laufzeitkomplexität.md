@@ -7,6 +7,7 @@
 ### Logarithmisch
 ### Linear
 ### Überlogarithmisch
+### Quadratisch
 ### Kubisch
 ### Exponenziell
 ### Faktoriell
