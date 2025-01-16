@@ -5,4 +5,12 @@ Die letzte Veranstaltung wird verwendet für Klausurvorbereitung. Letztes Jahr g
 
 Durchfallquote letztes Semester: *ca 10-15%*. Diese Durchfallquote variiert allerdings sehr stark und lässt sich nicht deutlich festlegen, sodass sie jedes Mal dasselbe ist.
 
-Arraylists werden in Java sehr häufig verwendet, allerdings wird 
+Arraylists werden in Java sehr häufig verwendet, allerdings wird dort häufig Speicher verschwendet.
+
+Es gibt allerdings auch eine andere Art der Implementation; die LinkedList.
+Eine LinkedList hat zwei Zeiger. In den einen Zeiger kommt der Inhalt rein und der zweite Zeiger zeigt auf das nächste Element.
+
+>[!STRENGTHS] LinkedLists erlauben unendlich große Listen, die nur durch die Größe des Computerspeichers begrenzt ist. LinkedLists erlauben außerdem das Löschen von einem bestimmten Element, ohne dass dabei eine der Daten gelöscht würde.
+
+>[!WEAKNESSES] LinkedLists erlauben kein Springen zu einem bestimmten Pointer.
+
