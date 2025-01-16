@@ -44,3 +44,5 @@ Folgen von Zahlen können in aufzählender und nicht aufzählender Schreibweise 
 
 ## Rechnen mit Folgen
 >[!HINT] Es wird elementeweise gerechnet. 
+
+Summe: $f_1 + f_2 = (a_n) + (b_n) := 
