@@ -86,3 +86,11 @@ Es gibt einige Rechenregeln für Konvergente Folgen, die sich [[Folien.pdf#page=
 >Reziprok nennt man Quadratzahlen, die als Nenner in einem Bruch stehen.
 
 Wir sollen uns definitiv die Materialien [[Folien.pdf#page=27]] und [[Folien.pdf#page=28]] anschauen und diese auswendig können. 
+
+Berechne:
+$$
+\huge\lim\limits_{n \to \infty} \frac{3n^5 - 2n^2 + n + 3}{5n^5 + 6n^4 - 3n +7}
+$$
+$$
+\huge=\lim\limits_{n \to \infty} \frac{(3-\frac{2}{n^3}+\frac{1}{n^4}+\frac{3}{n^5})}{5+\frac{6}{n}-\frac{3}{n^4}+\frac{7}{n^5}}
+$$
