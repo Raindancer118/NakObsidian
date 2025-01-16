@@ -70,3 +70,11 @@ Das *Anfangsstück* der Folge ist endlich und das *Endstück* ist unendlich.
 
 Folgen mit der Eigenschaft, dass für jede beliebig kleine oder große $\huge\varepsilon$-Umgebung einer Zahl a (Beispiel: 0) die Folge in ein endliches Anfangsstück und ein unendliches Endstück geteilt wird, werden wir als *[[konvergent]]* bezeichnen. 
 Es gibt aber auch Folgen, die *nicht konvergent* sind; diese werden allerdings in der Vorlesung nicht betrachtet.
+
+>[!INFO]  Definition
+>$f$ heißt *konvergent* gegen $a$, wenn in jeder Umgebung von $a$ fast alle Glieder der Folge liegen.
+>
+>Konvergiert $f$ gegen ein $a\in\mathbb{R}$, so heißt $f$ auch *konvergent*.
+>
+>Ist $f$ konvergent gegen $a$, so heißt $a$ **Grenzwert** von $f$ und wird mit $\lim\limits_{n \to \infty}$ bezeichnet. Schreibweise: $\lim\limits_{n \to \infty} f = a$.
+
