@@ -1,7 +1,7 @@
 # <font color = "orange">Produktivitätsparadoxon</font>
 >[!INFO] Definition
 => Arbeitsproduktivität durch Anwendung von IT eher gesunken; IT-Ausgaben stark gestiegen.
-Das Produktivitätsparadoxon beschreibt 
+Das Produktivitätsparadoxon beschreibt die Tatsache, dass zunehmende Ausgaben im IT-Bereich nicht gleichzeitig auch zunehmende Produktivität des Unternehmens bedeuten.
 ### Produktivitätsprobleme
 #### Methodische Probleme
 - Outputmessungen berücksichtigen nicht die qualitativen Veränderungen der Leistungen
