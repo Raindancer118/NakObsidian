@@ -1,6 +1,6 @@
 # <font color = "orange">Pfeildiagramm</font>
 >[!INFO] Definition
->Pfeildiagramme erlauben die Darstellung von Relationen in einer visuellen Form. Relationen werden dabei als Pfeile vom ersten Element zum zweiten Element gezogen. Es können dabei auch mehrere Pfeile zum selben Element oder vom selben Element wegführen. 
+>Pfeildiagramme erlauben die Darstellung von Relationen in einer visuellen Form. Relationen werden dabei als Pfeile vom ersten Element zum zweiten Element gezogen. Es können dabei auch mehrere Pfeile zum selben Element oder vom selben Element wegführen. Diese Diagramme sind normalerweise von links nach rechts ausgerichtet, doch Mermaid erlaubt dies nicht anders.
 >Dies könnte dann beispielsweise so aussehen:
 >>[!EXAMPLE] 
 >>```mermaid
