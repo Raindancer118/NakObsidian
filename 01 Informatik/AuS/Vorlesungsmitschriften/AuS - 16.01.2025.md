@@ -105,3 +105,8 @@ Wenn wir im Nenner eine höhere Potenz (einen höheren [[Polynom]]-Grad) haben, 
 Wenn der Grad des Zähler-Polynoms höher ist als der Grad des Nenner-Polynoms, dann spielen Vorzeichen eine Rolle. Jedenfalls geht es immer gegen $\huge\infty$. Somit existiert hier kein Grenzwert. Hier ist jedoch keine Rechnung nötig.
 
 Ein Beispiel dazu findet sich auf [[Folien.pdf#page=30|Folie 24]].
+
+### Unendlich
+Wenn man etwas zu $\huge\infty$ dazuaddiert, dann bleibt dies $\huge\infty$. Dasselbe gilt für eigentlich alle  anderen Rechenoperationen, außer es wird $\huge\infty$ von einem anderen $\huge\infty$ abgezogen. Dort ist das Egebnis unklar.
+
+Ist eine Folge beschränkt und monoton, dann ist die Folge automatisch auch *konvergent*. Wieso dem so ist, lässt sich [[Folien.pdf#page=32|hier]] nachlesen.
