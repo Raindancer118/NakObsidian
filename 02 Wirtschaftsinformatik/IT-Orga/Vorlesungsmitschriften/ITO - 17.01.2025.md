@@ -28,11 +28,13 @@ Für die Digitalisierung muss die Gesellschaft bereit sein, aber die Gesellschaf
 Otto als Flaggschiff der Digitalisierung in Deutschland.
 
 >[!QUOTE] Man kann sich nur noch schnell bewegen, wenn man entsprechende Strukturen hat.
-
 ### Bedarf von Digitaler Technologie
 1. Technology Products & Service
 2. Education
 3. Financial Services
+
+### Künstliche Intelligenz
+KI kann eine Unterstützung der Digitalisierung oder auch etwas neues sein. KI ist dabei nicht direkt dasselbe wie Digitalisierung.
 ## Typische Quellen
 - CIO
 - Computerwoche
