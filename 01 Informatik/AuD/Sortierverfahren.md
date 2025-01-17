@@ -26,7 +26,7 @@
 >	copy A[[n/2]..n - 1] to C[0.. [n/2] - 1]
 >	Mergesort(B[0..[n/2] - 1])
 >	Mergesort(C[0..[n/2] - 1])
->	Mergesort(B,C,A)
+>	Merge(B,C,A)
 >```
 
 >[!HINT] Die Sortierreihenfolge ist am Ende eigentlich auch egal; die kann von außen mitgegeben werden, sodass der Algorithmus vielseitig einsetzbar ist.
