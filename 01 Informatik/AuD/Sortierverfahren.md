@@ -13,7 +13,7 @@
 
 >[!STRENGTHS]
 >- Implementierung *ohne Rekursion* möglich
->- Stabiles Sortierverfahren 
+>- *Stabiles* Sortierverfahren 
 >- Arrays werden *sequentiell* verarbeitet
 
 >[!FORMULA] Pseudocode
