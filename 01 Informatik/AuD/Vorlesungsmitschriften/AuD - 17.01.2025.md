@@ -15,3 +15,5 @@ $= 1+2F(n-5)+F(n-6)$
 $= 1+2+3+F(n-3)+3F(n-4)+3F(n-5)+F(n-6)$
 $= 1+2+4+8$
 $= \sum\limits_{i}^{n} = 2^n -1\in \Theta (2^n)$
+
+Wir haben gerade den Sortieralgorithmus 
