@@ -22,6 +22,8 @@
 >```
 
 >[!HINT] Die Sortierreihenfolge ist am Ende eigentlich auch egal; die kann von außen mitgegeben werden, sodass der Algorithmus vielseitig einsetzbar ist.
+
+Für mehr Informationen zu Merge Sort gern auf den Folien [[AuD05_WINF.pdf#page=6|hier]], und auf den weiterführenden Folien nachsehen.
 ## Quick Sort
 ## Selection Sort
 ## Insertion Sort
