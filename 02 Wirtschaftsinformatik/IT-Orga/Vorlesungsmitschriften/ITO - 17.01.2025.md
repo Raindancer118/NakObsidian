@@ -27,6 +27,8 @@ Das Thema wird in mehrere Themen aufgeteilt:
 Für die Digitalisierung muss die Gesellschaft bereit sein, aber die Gesellschaft wird auch verändert durch die Digitalisierung.
 Otto als Flaggschiff der Digitalisierung in Deutschland.
 
+>[!QUOTE] Man kann sich nur noch schnell bewegen, wenn man entsprechende Strukturen hat.
+
 ### Bedarf von Digitaler Technologie
 1. Technology Products & Service
 2. Education
