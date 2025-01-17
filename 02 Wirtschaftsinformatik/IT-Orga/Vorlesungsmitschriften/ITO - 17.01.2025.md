@@ -24,7 +24,7 @@ Das Thema wird in mehrere Themen aufgeteilt:
 - Automatisierung
 - Vernetzung
 - Digitaler Kundenzugang
-
+Für die Digitalisierung muss die Gesellschaft bereit sein, aber die Gesellschaft wird auch verändert durch die Digitalisierung.
 ### Bedarf von Digitaler Technologie
 1. Technology Products & Service
 2. Education
