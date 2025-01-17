@@ -24,6 +24,11 @@ Das Thema wird in mehrere Themen aufgeteilt:
 - Automatisierung
 - Vernetzung
 - Digitaler Kundenzugang
+
+### Bedarf von Digitaler Technologie
+1. Technology Products & Service
+2. Education
+3. Financial Services
 ## Typische Quellen
 - CIO
 - Computerwoche
