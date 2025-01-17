@@ -11,7 +11,10 @@ Es wird zwischen verschiedenen Dimensionen unterschieden:
 - Kundeninteraktion
 >[!QUOTE] Eine kleine Änderung in einem Regelwerk führt zu einer Änderung des gesamten Systems.
 
-Es geht 
+## Digitale Transformation
+Digitale Transformation ist die Veränderung in Strategie, Geschäftsmodell, Prozessen und Kultur.
+Die digitale Transformation betrifft *Unternehmen, Geschäftsmodelle, Prozesse, Beziehungen und Produkte*.
+
 ## Typische Quellen
 - CIO
 - Computerwoche
