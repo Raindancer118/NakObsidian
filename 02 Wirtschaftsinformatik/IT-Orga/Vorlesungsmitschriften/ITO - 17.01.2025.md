@@ -5,6 +5,7 @@
 >[!INFO] Definition
 >Digitalisierung ist die Überführung von Informationen von einer analogen in eine digitale Speicherform. Ferner ist eine Digitalisierung eine spezielle Form der Automatisierung. Digitalisierung $\neq$ Digitale Transformation.
 >Digitalisierung ist die Übertragung von Analogen Prozessen in die digitale Welt.
+>Dabei ist **Digitalisierung ein umfassender Begriff, welcher verschiedene Definitionen** bestitzt.
 
 Es wird zwischen verschiedenen Dimensionen unterschieden: 
 - Leistungserstellung
@@ -50,3 +51,7 @@ Weiter besprochen haben wir den[[Hype Zyklus]].
 - zeitliche Verzögerung beim Eintreten der Nutzwirkung
 #### Reale Probleme
 Die Folien zu den IT-Produktivitätsprobleme finden sich [[IT-Orga Folien.pdf#page=55|hier]].
+
+Wir haben Sachen auf unser wundervolles Mural Board geschrieben, das sich [hier](https://app.mural.co/t/nordakademie1890/m/nordakademie1890/1734516155776/40f4cb6f350a0502f67f26fdf5c8a28d06bd30b0) findet.
+
+Weiterhin haben wir uns mit Jobs im Bezug zu KI und Digitalisierung angesehen.
