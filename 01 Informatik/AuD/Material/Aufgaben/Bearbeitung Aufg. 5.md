@@ -21,6 +21,6 @@ if n > 1
 	Mergesort(B[0..[n/2] - 1])
 	Mergesort(C[0..[n/2] - 1])
 	Merge(B,C,A)
-	return A.getFirst()
+	return A.getLast()
 ```
 ^ Neuer Mergesort-Algorithmus mit Return-Ausgabe

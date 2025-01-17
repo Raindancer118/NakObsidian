@@ -30,8 +30,14 @@
 >```
 
 >[!FORMULA] Pseudocode Algorithm *Merge*
->```
 >//Merges two sorted arrays into one sorted array
+>//Input: Arrays B[0..p - 1] and C[0..q - 1], both sorted
+>//Output: Sorted array A[0..p + q - 1] containing all elements of B and C
+>i ← 0; j ← 0; k ← 0
+
+>[!FORMULA] Pseudocode Algorithm *Merge*
+>```
+//Merges two sorted arrays into one sorted array
 //Input: Arrays B[0..p - 1] and C[0..q - 1], both sorted
 //Output: Sorted array A[0..p + q - 1] containing all elements of B and C
 i ← 0; j ← 0; k ← 0
@@ -41,10 +47,12 @@ while i < p and j < q do
 	else
 		A[k] ← C[j]; j ← j + 1
 	k ← k + 1
-	if i = p
+if i = p
 	copy C[j..q - 1] to A[k..p + q - 1]
-	else copy B[i..p - 1] to A[k..p + q - 1]
+else
+	copy B[i..p - 1] to A[k..p + q - 1]
 	```
+
 
 
 >[!HINT] Die Sortierreihenfolge ist am Ende eigentlich auch egal; die kann von außen mitgegeben werden, sodass der Algorithmus vielseitig einsetzbar ist.
