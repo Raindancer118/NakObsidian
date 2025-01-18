@@ -29,5 +29,7 @@ aliases:
 
 ## Eigenschaften von Relationen
 >[!FORMULA] Reflexiv
->Eine Relation ist *reflexiv*, wenn sie aus zwei identischen Elementen besteht.
+>Eine Relation ist *reflexiv*, wenn sie alle identischen Paare beinhaltet. $Id_M$ ist dabei die Menge der identischen Relationen auf $M$. Man sagt auch, wenn $Id_M \subseteq R$. 
 
+>[!FORMULA] Irreflexiv
+>Eine Relation ist *irreflexiv*, wenn die Schnittmenge zwischen $Id_M$ und $R$ *leer* ist. Das heißt, es darf **keine identischen Paare in $R$ geben**.  Man sagt auch, dass eine Relation *irreflexiv* ist, wenn $Id_M 
