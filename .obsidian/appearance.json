@@ -8,7 +8,8 @@
     "Tags-Callout",
     "HowTo-Callout",
     "Goal-Callout",
-    "Formula-Callout"
+    "Formula-Callout",
+    "Properties-Callout"
   ],
   "theme": "system"
 }

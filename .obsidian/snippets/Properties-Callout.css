@@ -1,0 +1,4 @@
+.callout[data-callout="properties"] {
+    --callout-color: 140, 79, 43;
+    --callout-icon: lucide-table-properties;
+}
