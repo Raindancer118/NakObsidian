@@ -41,4 +41,4 @@ aliases:
 >Eine Relation heißt *asymmetrisch*, wenn *$R$ invers* **nicht** in $R$ liegt. Das heißt, wenn das inverse Paar zum aktuellen Paar eben nicht in der Relation liegt. Man schreibt auch $R \cap R^-1 = \emptyset$.
 
 >[!FORMULA] Antisymmetrisch
->Eine Relation heißt *antisymmetrisch*, wenn die Schnittmenge zwischen $R$ und $R$ invers nicht 
+>Eine Relation heißt *antisymmetrisch*, wenn die Schnittmenge zwischen $R$ und $R$ invers $Id_M$ bildet. Man schreibt dabei $R \cap R^-1 \subseteq Id_M$. 
