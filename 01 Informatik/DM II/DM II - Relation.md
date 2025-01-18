@@ -38,4 +38,4 @@ aliases:
 >Eine Relation heißt *symmetrisch*, wenn $R$ *invers* Teilmenge von R ist. Das heißt, wenn zu jedem Paar auch das inverse Paar in der Relation ist. Man schreibt auch $R^-1 \subseteq R$.
 
 >[!FORMULA] Asymmetrisch
->Eine Relation heißt *asymmetrisch*, wenn *$R$ invers* **nicht** in $R$ liegt. Das heißt  
+>Eine Relation heißt *asymmetrisch*, wenn *$R$ invers* **nicht** in $R$ liegt. Das heißt, wenn das inverse Paar zur Relation   
