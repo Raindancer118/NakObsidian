@@ -1,3 +1,4 @@
+#tbcompleted 
 # <font color = "orange">Graphen</font>
 >[!INFO] Definition
 >Graphen ist eine Datenstruktur, die verwendet wird um Beziehungen zwischen Objekten darzustellen.
@@ -47,6 +48,18 @@ Ein Graph besteht aus:
 
 >[!example]
 >![[Pasted image 20250118182001.png]]
+
+
+### Zusammenhängend
+>[!INFO] Definition
+>Alle Knoten sind verbunden.
+
+#### Stark Zusammenhängend
+>[!INFO] Definition
+>Alle Knoten sind miteinander verbunden 
+#### Schwach Zusammenhängend
+>[!INFO] Definition
+>
 
 ### Einfacher Pfad 
 >[!INFO] Definition
