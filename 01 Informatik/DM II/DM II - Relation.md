@@ -28,3 +28,6 @@ aliases:
 >$R$ kann dabei allerdings auch eine Teilmenge des kartesischen Produktes aus $M \times M$ sein. Ist dies der Fall, ist **$R$ eine Relation auf $M$**.
 
 ## Eigenschaften von Relationen
+>[!FORMULA] Reflexiv
+>Eine Relation ist *reflexiv*, wenn sie aus zwei identischen Elementen besteht.
+
