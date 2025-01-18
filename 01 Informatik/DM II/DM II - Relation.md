@@ -35,7 +35,8 @@ aliases:
 >Eine Relation ist *irreflexiv*, wenn die Schnittmenge zwischen $Id_M$ und $R$ *leer* ist. Das heißt, es darf **keine identischen Paare in $R$ geben**.  Man sagt auch, dass eine Relation *irreflexiv* ist, wenn $Id_M \not\subseteq R$.
 
 >[!FORMULA] Symmetrisch
->Eine Relation heißt *symmetrisch*, wenn $R$ *invers* Teilmenge von R ist. Das heißt, wenn zu jedem Paar auch das inverse Paar in der Relation ist. Man schreibt auch $R^-1 \subseteq R$.
+>Eine Relation heißt *symmetrisch*, wenn *$R$ invers* **Teilmenge** von R ist. Das heißt, wenn zu jedem Paar auch das inverse Paar in der Relation ist. Man schreibt auch $R^-1 \subseteq R$.
 
 >[!FORMULA] Asymmetrisch
->Eine Relation heißt *asymmetrisch*, wenn *$R$ invers* **nicht** in $R$ liegt. Das heißt, wenn das inverse Paar zur Relation   
+>Eine Relation heißt *asymmetrisch*, wenn *$R$ invers* **nicht** in $R$ liegt. Das heißt, wenn das inverse Paar zum aktuellen Paar eben nicht in der Relation liegt. Man schreibt auch $R \cap R^-1 = \emptyset$
+>
