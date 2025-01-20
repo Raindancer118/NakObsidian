@@ -61,4 +61,12 @@ Der Router gibt ein CTS - ein *Clear To Send*. So werden Kollosionen vermieden
 
 ## Token Passing
 Token Passing ist ein Ring von Sendern, die ein gemeinsames Token haben, das der in einem Token Ring von Sender zu Sender weitergegeben wird. 
-Eine Station, die senden will, nimmt sich das Token und kann dann so lange kommunizieren, wie es dieses Token besitzt.
+Eine Station, die senden will, nimmt sich das Token und kann dann so lange kommunizieren, wie es dieses Token besitzt. 
+
+## Adressierung
+Ein Knoten wird in einem Netzwerk identifiziert und ist so erreichbar. Es gibt allerdings auch eine Broadcast-Adresse, sodass alle Geräte gleichzeitig erreichbar sind.
+Die MAC-Adressen (Media Access Control) sind 48-Bit Nummern, die 6 Hex-Bytes sind. 
+Die MAC-Adresse ist immer eindeutig und muss auch eindeutig sein für jedes Gerät, mit dem kommuniziert werden kann.
+Es können nur 256 Milliarden MAC-Adressen vergeben werden.
+
+Die ersten drei Ziffern sind die Kennung des Herstellers.
