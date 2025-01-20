@@ -21,3 +21,5 @@ Es gibt verschiedene Topologien:
 - Vermaschung
 - Vollvermaschung
 	- Es gibt von jedem Gerät zu jedem Gerät eine Leitung, sodass es eine dedizierte Leitung für je zwei Geräte gibt
+- Baum
+	- Es gibt immer garantiert nur genau einen Weg, um von einem 
