@@ -6,6 +6,8 @@
 >8 Bit sind Byte. Ein Bit ist dabei die kleinste Einheit und besteht ausschließlich aus Nullen und Einsen. 
 
 ## kBit
+>[!INFO] Definition
+>1 Kilobit sind 1024 bit.
 ## MBit
 ## GBit
 ## TBit
