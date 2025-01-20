@@ -13,18 +13,6 @@ Endlich heißt dabei, dass jede Möglichkeit hingeschrieben werden kann.
 
 >[!EXAMPLE] Lichtschalter
 >Lichtschalter sind endliche Automaten mit dem einen Zeichen "Drücken" im Alphabet.
-
-# Deterministische Endliche Zustandsautomaten
-Diese sind ein *Quintupel* bestehend aus: 
-$$
-(\sum,S,\delta,s_0,F)
-$$
-$\sum$ bezeichnet dabei das [[Alphabete|Eingabealphabet]].
-$S$ ist die [[Zustandsmenge]]
-$\delta : S*\sum -> S$ ist die [[Zustandsüberführungsfunktion]].
-$S_0$ ist der Startzustand.
-$F$ ist ein Endzustand.
-
 ## Generelle Informationen
 Es gibt endliche Automaten, die einen Speicher haben.
 
@@ -37,3 +25,18 @@ Es gibt endliche Automaten, die einen Speicher haben.
 
 >[!Danger] Endliche Automaten können nicht bis **$\infty$** zählen. Sie können ausschließlich **endliche** Zustandsmengen abbilden.
 
+>[!TIP] Für jeden DEA gibt es auch ein NEA, der dieselbe Sprache spricht wie der DEA.
+## Deterministische Endliche Zustandsautomaten
+Diese sind ein *Quintupel* bestehend aus: 
+$$
+(\sum,S,\delta,s_0,F)
+$$
+$\sum$ bezeichnet dabei das [[Alphabete|Eingabealphabet]].
+$S$ ist die [[Zustandsmenge]]
+$\delta : S*\sum -> S$ ist die [[Zustandsüberführungsfunktion]].
+$S_0$ ist der Startzustand.
+$F$ ist ein Endzustand.
+
+>[!WARNING] DEAs sind im Endeffekt nur spezielle NEAs
+## Nicht deterministischer endlicher Zustandsautomat
+>[!HINT] Ein NEA ist in der Lage, sich selbst unendlich oft zu klonen.
