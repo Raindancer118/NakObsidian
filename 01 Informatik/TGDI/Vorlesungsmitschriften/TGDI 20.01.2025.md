@@ -36,3 +36,5 @@ Auf der Sicherungsschicht wird der Medienzugriff geregelt.
 	- Nicht deterministisch: Alle reden einfach mal und wenns ein Problem gibt wirds behoben
 - Raummultiplex:
 	- Durch räumliche Trennung können Frequenzen sich nicht überlappen und können so wiederverwendet werden
+- Codemultiplex
+	- Es werden unterschiedliche Alphabete je nach Empfänger verwendet
