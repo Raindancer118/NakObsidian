@@ -70,3 +70,5 @@ Die MAC-Adresse ist immer eindeutig und muss auch eindeutig sein für jedes Ger�
 Es können nur 256 Milliarden MAC-Adressen vergeben werden.
 
 Die ersten drei Ziffern sind die Kennung des Herstellers.
+
+Ganz viele Nummern der MAC-Adressen sind wiederverwendet worden, weil diese älter sind und vor einigen Jahren ausgegeben wurden und so vielleicht nicht mehr aktiv sind.
