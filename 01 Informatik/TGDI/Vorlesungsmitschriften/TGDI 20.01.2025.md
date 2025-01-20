@@ -34,3 +34,5 @@ Auf der Sicherungsschicht wird der Medienzugriff geregelt.
 	- Mehr oder weniger abwechselnd ( wie eine Ampel )
 	- Deterministisch: Es wird im Voraus abgemacht, wer redet
 	- Nicht deterministisch: Alle reden einfach mal und wenns ein Problem gibt wirds behoben
+- Raummultiplex:
+	- Durch räumliche Trennung können Frequenzen sich nicht überlappen und können so wiederverwendet werden
