@@ -42,3 +42,4 @@ Auf der Sicherungsschicht wird der Medienzugriff geregelt.
 	- Auf Hawaii entwickeltes Protokoll, nach dem es auch sein kann, dass es zu einer Kollosion kommt. Wenn ja, ist das ganze Datenpaket einfach wertlos.
 
 ## Bearbeitung Aufgaben
+$L = 64\times 8 = 512$
