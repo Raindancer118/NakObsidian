@@ -22,4 +22,9 @@ Es gibt verschiedene Topologien:
 - Vollvermaschung
 	- Es gibt von jedem Gerät zu jedem Gerät eine Leitung, sodass es eine dedizierte Leitung für je zwei Geräte gibt
 - Baum
-	- Es gibt immer garantiert nur genau einen Weg, um von einem 
+	- Es gibt immer garantiert nur genau einen Weg, um von einem Gerät zu einem anderen zu kommen. 
+	  >[!WARNING] Eine Vermaschung ist dieser Leitung vorzuziehen.
+- BUS (Binary Unit System)
+	- Es werden mehrere Teilnehmer direkt physisch an genau eine einzige Leitung gehängt. Es können keine zwei Teilnehmer miteinander reden, während andere miteinander reden. Gleichzeitig ist Routing nicht nötig. Allerdings können alle Teilnehmer alle Nachrichten mithören.
+
+Auf der Sicherungsschicht wird der Medienzugriff geregelt.
