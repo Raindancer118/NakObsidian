@@ -28,3 +28,9 @@ Es gibt verschiedene Topologien:
 	- Es werden mehrere Teilnehmer direkt physisch an genau eine einzige Leitung gehängt. Es können keine zwei Teilnehmer miteinander reden, während andere miteinander reden. Gleichzeitig ist Routing nicht nötig. Allerdings können alle Teilnehmer alle Nachrichten mithören.
 
 Auf der Sicherungsschicht wird der Medienzugriff geregelt.
+
+## Multiplexen
+- Zeitmultiplex:
+	- Mehr oder weniger abwechselnd ( wie eine Ampel )
+	- Deterministisch: Es wird im Voraus abgemacht, wer redet
+	- Nicht deterministisch: Alle reden einfach mal und wenns ein Problem gibt wirds behoben
