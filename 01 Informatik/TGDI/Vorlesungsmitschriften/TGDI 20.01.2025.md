@@ -14,3 +14,10 @@ Eine Verbindung zwischen zwei Netzwerkknoten wird definiert durch:
 Die Serialisierungszeit wird berechnet durch: $t_s = \frac{L}{r_{ij}}$. So rechnet man die Länge der Daten $L$ durch die Geschwindigkeit der Leitung $r$ zwischen den beiden Computern $i$ und $j$.
 
 Die Übertragung dauert also eine Zeit, bis sie erreicht ist. Dann stellt sich die Frage, wie lang das ist. So wird nun die Dauer der Übertragung berechnet: $t_d=t_s+t_p$. $t_p$ steht dabei für die [[Ausbreitungsverzögerung]].
+
+Es gibt verschiedene Topologien:
+- Stern
+	- In der Mitte ist der Switch und alle Geräte sind am Switch
+- Vermaschung
+- Vollvermaschung
+	- Es gibt von jedem Gerät zu jedem Gerät eine Leitung, sodass es eine dedizierte Leitung für je zwei Geräte gibt
