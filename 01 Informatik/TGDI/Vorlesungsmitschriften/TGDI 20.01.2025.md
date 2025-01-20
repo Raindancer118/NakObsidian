@@ -11,6 +11,6 @@ Eine Verbindung zwischen zwei Netzwerkknoten wird definiert durch:
 - Mehrfachzugriffs (Multiplexing)
 
 **Serialisierung**
-Die Serialisierungszeit wird berechnet durch: $t_s = \frac{L}{r_{ij}}$. So rechnet man die Länge des Kabels $L$ durch die Geschwindigkeit der Leitung $r$ zwischen den beiden Computern $i$ und $j$.
+Die Serialisierungszeit wird berechnet durch: $t_s = \frac{L}{r_{ij}}$. So rechnet man die Länge der Daten $L$ durch die Geschwindigkeit der Leitung $r$ zwischen den beiden Computern $i$ und $j$.
 
 Die Übertragung dauert also eine Zeit, bis sie erreicht ist. Dann stellt sich die Frage, wie lang das ist. So wird nun die Dauer der Übertragung berechnet: $t_d=t_s+t_p$. $t_p$ steht dabei für die [[Ausbreitungsverzögerung]].
