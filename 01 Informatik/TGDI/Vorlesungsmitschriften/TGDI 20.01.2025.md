@@ -45,4 +45,11 @@ Auf der Sicherungsschicht wird der Medienzugriff geregelt.
 $L = 64\times 8 = 512$ Bit / Sekunde
 Ausbreitungsverzögerung:
 $v*c = \frac{2}{3} * 300.000 = 200.000$
-*Gesucht: $d$* = 
+*Gesucht: $d$* 
+
+Dann gilt:
+$$
+2*\frac{d}{v*c} < \frac{L}{r_{ij}} = d<\frac{L*v*c}{2*r_{ij}} = \frac{512*\frac{2}{3}*300.000\text{km}} = 512*\frac{100.000}{10.000.000}\text{km} = 5,12 \text{km}
+$$
+
+Für Lösungen siehe [[I178-02-mac-handout.pdf#page=37|hier]].
