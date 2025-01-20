@@ -53,3 +53,12 @@ $$
 $$
 
 Für Lösungen siehe [[I178-02-mac-handout.pdf#page=37|hier]].
+
+## CSMA/CA
+Carrier Sense Multiple Access/Collision Avoidance
+Im Voraus wird an den Router eine RTS geschickt - eine *Request To Send*.
+Der Router gibt ein CTS - ein *Clear To Send*. So werden Kollosionen vermieden
+
+## Token Passing
+Token Passing ist ein Ring von Sendern, die ein gemeinsames Token haben, das der in einem Token Ring von Sender zu Sender weitergegeben wird. 
+Eine Station, die senden will, nimmt sich das Token und kann dann so lange kommunizieren, wie es dieses Token besitzt.
