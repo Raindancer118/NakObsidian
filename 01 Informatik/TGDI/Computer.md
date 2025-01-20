@@ -1,4 +1,4 @@
-A# <font color = "orange">Computer</font>
+# <font color = "orange">Computer</font>
 >[!INFO] Definition
 >Ein Computer ist ein Apparat, der Daten mithilfe einer programmierbaren Rechenvorschrift bearbeiten kann.
 
