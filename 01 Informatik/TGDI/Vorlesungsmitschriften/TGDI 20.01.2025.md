@@ -38,3 +38,5 @@ Auf der Sicherungsschicht wird der Medienzugriff geregelt.
 	- Durch räumliche Trennung können Frequenzen sich nicht überlappen und können so wiederverwendet werden
 - Codemultiplex
 	- Es werden unterschiedliche Alphabete je nach Empfänger verwendet
+- ALOHA
+	- Auf Hawaii entwickeltes Protokoll, nach dem es auch sein kann, dass es zu einer Kollosion kommt. Wenn ja, ist das ganze Datenpaket einfach wertlos.
