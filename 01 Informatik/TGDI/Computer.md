@@ -4,3 +4,4 @@ A# <font color = "orange">Computer</font>
 
 >[!EXTRA] Microcomputer
 >Microcomputer sind Computer, die als zentrale Einheit einen Mikroprozessor besitzen.
+
