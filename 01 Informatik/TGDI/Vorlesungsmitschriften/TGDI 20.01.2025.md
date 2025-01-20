@@ -45,4 +45,4 @@ Auf der Sicherungsschicht wird der Medienzugriff geregelt.
 $L = 64\times 8 = 512$ Bit / Sekunde
 Ausbreitungsverzögerung:
 $v*c = \frac{2}{3} * 300.000 = 200.000$
-*Gesucht: $d$*
+*Gesucht: $d$* = 
