@@ -1,3 +1,10 @@
+---
+aliases:
+  - compiled
+  - compile
+  - kompilieren
+  - kompiliert
+---
 ## <font color = "orange">Compiler</font>
 
 >[!SUMMARY]

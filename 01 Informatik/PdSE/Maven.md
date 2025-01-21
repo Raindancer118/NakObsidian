@@ -58,9 +58,9 @@ Besteht grob aus 23 Phasen
 - **[[compile]]**
 - **generate-test-sources**
 - **generate-test-resources**
-- **test-compile**
+- **test-[[Compiler|compile]]**
 - **test** - hier werden Tests durchgeführt, über bspw jUnit Tests.
-- **pre-package**
+- **pre-[[Packages|package]]**
 - **pre-integration-tests** - Integrationstests; es wird geprüft, ob sich die [[Software]] mit anderen Komponenten integrieren lässt.
 - **[[verify]]**
 - **[[install]]** - Ablegen des Artefaktes in das lokale Maven Repository
