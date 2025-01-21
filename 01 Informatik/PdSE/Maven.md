@@ -34,4 +34,38 @@ In der Vorlesung wird fix `modelVersion 4.0.0` verwendet.
 `plugins` beinhaltet Details zu Apache Plugins, in denen bspw das Maven-Jar-Plugin eingefügt werden kann. Dieses findet sich unter *MVN Repositories*.
 ### Reporting
 Maven kann über Plugins nach dem Build anzeigen lassen, was für Vulnerabilities der Code beinhaltet. Dies läuft in einem eigenen Verzeichnis und lässt sich ebenfalls in der POM-File regeln.
-Reports lassen sich bilden über beispielsweise das Plugin *maven-projekt-info-reports*
+Reports lassen sich bilden über beispielsweise das Plugin *maven-projekt-info-reports*.
+
+## Kommandozeilen-Befehle
+`mvn verify` ist der Befehl der normalerweise zum Builden des Projektes ausreicht.
+`mvn clean verify` ist die Alternative, bei denen zunächst "aufgeräumt" wird.
+
+## Maven Lifecycle
+Maven's Build Lifecylce
+### Maven Clean Lifecycle
+Hier werden die Daten des vorangegangenen Builds gelöscht.
+Es gibt drei Unter-Phasen:
+- pre-clean
+- clean - hier werden alle Dateien der vorangegangen Builds gelöscht.
+- post-clean
+Der Build-Prozess könnte beschleunigt werden, wenn 
+### Maven Default Lifecycle
+Besteht grob aus 23 Phasen
+- **[[validate]]**
+- **[[initialize]]**
+- **generate-sources**
+- **generate-resources**
+- **[[compile]]**
+- **generate-test-sources**
+- **generate-test-resources**
+- **test-compile**
+- **test** - hier werden Tests durchgeführt, über bspw jUnit Tests.
+- **pre-package**
+- **pre-integration-tests** - Integrationstests; es wird geprüft, ob sich die Software mit anderen Komponenten integrieren lässt.
+- **[[verify]]**
+- **[[install]]** - Ablegen des Artefaktes in das lokale Maven Repository
+- **deploy** - Ablegen des Artefaktes in das remote Maven Repository
+### Maven Site Lifecycle
+- **pre-site**
+- **site**
+- 
