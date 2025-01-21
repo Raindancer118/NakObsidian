@@ -9,7 +9,7 @@
 >[!WARNING] **WARNING**
 >Von Abstrakten [[Klasse|Klassen]] **kann kein [[Java - Objekt]] erstellt werden!**
 
->[!EXAMPLE] Syntax
+>[!EXAMPLE] [[Syntax]]
 >*public abstract class KlassenName {
 >...
 >}*

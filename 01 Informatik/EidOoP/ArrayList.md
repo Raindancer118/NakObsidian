@@ -7,6 +7,6 @@
 >**Häufig genutzte Befehle:**
 >*Siehe [[Collection]]* 
 
->[!EXAMPLE] Syntax
+>[!EXAMPLE] [[Syntax]]
 >ArrayList$<$Integer$>$ newList = new ArrayList$<>$();
 
