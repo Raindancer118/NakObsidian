@@ -15,7 +15,7 @@
 >Der Befehl `BEGIN` wechselt von SQL-Anweisungen in den PL/SQL-Modus, sodass die neuen Anweisungen ausgeführt werden können.
 
 >[!INFO] `DECLARE`
->Der Befehl `DECLARE` erlaubt die Definition von Variablen oder benutzerdefinierten Exceptions.
+>Der Befehl `DECLARE` erlaubt die Definition von [[Programmierung - Variable|Variablen]] oder benutzerdefinierten Exceptions.
 
 >[!INFO] `END;`
 >Der Befehl `END;` beendet die Ausführung von PL/SQL-Befehlen im Code und wechselt zurück zu normalem SQL.
@@ -66,7 +66,7 @@
 >```
 ## Ausgabe von Textzeilen auf dem Bildschirm
 Zunächst muss für die Ausgabe von Text auf dem Bildschirm der Befehl `SET SERVEROUTPUT ON` ausgeführt werden, um diese zu aktivieren.
-## Variablen
+## [[Programmierung - Variable|Variablen]]
 Variablennamen dürfen eine Länge von maximal 30 Zeichen haben und dürfen Sonderzeichen, sowie Buchstaben und Zahlen enthalten. Sie dürfen nicht nach einem reservierten Ausdruck wie `SELECT` verwendet werden.
 [[11_PLSQL v2.0jh.pdf#page=10|Siehe Folien für weitere Informationen]]
 

@@ -12,3 +12,4 @@ Hierbei gelten einige der normalen Potenzregeln, beispielsweise ist $a^0 = \vare
 ## Teilwörter
 ### Substring
 Ein Substring ist ein Substring, wenn er ein Infix von w ist.
+>[!HINT] Für Verwendung in Java, siehe [[Java - Substring]].

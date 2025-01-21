@@ -14,7 +14,9 @@ aliases:
 >Methoden müssen **innerhalb von [[Klasse|Klassen]]** geschrieben werden!
 
 >[!EXAMPLE]
->*public void printDiamond(int count) {
+>```
+>public void printDiamond(int count) {
 >	(Methodenrumpf)
->	}*
+>	}
+>```
 
