@@ -15,7 +15,7 @@
 - Themenübersicht:
 	- [[IntelliJ]]
 	- Arbeiten im Team mit [[Git]]
-	- Build-Tools
+	- [[Building|Build]]-Tools
 	- [[Errorhandling]]
 	- [[Generics]], [[File Handling]]
 	- [[Klasse]], [[Java - Objekt]] & [[Collections]]

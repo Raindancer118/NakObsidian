@@ -1,6 +1,7 @@
 ---
 aliases:
   - Build
+  - Bauen
 ---
 
 # <font color = "orange">Building</font>
