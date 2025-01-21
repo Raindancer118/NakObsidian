@@ -5,6 +5,8 @@
 Maven sieht eine Standard-Verzeichnisstruktur vor. Diese unterscheidet sich nicht stark von der Standard-Struktur von IntelliJ.
 
 ## POM-Files
+>[!HINT] **POM steht für *Project Object Model***.
+
 Ein Maven-Projekt benötigt keinen Quellcode; ausschließlich eine pom.xml-Datei.
 Eine POM-Datei beinhaltet:
 - Dependencies
@@ -18,3 +20,6 @@ Eine POM-Datei beinhaltet:
 
 ### XML/Modell Einstellungen
 In der Vorlesung wird fix `modelVersion 4.0.0` verwendet.
+
+### Metadaten
+- groupId: 
