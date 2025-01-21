@@ -8,6 +8,7 @@ Maven sieht eine Standard-Verzeichnisstruktur vor. Diese unterscheidet sich nich
 >[!HINT] **POM steht für *Project Object Model***.
 
 Ein Maven-Projekt benötigt keinen Quellcode; ausschließlich eine pom.xml-Datei.
+Die POM-Datei bietet sehr viele Konfigurationsmöglichkeiten. Die ohnehin schon große Funktionalität kann weiter erweitert werden durch Plugins. 
 Eine POM-Datei beinhaltet:
 - Dependencies
 - Identifikatoren (Eindeutige IDs für das Projekt)
