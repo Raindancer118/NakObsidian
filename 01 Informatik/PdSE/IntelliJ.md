@@ -1,2 +1,3 @@
 # <font color = "orange">IntelliJ</font>
-#tbd 
+## Building in IntelliJ
+IntelliJ baut Projekte, wenn nötig. Es gibt Maven-Integrationen für IntelliJ.
