@@ -22,4 +22,10 @@ Eine POM-Datei beinhaltet:
 In der Vorlesung wird fix `modelVersion 4.0.0` verwendet.
 
 ### Metadaten
-- groupId: 
+- groupId: Eine GroupId sollte mit dem Pfad des Projektes auf dem Datenträger korrespondieren, muss aber nicht "C:\\" und so sein.
+- artifactId: Der offizielle Name des Projektes
+- version: die Version der Software, damit man identifizieren kann: groupId:artifactId
+- type: .jar oder .war
+- scope:
+- optional: Erklärt, ob die Dependency zwangsweise zum Bauen des Projektes verfügbar sein muss, oder ob es auch ohne dieses Projekt funktioniert.
+- dependencies: auch die Dependencies werden diesem Schema nach aufgeschrieben.
