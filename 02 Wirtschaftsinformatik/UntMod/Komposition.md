@@ -4,3 +4,5 @@
 
 >[!HINT]
 >Die Komposition ist Teil von [[ArchiMate]].
+
+>[!EXAMPLE] Ein Beispiel für eine Komposition wäre ein Raum eines Gebäudes. Ohne das Gebäude könnte der Raum nicht existieren.
