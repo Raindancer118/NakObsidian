@@ -84,4 +84,5 @@ Trigger können dabei Prozeduren automatisch ausführen.
 >		{Prozedurrumpf}
 >	END;
 >```
-
+### Trigger
+Prozeduren können durch Trigger ausgelöst werden, die nach einem bestimmten Befehl oder einer bestimmten Aktion direkt eine Aktion durchführen. 
