@@ -3,10 +3,16 @@ Grundlegend ist die Geschäftsidee der **PEGASUS IT SOLUTIONS** ist die Gründun
 ## Unternehmensform
 Die Unternehmensform der **PEGASUS** wäre zunächst die UG, die schlussendlich in eine GmbH übergehen würde. 
 Das Unternehmen hätte grundsätzlich eine viergeteilte Gesellschafterstruktur:
-- Niklas Krause
-- Tobias Pusch
-- Tom Hemme
-- Tom Stieh
-Dabei wären den jeweiligen Gesellschaftern zur Aufnahme der Geschäftstätigkeit folgende Aufgaben zugedacht:
->[!EXTRA] Niklas Krause
->Niklas würde die Aufgabe als *Head *
+>[!EXTRA]- Niklas Krause
+>Niklas würde die Aufgabe als *Head Of Finance* übernehmen. Weiterhin würde er die Buchhaltung des Unternehmens erledigen und die Beratung für *DATEV* übernehmen.
+
+>[!EXTRA]- Tobias Pusch
+>Tobi würde die Aufgabe der SAP-Beratung übernehmen und als Sales Agent für SAP arbeiten.
+
+>[!EXTRA]- Tom Hemme
+>Tom Hemme würde 
+
+>[!EXTRA]- Tom Stieh
+>Tom Stieh würde die Arbeit in der IT-Sicherheit übernehmen
+
+### IT Infrastruktur
