@@ -2,8 +2,11 @@
 - Unternehmensarchitektur
 	- [[Architektur]]
 	- [[Architektur-Frameworks]]
-	- 
 - Geschäftsarchitektur
+	- Geschäftsziele
+	- [[Geschäftsfähigkeiten]]
+	- Geschäftsobjekte
+	- Geschäftsprozesse
 	- [[ArchiMate]]
 	- [[BPMN]]
 - Einführung in die Prozessmodellierung
