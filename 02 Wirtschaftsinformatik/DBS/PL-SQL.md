@@ -78,5 +78,10 @@ Trigger können dabei Prozeduren automatisch ausführen.
 >[!INFO] Syntax
 >```
 >CREATE (OR REPLACE) PROCEDURE {Prozedurname}
->
+>	[({parameterliste})] IS
+>	{lokaleVariable}
+>	BEGIN
+>		{Prozedurrumpf}
+>	END;
 >```
+
