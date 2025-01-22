@@ -72,3 +72,11 @@ Variablennamen dürfen eine Länge von maximal 30 Zeichen haben und dürfen Sond
 
 ## `%ROWTYPE`
 Mithilfe von `%ROWTYPE` lässt sich die Struktur einer Tabelle komplett übernehmen, sodass Daten aus verschiedenen Spalten einfach in eine einzige Variable gespeichert werden können.
+## Prozeduren
+Prozeduren sind Funktionen, die definiert werden können. Wird ihnen einen Namen gegeben, dann werden diese vom Oracle-DBMS in kompilierter Form abgelegt und auf dem Server gespeichert und auch dort ausgeführt.
+Trigger können dabei Prozeduren automatisch ausführen.
+>[!INFO] Syntax
+>```
+>CREATE (OR REPLACE) PROCEDURE {Prozedurname}
+>
+>```
