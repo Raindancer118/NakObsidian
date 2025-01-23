@@ -24,3 +24,7 @@ Die Folien dazu sind [[Folien.pdf#page=38]].
 ### Arithmetische Reihe
 Eine arithmetische Reihe beruht auf einer arithmetischen Folge.
 ### Geometrische Reihe
+Formel für die Teilsummenformel:
+$$
+\frac{q^{n+1}-1}{q-1}
+$$
