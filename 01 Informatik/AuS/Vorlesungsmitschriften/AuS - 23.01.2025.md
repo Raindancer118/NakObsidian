@@ -36,3 +36,8 @@ ergibt sich als Teilsumme $$s_n=a_0*\frac{q^{n+1}-1}{q-1}$$. Frage: Wann ist die
 Geld hat einen Zeitwert. Wenn ich Geld schon heute haben, kann ich es direkt nutzen und es beispielsweise anlegen.
 
 In der Finanzmathematik sollen wir das Ergebnis immer auf zwei Dezimalstellen runden.
+
+Zinssatz $i$.
+Zinsrate $r = 1 +i$
+Anzahl Jahre $n$
+Anzahl Zinsperioden/Jahre $m$
