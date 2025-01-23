@@ -11,3 +11,7 @@ Die Summe von 1 bis 19 soll dargestellt werden in einem Summenzeichen. So wird g
 $$
 \sum_{k=2}^{11}(2k-3)
 $$
+
+Wenn man das Summenzeichen auf einer Summe hat, dann lässt sich dieses aufspalten in zwei identische Summenzeichen mit je einem der beiden Summanden. Dasselbe gilt für eine Subtraktion.
+
+Das Symbol für eine unendliche Reihe ist $$\sum_{n=1}^{\infty}a_n$$. $a_n$ ist dabei ein Glied der Reihe und $s_n$ heißt Teilsumme oder auch Partialsumme der Reihe.
