@@ -4,6 +4,18 @@
    Soll der Median ermittelt werden, so wird dieses im Bruteforce errechnet, indem alle Elemente verglichen und der mittlere davon genommen wird
 
 ```
-for i in range (0 < Array.Length)
+public String searchElement (Element searchedElement) {
+	for (i = 0; i < array.size() ; i++) {
+		if (array.get(i) == searchedElement) {
+		return "Element found at i = " + i
+		}
+	}
+	return null;
+}
+```
+
+```
+public String searchElement (Element searchedElement) {
 	
+}
 ```
