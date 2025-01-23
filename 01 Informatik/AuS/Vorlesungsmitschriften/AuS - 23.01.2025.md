@@ -1,5 +1,5 @@
 # <font color = "orange">AuS - 23.01.2025</font>
-Häufungspunkt d . <=> In jeder $\varepsilon$-Umgebund von a liegen unendlich viele Folgen-Glieder.
+Häufungspunkt d . <=> In jeder $\varepsilon$-Umgebung von a liegen unendlich viele Folgen-Glieder.
 Thema Folgen abgeschlossen!
 
 ---
@@ -28,3 +28,6 @@ Formel für die Teilsummenformel:
 $$
 \frac{q^{n+1}-1}{q-1}
 $$
+
+Für eine geometrische Reihe $$a_0 \sum_{n=0}^\infty q^n$$
+ergibt sich als Teilsumme $$s_n=a_0*\frac{q^{n+1}-1}{q-1}$$. Frage: Wann ist die Teilsummenfolge **konvergent**?$$\lim\limits_{n \to \infty} s_n = \lim\limits_{n \to \infty} a_0 * \frac{q^{n+1}-1}{q-1}=a_0*\lim\limits_{n \to \infty}\frac{q^{n+1}-1}{q-1}$$. Für $|q| < 1$ gilt $\lim\limits_{n\to\infty}q^{n+1}=0$. Daraus ergibt sich 
