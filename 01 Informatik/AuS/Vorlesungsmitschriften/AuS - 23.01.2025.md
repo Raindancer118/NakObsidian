@@ -55,3 +55,14 @@ A -
 **In zwei Jahren**
 37.131,50 EUR
 **In drei Jahren**
+53.245,45 EUR
+
+B-
+**Heute**
+0 EUR
+**In einem Jahr** 
+45.000 EUR
+**In zwei Jahren**
+51.350 EUR
+**In drei Jahren**
+52.890,50 EUR
