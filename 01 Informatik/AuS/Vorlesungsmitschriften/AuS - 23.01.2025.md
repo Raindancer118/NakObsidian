@@ -37,10 +37,10 @@ Geld hat einen Zeitwert. Wenn ich Geld schon heute haben, kann ich es direkt nut
 
 In der Finanzmathematik sollen wir das Ergebnis immer auf zwei Dezimalstellen runden.
 
-Zinssatz $i$.
+Zinssatz $i$ - Nominalzins
 Zinsrate $r = 1 +i$
 Anzahl Jahre $n$
-Anzahl Zinsperioden/Jahre $m$
+Anzahl Zinsperioden/Jahre $m$ 
 
 Aufgabe: Verkauf einer Maschine: Welches Angebot ist das günstigste?
 Angebot A: Sofort 35.000 EUR und 15.000 EUR in 3 Jahren
