@@ -17,3 +17,9 @@ Wenn man das Summenzeichen auf einer Summe hat, dann lässt sich dieses aufspalt
 Das Symbol für eine unendliche Reihe ist $$\sum_{n=1}^{\infty}a_n$$. $a_n$ ist dabei ein Glied der Reihe und $s_n$ heißt Teilsumme oder auch Partialsumme der Reihe.
 
 Eine Reihe ist **konvergent**, wenn ihre Teilsummenfolgen **konvergent** sind.
+
+Eine Reihe ist dann **divergent**, wenn sie nicht **konvergent** ist. 
+Die Folien dazu sind [[Folien.pdf#page=38]].
+
+### Arithmetische Reihe
+Eine arithmetische Reihe beruht auf einer arithmetischen Folge.
