@@ -23,6 +23,4 @@ Die Folien dazu sind [[Folien.pdf#page=38]].
 
 ### Arithmetische Reihe
 Eine arithmetische Reihe beruht auf einer arithmetischen Folge.
-
-
 ### Geometrische Reihe
