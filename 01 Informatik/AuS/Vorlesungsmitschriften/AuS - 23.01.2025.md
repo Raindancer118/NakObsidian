@@ -41,3 +41,17 @@ Zinssatz $i$.
 Zinsrate $r = 1 +i$
 Anzahl Jahre $n$
 Anzahl Zinsperioden/Jahre $m$
+
+Aufgabe: Verkauf einer Maschine: Welches Angebot ist das günstigste?
+Angebot A: Sofort 35.000 EUR und 15.000 EUR in 3 Jahren
+Angebot B: In einem Jahr 45.000 EUR und in 2 Jahren 5.000 EUR
+Vergleichszinssatz $3\%$
+
+A -
+**Heute**
+35.000 EUR
+**In einem Jahr** 
+36.050 EUR
+**In zwei Jahren**
+37.131,50 EUR
+**In drei Jahren**
