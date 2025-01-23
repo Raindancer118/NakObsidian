@@ -34,3 +34,5 @@ ergibt sich als Teilsumme $$s_n=a_0*\frac{q^{n+1}-1}{q-1}$$. Frage: Wann ist die
 
 ### Finanzmathematik - 1
 Geld hat einen Zeitwert. Wenn ich Geld schon heute haben, kann ich es direkt nutzen und es beispielsweise anlegen.
+
+In der Finanzmathematik sollen wir das Ergebnis immer auf zwei Dezimalstellen runden.
