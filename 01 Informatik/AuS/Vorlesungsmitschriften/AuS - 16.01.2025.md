@@ -64,12 +64,12 @@ Wenn wir eine riesige $\varepsilon$-Umgebung schaffen, dann sind natürlich alle
 Das *Anfangsstück* der Folge ist endlich und das *Endstück* ist unendlich.
 >[!QUOTE] Die Endlichkeit bleibt draußen und wir beherrschen die Unendlichkeit.
 
-Folgen mit der Eigenschaft, dass für jede beliebig kleine oder große $\huge\varepsilon$-Umgebung einer Zahl a (Beispiel: 0) die Folge in ein endliches Anfangsstück und ein unendliches Endstück geteilt wird, werden wir als *[[konvergent]]* bezeichnen. 
+Folgen mit der Eigenschaft, dass für jede beliebig kleine oder große $\huge\varepsilon$-Umgebung einer Zahl a (Beispiel: 0) die Folge in ein endliches Anfangsstück und ein unendliches Endstück geteilt wird, werden wir als *[[Konvergenz]]* bezeichnen. 
 
 $$
 \forall \varepsilon > 0: \exists n_0 \in \mathbb{N}: \forall n \in \mathbb{N}: n>n_0 \Rightarrow |a_n-a|<\varepsilon
 $$
-*Konvergenz gegen $a\in\mathbb{R}$*
+*[[Konvergenz]] gegen $a\in\mathbb{R}$*
 
 >[!QUOTE] "Für jede Epsilon-Umgebung, die größer als Null ist, gilt, dass es ein N-Null gibt, das in N ist,"
 
@@ -109,4 +109,4 @@ Ein Beispiel dazu findet sich auf [[Folien.pdf#page=30|Folie 24]].
 ### Unendlich
 Wenn man etwas zu $\huge\infty$ dazuaddiert, dann bleibt dies $\huge\infty$. Dasselbe gilt für eigentlich alle  anderen Rechenoperationen, außer es wird $\huge\infty$ von einem anderen $\huge\infty$ abgezogen. Dort ist das Egebnis unklar.
 
-Ist eine Folge beschränkt und monoton, dann ist die Folge automatisch auch *konvergent*. Wieso dem so ist, lässt sich [[Folien.pdf#page=32|hier]] nachlesen.
+Ist eine Folge beschränkt und monoton, dann ist die Folge automatisch auch *[[Konvergenz|konvergent]]*. Wieso dem so ist, lässt sich [[Folien.pdf#page=32|hier]] nachlesen.

@@ -16,9 +16,9 @@ Wenn man das Summenzeichen auf einer Summe hat, dann lässt sich dieses aufspalt
 
 Das Symbol für eine unendliche Reihe ist $$\sum_{n=1}^{\infty}a_n$$. $a_n$ ist dabei ein Glied der Reihe und $s_n$ heißt Teilsumme oder auch Partialsumme der Reihe.
 
-Eine Reihe ist **konvergent**, wenn ihre Teilsummenfolgen **konvergent** sind.
+Eine Reihe ist **[[Konvergenz|konvergent]]**, wenn ihre Teilsummenfolgen **[[Konvergenz|konvergent]]** sind.
 
-Eine Reihe ist dann **divergent**, wenn sie nicht **konvergent** ist. 
+Eine Reihe ist dann **divergent**, wenn sie nicht **[[Konvergenz|konvergent]]** ist. 
 Die Folien dazu sind [[Folien.pdf#page=38]].
 
 ### Arithmetische Reihe
@@ -30,4 +30,4 @@ $$
 $$
 
 Für eine geometrische Reihe $$a_0 \sum_{n=0}^\infty q^n$$
-ergibt sich als Teilsumme $$s_n=a_0*\frac{q^{n+1}-1}{q-1}$$. Frage: Wann ist die Teilsummenfolge **konvergent**?$$\lim\limits_{n \to \infty} s_n = \lim\limits_{n \to \infty} a_0 * \frac{q^{n+1}-1}{q-1}=a_0*\lim\limits_{n \to \infty}\frac{q^{n+1}-1}{q-1}$$. Für $|q| < 1$ gilt $\lim\limits_{n\to\infty}q^{n+1}=0$. Daraus ergibt sich 
+ergibt sich als Teilsumme $$s_n=a_0*\frac{q^{n+1}-1}{q-1}$$. Frage: Wann ist die Teilsummenfolge **[[Konvergenz|konvergent]]**?$$\lim\limits_{n \to \infty} s_n = \lim\limits_{n \to \infty} a_0 * \frac{q^{n+1}-1}{q-1}=a_0*\lim\limits_{n \to \infty}\frac{q^{n+1}-1}{q-1}$$. Für $|q| < 1$ gilt $\lim\limits_{n\to\infty}q^{n+1}=0$. Daraus ergibt sich ![[PXL_20250123_161300181.MP~2.jpg]]. Damit lässt sich nun endlich errechnen, dass unser Quadrat von vorher gegen 2 **[[Konvergenz|konvergiert]]**.
