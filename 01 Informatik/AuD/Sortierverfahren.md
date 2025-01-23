@@ -16,7 +16,7 @@
 >- *Stabiles* Sortierverfahren 
 >- Arrays werden *sequentiell* verarbeitet
 
->[!FORMULA] Pseudocode
+>[!FORMULA] [[Pseudocode]]
 >```
 >//Sorts array A[0..n - 1] by recursive mergesort
 >//Input: An array A[0..n - 1] of orderable elements
@@ -29,7 +29,7 @@
 >	Merge(B,C,A)
 >```
 
->[!FORMULA] Pseudocode Algorithm *Merge*
+>[!FORMULA] [[Pseudocode]] Algorithm *Merge*
 >```
 >//Merges two sorted arrays into one sorted array
 >//Input: Arrays B[0..p - 1] and C[0..q - 1], both sorted
@@ -45,7 +45,7 @@
 >else copy B[i..p - 1] to A[k..p + q - 1]
 >```
 
->[!HINT] Die Sortierreihenfolge ist am Ende eigentlich auch egal; die kann von außen mitgegeben werden, sodass der Algorithmus vielseitig einsetzbar ist.
+>[!HINT] Die Sortierreihenfolge ist am Ende eigentlich auch egal; die kann von außen mitgegeben werden, sodass der [[Algorithmus]] vielseitig einsetzbar ist.
 
 >[!WARNING] Der Speicherplatz von Mergesort liegt bei log(n).
 
