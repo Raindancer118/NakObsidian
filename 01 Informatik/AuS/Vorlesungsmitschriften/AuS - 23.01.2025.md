@@ -31,3 +31,6 @@ $$
 
 Für eine geometrische Reihe $$a_0 \sum_{n=0}^\infty q^n$$
 ergibt sich als Teilsumme $$s_n=a_0*\frac{q^{n+1}-1}{q-1}$$. Frage: Wann ist die Teilsummenfolge **[[Konvergenz|konvergent]]**?$$\lim\limits_{n \to \infty} s_n = \lim\limits_{n \to \infty} a_0 * \frac{q^{n+1}-1}{q-1}=a_0*\lim\limits_{n \to \infty}\frac{q^{n+1}-1}{q-1}$$. Für $|q| < 1$ gilt $\lim\limits_{n\to\infty}q^{n+1}=0$. Daraus ergibt sich ![[PXL_20250123_161300181.MP~2.jpg]]. Damit lässt sich nun endlich errechnen, dass unser Quadrat von vorher gegen 2 **[[Konvergenz|konvergiert]]**.
+
+### Finanzmathematik - 1
+Geld hat einen Zeitwert. Wenn ich Geld schon heute haben, kann ich es direkt nutzen und es beispielsweise anlegen.
