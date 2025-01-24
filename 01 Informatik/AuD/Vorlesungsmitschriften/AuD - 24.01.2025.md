@@ -21,8 +21,13 @@ Function median(A[0 ... n-1]) {
 	K = |n/2|
 	for (int i=0;i < n; i++) {
 		numssmaller=0;
+		numsequal=0;
 		for (int j=0;j < n; j++) {
-			numssmaller++;
+			if (A[j] < A[i]){
+				numssmaller++;
+			} else if (A[j] == A[i]) {
+				numsequal++
+			}
 		}
 	}
 	if(numssmaller = K) {
