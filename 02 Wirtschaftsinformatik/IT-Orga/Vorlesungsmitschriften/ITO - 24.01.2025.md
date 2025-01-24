@@ -48,3 +48,7 @@ Das Projektportfolio wird unterschiedlich aufgebaut in vier verschiedene Kategor
 - "Need a good reason"
 - "Low hanging fruits"
 
+Tipp für unsere Projektliste:
+- Alles bis auf 1/4 streichen
+- Keine neuen Projekte annehmen
+- 
