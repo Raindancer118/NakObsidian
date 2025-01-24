@@ -35,3 +35,11 @@ Function median(A[0 ... n-1]) {
 	}
 }
 ```
+### Vorsortiert
+Einfach den mittleren Wert herausholen: A[n/2]
+
+## Min / Max
+### Bruteforce
+Alle anschauen und min und Max bis zum Ende merken.
+$\Theta(n)$
+### Divide & Conquer
