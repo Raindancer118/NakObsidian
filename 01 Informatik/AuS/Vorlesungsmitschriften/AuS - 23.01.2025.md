@@ -66,3 +66,6 @@ B-
 51.350 EUR
 **In drei Jahren**
 52.890,50 EUR
+
+#### Kontinuierliche Verzinsung
+$K_n = 100*e^0,03$
