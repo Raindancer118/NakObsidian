@@ -41,3 +41,10 @@ Umsetzungsrisiko / Schwierigkeitsdimensionen:
 Nutzen und Schwierigkeiten werden anschließend gegenübergestellt und in einer Grafik gegenübergestellt.
 
 ![[Pasted image 20250124111838.png|500]]
+
+Das Projektportfolio wird unterschiedlich aufgebaut in vier verschiedene Kategorien:
+- "In the long run"
+- "Quick Wins"
+- "Need a good reason"
+- "Low hanging fruits"
+
