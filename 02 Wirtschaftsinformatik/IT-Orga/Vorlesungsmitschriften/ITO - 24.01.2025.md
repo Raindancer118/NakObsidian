@@ -20,3 +20,21 @@ Für die Priorisierung der Projekte werden klare Ziele benötigt und auch das Wi
 Anschließend wird die Ressourcenplanung durchgeführt und geschaut, ob das passt.
 
 Häufig können nur begrenzte Anzahl Projekte umgesetzt werden.
+
+Zur Findung einer Entscheidung kann eine Nutzwertanalyse der Projekte durchgeführt werden. Daraus kann anschließend berechnet werden, welches Projekt vorgezogen werden sollte. Die Kriterien der Nutzwertanalyse sollten dabei nachvollziehbar und qualitativ hochwertig ausgewählt werden.
+Beispielhafte Nutzendimensionen sind:
+- Strategiebeitrag
+- Bedeutung der betroffenen Prozesse
+- Grad der Prozessoptimierung
+	- Entlastung der Mitarbeiter
+- Stärkung der Marktposition (Schaffung von Alleinstellungsmerkmalen)
+- Know-How-Erweiterung
+- Verbesserung von Entscheidungsgrundlagen
+
+Umsetzungsrisiko / Schwierigkeitsdimensionen:
+- Organisatorische Komplexität
+- Technologische Komplexität
+- Fehlendes Projekt-Know-How
+- Interdependenzen
+- Neuheitsgrad
+- 
