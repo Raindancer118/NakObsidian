@@ -13,3 +13,6 @@ Function minDistance(A[0 ... n-1])
 ```
 
 Die Gleichheit zwischen zwei Elementen ist eine gewisse Art Relation.
+
+## Median Bestimmung
+### Bruteforce
