@@ -51,4 +51,6 @@ Das Projektportfolio wird unterschiedlich aufgebaut in vier verschiedene Kategor
 Tipp für unsere Projektliste:
 - Alles bis auf 1/4 streichen
 - Keine neuen Projekte annehmen
-- 
+
+Anschließend sollten wir eine Nutzwertanalyse für eine Aufgabe durchführen. Hier das Ergebnis:
+![[Pasted image 20250124115105.png]]
