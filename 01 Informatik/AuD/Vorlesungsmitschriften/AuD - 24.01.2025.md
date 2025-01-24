@@ -43,3 +43,17 @@ Einfach den mittleren Wert herausholen: A[n/2]
 Alle anschauen und min und Max bis zum Ende merken.
 $\Theta(n)$
 ### Divide & Conquer
+```
+Min(A[0...n-1]) = minimum(Min(A[0 ... [(n-1)/2]]),Min(A[[(n-1)/2]+1...n-2]))
+```
+Ausführungshäufigkeit der Basisoperation:
+```
+T(n) = 1 + 2 * T(n/2)
+T(1) = 0
+T(2^K) = 1 + 2 * T(2^{K-1})
+= 1 + 2 (1 + 2T (2^{K-2}))
+= 1 + 2 + 4T (2^{K-2})
+= 1 + 2 + 4 + 8T (2^{K-3})
+= 2^3 - 1 + 8T (2^{K-3})
+= 2^{K-1} = n - 1
+```
