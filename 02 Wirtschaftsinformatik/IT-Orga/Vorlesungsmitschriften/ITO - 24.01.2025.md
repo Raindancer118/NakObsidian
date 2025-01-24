@@ -13,3 +13,10 @@
 ![[Pasted image 20250124100439.png]]
 
 ![[Pasted image 20250124100513.png]]
+
+## Priorisierung von IT Projekten
+Häufig werden IT-Projekte auch als Projektportfolio bezeichnet
+Für die Priorisierung der Projekte werden klare Ziele benötigt und auch das Wissen über die Fähigkeiten und Mittel.
+Anschließend wird die Ressourcenplanung durchgeführt und geschaut, ob das passt.
+
+Häufig können nur begrenzte Anzahl Projekte umgesetzt werden.
