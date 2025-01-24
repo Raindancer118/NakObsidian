@@ -59,3 +59,25 @@ T(2^K) = 1 + 2 * T(2^{K-1})
 ```
 
 ## Binäre Suchbäume
+```mermaid
+graph TD
+A --> C[2]
+C --> 1
+A[6] --> B[11]
+B --> D[8]
+B --> E[13]
+```
+Binäre Suchbäume sollten möglichst breit und flach sein.
+Datenbanken ordnen sich nachts neu und machen damit neue binäre Suchbäume.
+
+Es gibt für jedes Element ein eindeutiges System.
+Wird beispielsweise die 11 gelöscht, wird die 13 oder die 8 hochgezogen.
+Die Effizienz von Binären Suchbäumen liegt bei $3log_2n$
+Inorder-Traversierung liefert sofort sortierte Liste der Schlüssel. In diesem Fall würde die Liste bei 1 beginnen und sich bis 13 ziehen.
+
+Bäume können rebalanciert werden.
+
+### AVL-Baum
+Der AVL-Baum ist ein binärer Suchbaum. Für *alle* seine Knoten gilt, dass der Unterschied der Höhe des linken und rechten Unterbaums höchstens 1 beträgt.
+Siehe [[AuD06_WINF.pdf#page=15|Folien]].
+Die AVL-Eigenschaft soll erhalten werden.
