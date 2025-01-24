@@ -9,5 +9,7 @@
 	- Kundeninsights
 
 ![[Pasted image 20250124100310.png]]
+
 ![[Pasted image 20250124100439.png]]
+
 ![[Pasted image 20250124100513.png]]
