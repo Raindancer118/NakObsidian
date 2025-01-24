@@ -37,4 +37,7 @@ Umsetzungsrisiko / Schwierigkeitsdimensionen:
 - Fehlendes Projekt-Know-How
 - Interdependenzen
 - Neuheitsgrad
-- 
+
+Nutzen und Schwierigkeiten werden anschließend gegenübergestellt und in einer Grafik gegenübergestellt.
+
+![[Pasted image 20250124111838.png|500]]
