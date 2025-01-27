@@ -14,3 +14,5 @@
 >|16|10|
 |17|11|
 |255|FF|
+
+## Umrechnung in Hexadezimal
