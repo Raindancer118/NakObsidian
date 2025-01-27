@@ -4,3 +4,8 @@
 
 ## IP-Versionen
 Es gibt IP-V4 und IP-V6 
+## Flags
+- Do Not Fragment
+	B
+- More Fragments Follow
+- 
