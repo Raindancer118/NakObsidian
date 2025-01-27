@@ -2,3 +2,5 @@
 $$L\subseteq\sum=\{a,b,\varepsilon\}$$
 
 Wir haben heute den *Satz von Myhill und Nerode* angeschaut. 
+>[!INFO] 
+>Wenn wir eine Rechtskongruenz finden oder nachweisen, dass der Index von $R_L$ endlich ist, dann kann gesagt werden, dass L eine reguläre Sprache ist.
