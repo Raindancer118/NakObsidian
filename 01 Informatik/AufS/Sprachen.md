@@ -12,7 +12,7 @@
 >[!INFO] Definition
 >Eine formale Sprache $L$ über $\sum$ ist eine Teilmenge von $\sum^*$.
 
-Eine formale Sprache $L$ lässt sich schriftlich darstellen mithilfe von $$L=\{w\in\sum^+|w=^i y^i 2^k \$$
+Eine formale Sprache $L$ lässt sich schriftlich darstellen mithilfe von $$L=(\sum*\{\})
 
 ## Reguläre Sprachen
 Eine Sprache $L$ ist regulär, wenn ein endlicher Automat $A$ diese Sprache akzeptiert. Das heißt wiederum $L=L(A)$.
