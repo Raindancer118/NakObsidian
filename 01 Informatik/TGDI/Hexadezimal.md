@@ -16,3 +16,4 @@
 |255|FF|
 
 ## Umrechnung in Hexadezimal
+Eine Dezimalzahl lässt sich in Hexadezimal umrechnen, indem ein Modus verwendet wird, sodass 
