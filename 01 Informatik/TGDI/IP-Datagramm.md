@@ -13,3 +13,4 @@ International Header-Length. Diese wird in 32 Bit-Worten angegeben.
 >[!INFO] More Fragments Follow
 >Diese Flag gibt an, das ursprüngliche Paket aufgesplittet wurde und dieses Fragment nicht das letzte ist.
 
+Ein Rechner holt sich automatisch eine eigene, eindeutige IP-Adresse.
