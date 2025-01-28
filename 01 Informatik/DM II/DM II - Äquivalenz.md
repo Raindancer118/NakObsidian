@@ -7,5 +7,8 @@
 Äquivalenzrelationen können in Äquivalenzklassen sortiert werden, die jeweils mehrere Äquivalenzrelationen zusammenfassen, die in einer betrachteten Eigenschaft übereinstimmen. Diese Klassen haben jeweils einen Repräsentanten.
 
 ## Eigenschaften von Äquivalenzklassen und -Relationen
-Folgendes lässt sich aussagen:
-- $y\equiv x$
+Sei $M$ eine Menge und $\equiv$ eine Äquivalenzrelation auf $M$. Dann gilt:
+- $y \equiv x$
+- $y \in [x]$
+- $[y] = [x]$
+- 
