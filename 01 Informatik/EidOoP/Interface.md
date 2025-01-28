@@ -7,7 +7,7 @@ aliases:
 >[!SUMMARY]
 >Ein Interface macht [[Klasse|Klassen]] im Endeffekt vergleichbar und ermöglicht es einer [[Methode]], mit einem statt mehreren [[Datentypen]] zu arbeiten und dennoch durch [[Vererbung|Mehrfachvererbung]] und [[Lose Kopplung|loser Kopplung]] verschiedene Objekttypen anzusprechen.
 
->[!DANGER] In Interfaces dürfen nur **`public static final`**-Konstanten verwendet werden.
+>[!DANGER] In Interfaces dürfen nur **`public static final`**-Konstanten verwendet werden, die außerdem ausschließlich in CAPS LOCK geschrieben werden dürfen.
 
 >[!WARNING] **ACHTUNG**
 >Interfaces müssen [[Implementierung|implementiert]] werden. Hat eine [[Klasse]] ein Interface implementiert, muss sie **alle** [[Methode|Methoden]] daraus verwenden!
