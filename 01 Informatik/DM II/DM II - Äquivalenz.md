@@ -11,4 +11,5 @@ Sei $M$ eine Menge und $\equiv$ eine Äquivalenzrelation auf $M$. Dann gilt:
 - $y \equiv x$
 - $y \in [x]$
 - $[y] = [x]$
-- 
+
+Eine Äquivalenz lässt sich übersetzen in eine Gleichheit der Beträge der jeweiligen Zahlen.
