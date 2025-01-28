@@ -6,4 +6,6 @@
 
 Äquivalenzrelationen können in Äquivalenzklassen sortiert werden, die jeweils mehrere Äquivalenzrelationen zusammenfassen, die in einer betrachteten Eigenschaft übereinstimmen. Diese Klassen haben jeweils einen Repräsentanten.
 
-## Eigenschaften von Äquivalenzrelationen
+## Eigenschaften von Äquivalenzklassen und -Relationen
+Folgendes lässt sich aussagen:
+- $y\equiv x$
