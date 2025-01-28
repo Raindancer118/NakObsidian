@@ -13,3 +13,5 @@ Sei $M$ eine Menge und $\equiv$ eine Äquivalenzrelation auf $M$. Dann gilt:
 - $[y] = [x]$
 
 Eine Äquivalenz lässt sich übersetzen in eine Gleichheit der Beträge der jeweiligen Zahlen.
+
+Allgemein gibt es $2^{|M|*|M|}$ Relationen auf M, doch es gibt nur einen Bruchteil davon als Äquivalenzrelationen, da diese die Eigenschaften der Äquivalenzrelationen erfüllen müssen.
