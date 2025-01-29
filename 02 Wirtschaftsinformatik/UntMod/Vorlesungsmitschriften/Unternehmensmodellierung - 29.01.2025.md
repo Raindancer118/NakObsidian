@@ -18,4 +18,4 @@ Das XOR-Gateway kann Pfade auseinanderleiten, aber auch wieder zusammenführen.
 **Alle** Pfade des AND-Gateways müssen durchlaufen werden und können durch ein weiteres AND-Gateway wieder synchronisiert werden. 
 >[!WARNING] Parallel heißt nicht zeitgleich.
 
-Eine Zusammenführung der Pfade müssen 
+Eine Zusammenführung der Pfade muss nicht zwangsweise 
