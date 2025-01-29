@@ -86,8 +86,22 @@ Trigger können dabei Prozeduren automatisch ausführen.
 >```
 ### Trigger
 Prozeduren können durch Trigger ausgelöst werden, die nach einem bestimmten Befehl oder einer bestimmten Aktion direkt eine Aktion durchführen. 
->[!INFO] Trigger erstellen
+>[!CODE] Trigger erstellen
 >```
 >CREATE [OR REPLACE] TRIGGER >Triggername<
 >```
-#### FORMULA
+
+>[!CODE] Bedingungen
+>Es gibt verschiedene Bedingungen, auf die ein Trigger reagieren kann:
+>```
+>INSERT | DELETE | UPDATE
+>```
+>Hierbei kann angegeben werden, dass nur auf Updates in einer bestimmten Liste von Spalten reagiert werden soll.
+>Über ein simples `OR` vor der nächsten Zeile können außerdem unendlich viele Zeilen hinzugefügt werden.
+>Die Zeile anschließend legt fest, auf welche Tabelle gelauscht werden soll:
+>```
+>ON >Tabellenname<
+>```
+
+>[!CODE] Bedingung für die Ausführung
+>Es lässt sich über eine weitere Zeile eine Bedingung für die Ausführung des Triggers festlegen.
