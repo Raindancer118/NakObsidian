@@ -18,7 +18,7 @@ $\mathbb{N} := \{1,2,3,4,\dots\}$
 >[!FORMULA] Irrationale Zahlen
  $\mathbb{Q} := \{\frac{p}{q}|p\in\mathbb{Z},q\in\mathbb{N}\}$
 
->[!FORMULA] Rationale Zahlen
+>[!FORMULA] Reelle Zahlen
  $\mathbb{R} := \mathbb{Q} \text{ } \cup$ Menge der irrationalen Zahlen
 
 ## Teilmengennotation
