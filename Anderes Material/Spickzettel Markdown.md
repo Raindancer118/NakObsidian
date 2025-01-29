@@ -23,6 +23,8 @@ Markdown nutzt `#` für Überschriften:
 ## Callouts
 Ich habe einige Callout-Typen hinzugefügt. Overall gibt es jetzt also folgende Callout-Typen:
 ### Custom
+>[!CODE]
+
 >[!EXTRA]
 
 >[!FORMULA]
