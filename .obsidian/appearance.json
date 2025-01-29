@@ -9,7 +9,8 @@
     "HowTo-Callout",
     "Goal-Callout",
     "Formula-Callout",
-    "Properties-Callout"
+    "Properties-Callout",
+    "Code-Callout"
   ],
   "theme": "system"
 }
