@@ -7,7 +7,7 @@ aliases:
 >[!INFO] Definition
 >SQL benötigt bestimmte Datentypen, in denen Daten zu speichern sind. Diese sind hier aufgelistet, allerdings mit einem Blick auf ORACLE [[Datenbanken]].
 
-## Ganze Zahlen
+### Ganze Zahlen
 - SMALLINT
 - INTEGER
 - BIGINT
