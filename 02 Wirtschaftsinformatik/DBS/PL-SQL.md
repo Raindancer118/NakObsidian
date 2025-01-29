@@ -86,3 +86,8 @@ Trigger können dabei Prozeduren automatisch ausführen.
 >```
 ### Trigger
 Prozeduren können durch Trigger ausgelöst werden, die nach einem bestimmten Befehl oder einer bestimmten Aktion direkt eine Aktion durchführen. 
+>[!INFO] Trigger erstellen
+>```
+>CREATE [OR REPLACE] TRIGGER >Triggername<
+>```
+#### FORMULA
