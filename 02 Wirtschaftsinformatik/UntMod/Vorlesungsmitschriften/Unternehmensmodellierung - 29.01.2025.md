@@ -6,3 +6,4 @@ Ein BPMM Reifegradmodell wurde von der OMG entwickelt, von der *Object Managemen
 3. Standardized - Prozesse sind standardisiert und Mitarbeiter haben Prozess-Know-How
 4. Predictable - Prozessergebnisse und -Performance liefern vorhersagbare Ergebnisse und werden gesteuert
 5. Innovating - Prozesse werden proaktiv gesteuert, innoviert und kontinuierlich verbessert und erfüllen interne und externe Anforderungen, Change Management
+Es ist nicht unbedingt immer absolut sinnvoll, immer den höchsten Reifegrad für **jeden** Prozess zu erreichen. 
