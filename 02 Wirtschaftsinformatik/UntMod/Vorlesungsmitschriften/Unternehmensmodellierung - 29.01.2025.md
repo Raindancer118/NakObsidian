@@ -9,3 +9,8 @@ Ein BPMM Reifegradmodell wurde von der OMG entwickelt, von der *Object Managemen
 Es ist nicht unbedingt immer absolut sinnvoll, immer den höchsten Reifegrad für **jeden** Prozess zu erreichen. 
 Bestimmte Aufgaben erfordern Kreativität und Flexibilität. 
 Permanente, organisatorische Veränderungen können das Unternehmen in Schwierigkeiten bringen.
+
+## Gateways in der Prozessmodellierung
+### XOR (Datenbasiertes exklusives Gateway)
+Vor dem Gateway muss eine Aktivität stehen, die eine Datengrundlage für das Routing des Gateways bietet.
+Das XOR-Gateway kann Pfade auseinanderleiten, aber auch wieder zusammenführen.
