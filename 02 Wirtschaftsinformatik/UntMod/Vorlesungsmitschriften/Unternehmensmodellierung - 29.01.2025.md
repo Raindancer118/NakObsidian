@@ -4,4 +4,4 @@ Ein BPMM Reifegradmodell wurde von der OMG entwickelt, von der *Object Managemen
 1. Initial - Keine Struktur
 2. Managed - Prozesse existieren auf Arbeitsebene und ein Process Management ist vorgesehen
 3. Standardized - Prozesse sind standardisiert und Mitarbeiter haben Prozess-Know-How
-4. 
+4. Predictable - 
