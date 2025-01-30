@@ -32,3 +32,7 @@ Regelmäßige Zahlung der Summe $r$
 **Ende Einschub Finanzmathematik**
 
 ## Konvergenz von Reihen
+## Übung
+$$
+\sum_{n=1}^\infty \frac{2^n+3^n}{5^n}
+$$
