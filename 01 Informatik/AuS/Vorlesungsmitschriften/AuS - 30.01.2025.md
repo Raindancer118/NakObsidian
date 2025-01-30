@@ -34,5 +34,6 @@ Regelmäßige Zahlung der Summe $r$
 ## Konvergenz von Reihen
 ## Übung
 $$
-\sum_{n=1}^\infty \frac{2^n+3^n}{5^n}
+\huge\sum_{n=1}^\infty \frac{2^n+3^n}{5^n} = \sum_{n=1}^\infty a_n
 $$
+*Vermutung: konvergent (hier identisch zu: absolut konvergent)*
