@@ -21,5 +21,10 @@ Wie hoch war der Zinssatz im letzten Drittel?
 Zinssatz = i
 Zinsrate = q = 1 + i
 Jährliche Verzinsung
+Regelmäßige Zahlung der Summe $r$
 
->[!FORMULA] $
+>[!FORMULA]  Rentenformel für vorschüssige Zahlungen
+>$\huge r*q*\frac{q^n-1}{q-1}$
+
+
+
