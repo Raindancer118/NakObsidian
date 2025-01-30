@@ -26,5 +26,7 @@ Regelmäßige Zahlung der Summe $r$
 >[!FORMULA]  Rentenformel für vorschüssige Zahlungen
 >$\huge r*q*\frac{q^n-1}{q-1}$
 
+>[!FORMULA] Rentenformel für nachschüssige Zahlungen
+>$\huge r*\frac{q^n-1}{q-1}$
 
-
+**Ende Einschub Finanzmathematik**
