@@ -30,3 +30,5 @@ Regelmäßige Zahlung der Summe $r$
 >$\huge r*\frac{q^n-1}{q-1}$
 
 **Ende Einschub Finanzmathematik**
+
+## Konvergenz von Reihen+++++
