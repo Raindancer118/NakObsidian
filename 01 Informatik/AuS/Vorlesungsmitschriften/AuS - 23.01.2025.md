@@ -69,3 +69,5 @@ B-
 
 #### Kontinuierliche Verzinsung
 $K_n = 100*e^0,03$
+
+Für Formeln der Finanzmathematik siehe [[Folien.pdf#page=43|Folien]].
