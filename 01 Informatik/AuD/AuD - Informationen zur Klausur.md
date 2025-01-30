@@ -8,3 +8,5 @@ aliases:
 Falls in der Klausur die Komplexitätsklasse eines [[Divide & Conquer]]-[[Algorithmus]] bestimmt werden soll, kann dies via [[Master-Theorem]] gelöst werden.
 
 Es kommt garantiert eine Aufgabe zu AVL-Analysen dran.
+
+Es könnte eine Aufgabe drankommen, in der ein AVL-Baum mit minimalen Knoten gemalt oder gefüllt werden muss.
