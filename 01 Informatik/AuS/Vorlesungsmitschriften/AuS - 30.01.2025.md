@@ -31,4 +31,4 @@ Regelmäßige Zahlung der Summe $r$
 
 **Ende Einschub Finanzmathematik**
 
-## Konvergenz von Reihen+++++
+## Konvergenz von Reihen
