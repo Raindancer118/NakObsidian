@@ -38,3 +38,5 @@ Verzeichnis.get ´("A57321")
 Der Key einer HashMap muss ein `hashcode()` sein und `equals(...)`. Die `equals(...)`-Methode muss dabei implementiert und überschrieben werden, die die Identifizierung von Objekten regelt.
 
 Hashing wird in Dictionaries sehr viel verwendet mit den Operationen `find`, `insert` oder `delete`. In Hashs können Daten in konstanter Laufzeit gefunden werden.
+
+In einer Hashtabelle werden Schlüssel von Daten auf eine vergleichsweise kleine Tabelle übertragen.
