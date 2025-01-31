@@ -62,3 +62,6 @@ Durchsuchen ist nun sehr Performance-Intensiv
 Suche nach freien Zellen in quadratisch wachsenden Abständen
 #### Double Hashing
 Schlüssel wird mehrfach durch Hashes gejagt.
+
+## Bearbeitung Aufgabe
+Aufgrund weniger Hash-Positionen kommt ein Load Faktor von ca 16.000 zustande.
