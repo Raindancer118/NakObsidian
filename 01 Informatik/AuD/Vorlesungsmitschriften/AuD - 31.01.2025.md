@@ -28,3 +28,13 @@ $O$ - Kann nicht schlimmer werden
 >[!QUOTE] "Da ich das an dieser Stelle nicht an die Tafel schreiben möchte, nutze ich die Programmierumgebung für BWLer - Excel."
 
 ## Hashing
+```
+Map<String,Person> Verzeichnis = new HashMap<>();
+Verzeichnis.put("A57321",hugo);
+Verzeichnis.get ´("A57321")
+```
+
+>[!HINT] Der Key
+Der Key einer HashMap muss ein `hashcode()` sein und `equals(...)`. Die `equals(...)`-Methode muss dabei implementiert und überschrieben werden, die die Identifizierung von Objekten regelt.
+
+Hashing wird in Dictionaries sehr viel verwendet mit den Operationen `find`, `insert` oder `delete`. In Hashs können Daten in konstanter Laufzeit gefunden werden.
