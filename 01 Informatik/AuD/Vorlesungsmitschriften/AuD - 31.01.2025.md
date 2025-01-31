@@ -54,7 +54,8 @@ Der Load Factor sollte in der Nähe von 1 gehalten werden.
 ### Closed Hashing
 Nur ein Schlüssel pro Zelle möglich und bei einer Kollision wird eine andere Zelle gesucht. 
 #### Linear Probing / Lineares Sondieren:
-Finde nächste freie Zelle
+Finde nächste freie Zelle.
+Durchsuchen ist nun sehr Performance-Intensiv
 #### Quadratic probing / Quadratisches Sondieren
 Suche nach freien Zellen in quadratisch wachsenden Abständen
 #### Double Hashing
