@@ -27,3 +27,4 @@ $O$ - Kann nicht schlimmer werden
 
 >[!QUOTE] "Da ich das an dieser Stelle nicht an die Tafel schreiben möchte, nutze ich die Programmierumgebung für BWLer - Excel."
 
+## Hashing
