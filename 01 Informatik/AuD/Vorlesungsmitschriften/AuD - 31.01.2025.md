@@ -19,4 +19,5 @@ for (int i = 0;i < n-1;i++) {
 	1. Best = Worst = Average
 4. Häufigkeit der Ausführung der Basisoperation herausfinden
 	1. $$T(n):\sum_{i=0}^{n-2}\sum_{j=i+1}^{n-1}1=\sum_{i=0}^{n-2}n-i-1$$
-	$$=1+\dots n-1 = \sum_{i=0}^{n-1}=\frac{(n-1)*n}{2}$$
+	$$=1+\dots n-1 = \sum_{i=0}^{n-1}=\frac{(n-1)*n}{2}\approx\Theta(n^2)$$
+5. 
