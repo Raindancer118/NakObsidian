@@ -55,4 +55,4 @@ Finde nächste freie Zelle
 #### Quadratic probing / Quadratisches Sondieren
 Suche nach freien Zellen in quadratisch wachsenden Abständen
 #### Double Hashing
-Schlüssel wird mehrfach durch 
+Schlüssel wird mehrfach durch Hashes gejagt.
