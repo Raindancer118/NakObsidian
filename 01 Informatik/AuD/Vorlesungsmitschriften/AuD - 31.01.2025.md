@@ -45,7 +45,7 @@ Eine Hashfunktion sollte möglichst leicht und schnell zu berechnen sein und die
 
 Gute Hashfunktionen erzeugen möglichst wenige Kollisionen, ganz grundsätzlich sind diese allerdings nicht vermeidbar.
 
->[!WARNING] Der MD5-Hash gilt als unsicher.
+>[!WARNING] Der MD5-Hash gilt als unsicher, da jemand alle Hashes von MD5 durchgerechnet hat.
 ### Open Hashing
 In eine Speicherzelle können mehrere Elemente geschrieben werden. 
 ### Closed Hashing
