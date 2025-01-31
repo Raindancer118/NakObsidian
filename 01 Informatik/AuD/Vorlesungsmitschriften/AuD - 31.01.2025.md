@@ -40,3 +40,12 @@ Der Key einer HashMap muss ein `hashcode()` sein und `equals(...)`. Die `equals(
 Hashing wird in Dictionaries sehr viel verwendet mit den Operationen `find`, `insert` oder `delete`. In Hashs können Daten in konstanter Laufzeit gefunden werden.
 
 In einer Hashtabelle werden Schlüssel von Daten auf eine vergleichsweise kleine Tabelle übertragen.
+
+Eine Hashfunktion sollte möglichst leicht und schnell zu berechnen sein und die Hashwerte sollten möglichst gleichmäßig verteilt werden.
+
+Gute Hashfunktionen erzeugen möglichst wenige Kollisionen, ganz grundsätzlich sind diese allerdings nicht vermeidbar.
+
+>[!WARNING] Der MD5-Hash gilt als unsicher.
+### Open Hashing
+In eine Speicherzelle können mehrere Elemente geschrieben werden. 
+### Closed Hashing
