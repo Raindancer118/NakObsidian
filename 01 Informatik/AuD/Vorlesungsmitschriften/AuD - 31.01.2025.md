@@ -48,6 +48,9 @@ Gute Hashfunktionen erzeugen möglichst wenige Kollisionen, ganz grundsätzlich 
 >[!WARNING] Der MD5-Hash gilt als unsicher, da jemand alle Hashes von MD5 durchgerechnet hat.
 ### Open Hashing
 In eine Speicherzelle können mehrere Elemente geschrieben werden. 
+**Effizienz von Open Hashing**
+Der *Load Factor* $\alpha = n/m$ besagt die durchschnittliche Listenlänge.
+Der Load Factor sollte in der Nähe von 1 gehalten werden.
 ### Closed Hashing
 Nur ein Schlüssel pro Zelle möglich und bei einer Kollision wird eine andere Zelle gesucht. 
 #### Linear Probing / Lineares Sondieren:
