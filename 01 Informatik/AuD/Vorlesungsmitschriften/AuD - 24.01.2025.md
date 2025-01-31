@@ -39,10 +39,10 @@ Function median(A[0 ... n-1]) {
 Einfach den mittleren Wert herausholen: A[n/2]
 
 ## Min / Max
-### Bruteforce
+### [[Bruteforce]]
 Alle anschauen und min und Max bis zum Ende merken.
 $\Theta(n)$
-### Divide & Conquer
+### [[Divide & Conquer]]
 ```
 Min(A[0...n-1]) = minimum(Min(A[0 ... [(n-1)/2]]),Min(A[[(n-1)/2]+1...n-2]))
 ```
@@ -68,7 +68,7 @@ B --> D[8]
 B --> E[13]
 ```
 Binäre Suchbäume sollten möglichst breit und flach sein.
-Datenbanken ordnen sich nachts neu und machen damit neue binäre Suchbäume.
+[[Datenbanken]] ordnen sich nachts neu und machen damit neue binäre Suchbäume.
 
 Es gibt für jedes Element ein eindeutiges System.
 Wird beispielsweise die 11 gelöscht, wird die 13 oder die 8 hochgezogen.

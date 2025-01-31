@@ -14,4 +14,9 @@ for (int i = 0;i < n-1;i++) {
 >[!WARNING] Sowas hier sollte problemlos möglich sein.
 ## Komplexitätsanalyse
 1. $n$ ermitteln. $n$ ist dabei die Anzahl der Elemente
-2. 
+2. Basisoperation ermitteln
+3. Best-Worst-Average-Case ermitteln
+	1. Best = Worst = Average
+4. Häufigkeit der Ausführung der Basisoperation herausfinden
+	1. $$T(n):\sum_{i=0}^{n-2}\sum_{j=i+1}^{n-1}1=\sum_{i=0}^{n-2}n-i-1$$
+	2. 
