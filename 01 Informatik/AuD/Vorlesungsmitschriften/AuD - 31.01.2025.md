@@ -24,3 +24,5 @@ for (int i = 0;i < n-1;i++) {
 $\Theta$ - Best=Worst=Average
 $\Omega$ - Kann nicht besser werden
 $O$ - Kann nicht schlimmer werden
+
+>[!QUOTE] "Da ich das an dieser Stelle nicht an die Tafel schreiben möchte, nutze ich die Programmierumgebung für BWLer - Excel."
