@@ -49,3 +49,10 @@ Gute Hashfunktionen erzeugen möglichst wenige Kollisionen, ganz grundsätzlich 
 ### Open Hashing
 In eine Speicherzelle können mehrere Elemente geschrieben werden. 
 ### Closed Hashing
+Nur ein Schlüssel pro Zelle möglich und bei einer Kollision wird eine andere Zelle gesucht. 
+#### Linear Probing / Lineares Sondieren:
+Finde nächste freie Zelle
+#### Quadratic probing / Quadratisches Sondieren
+Suche nach freien Zellen in quadratisch wachsenden Abständen
+#### Double Hashing
+Schlüssel wird mehrfach durch 
