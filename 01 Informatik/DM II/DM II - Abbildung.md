@@ -5,7 +5,7 @@ aliases:
 ---
 # <font color = "orange">DM II - Abbildung</font>
 >[!INFO] Definition
->Abbildungen sind Relationen, die **rechtseindeutig** und **linkstotal** sind, was h
+>Abbildungen sind Relationen, die **rechtseindeutig** und **linkstotal** sind, was heißt, dass **links *maximal* ein Pfeil abgeht** und **rechts *mindestens* einer ankommt**. 
 ## Eigenschaften von Abbildungen
 ### Linkseindeutigkeit
 >[!INFO] Definition
