@@ -14,3 +14,4 @@ aliases:
 >[!INFO] Definition
 >Seien $A,B$ Mengen. Jedem Element $x$ aus $A$ darf nur je ein Element aus $B$ zugeordnet sein.  In einem Pfeildiagramm gehen also von jedem Element der linken Seite maximal ein Pfeil ab.
 ## Existenz
+### Linkstotalität
