@@ -9,3 +9,5 @@ aliases:
 ## Eigenschaften von Abbildungen
 ### Linkseindeutigkeit
 ### Rechtseindeutigkeit
+>[!INFO] Definition
+>
