@@ -14,10 +14,10 @@ aliases:
 >[!INFO] Definition
 >Seien $A,B$ Mengen. Jedem Element $x$ aus $A$ darf *höchstens* ein Element aus $B$ zugeordnet sein.  In einem Pfeildiagramm gehen also von jedem Element der linken Seite **maximal ein Pfeil** ab.
 ## Existenz
-### Rechtstotalität
+### Linkstotalität
 >[!INFO] Definition
 >Seien $A,B$ Mengen. Jedem Element aus $B$ muss *mindestens* ein Element aus $A$ zugeordnet werden. Bei jedem Element der rechten Seite kommt also **mindestens ein Pfeil** an.
-###  Linkstotalität
+### Rechtstotalität
 >[!INFO] Definition
 >Seien $A,B$ Mengen. Jedem Element aus $A$ muss *mindestens* ein Element aus $B$ zugeordnet sein. Von jedem Element der linken Seite geht also **mindestens ein Pfeil** ab.
 ## Wohldefiniertheit
