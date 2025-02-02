@@ -23,3 +23,9 @@ aliases:
 ## Wohldefiniertheit
 >[!INFO] Definition
 >Eine Abbildung ist wohldefiniert, wenn sie **rechtstotal** und **rechtseindeutig** ist, also, wenn von der linken Seite also **je genau ein Pfeil** abgeht.
+## Injektivität
+>[!INFO] Definition
+>Eine Abbildung gilt als *injektiv*, wenn sie **linkseindeutig** ist.
+## Surjektiv
+>[!INFO] Definition
+>
