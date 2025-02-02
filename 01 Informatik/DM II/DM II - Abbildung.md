@@ -21,3 +21,5 @@ aliases:
 >[!INFO] Definition
 >Seien $A,B$ Mengen. Jedem Element aus $A$ muss *mindestens* ein Element aus $B$ zugeordnet sein. Von jedem Element der linken Seite geht also **mindestens ein Pfeil** ab.
 ## Wohldefiniertheit
+>[!INFO] Definition
+>
