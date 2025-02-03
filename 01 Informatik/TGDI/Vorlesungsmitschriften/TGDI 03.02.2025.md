@@ -9,7 +9,6 @@ Lösung Aufg. F.33
 Wir haben heute ARP-Requests besprochen; diese sollte ich noch einmal in eine Datei schreiben.
 
 Quell-IP:
-120.108.511.911
+192.168.91.155
 
 Ziel-IP:
-121.639.055.0
