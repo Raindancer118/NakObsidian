@@ -35,6 +35,8 @@ Eine Nachricht hat eine gestrichelte, schwarze Linie, die den Fluss einer Nachri
 >[!INFO] Definition
 >Eine Kollaboration ist ein Zusammenspiel verschiedener Pools. Kollaborationen sind für [[BPMN]] sehr wichtig, um das gesamte System eines Prozesses darzustellen.
 
-In einem Kollaborationsdiagramm ist jeder Pool ein eigener Prozess. 
+In einem Kollaborationsdiagramm ist jeder Pool ein eigener [[Prozess]]. 
 Innerhalb eines Pools, zwischen Lanes, werden keine Nachrichten geschickt; Nachrichten werden nur zwischen Pools verschickt.
 >[!QUOTE] Innerhalb eines Pools nur durchgezogene Linien; Zwischen Pools nur gestrichelte Linien.
+
+Wir haben heute die Aufgaben [[Übung5-BPMEvents.pdf]] und [[Übung6-BPMKollaboration.pdf]] bearbeitet. Die Lösung zur letzten findet sich [[Bedarfsbestellung.pdf|hier]].
