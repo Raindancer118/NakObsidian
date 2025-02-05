@@ -21,3 +21,5 @@ Das XOR-Gateway kann Pfade auseinanderleiten, aber auch wieder zusammenführen.
 Das AND-Gateway kann allerdings auch parallel durchgeführt werden.
 
 Wir haben am Ende der Vorlesung ein [Prozessdiagramm für Global Bike](https://academic.signavio.com/p/editor?id=e8946f3b8d7a4a0e91af4cdc5a82bba1) in [[SAP Signavio|Signavio]] erstellt.
+### Komplexes Gateway
+Eine Zusammenführung eines Gateways, das nicht vorher auseinanderging, kann in einem komplexen Gateway zusammengeführt werden. Es sollte immer eine Annotation am Rande zum Komplexen Gateway geben.
