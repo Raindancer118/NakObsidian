@@ -26,3 +26,8 @@ Endereignisse sind immer Throwing Events.
 Es kann ein Event eintreten, nach dem der gesamte Prozess direkt abgebrochen werden soll. Dies wird durch die Terminierung ermöglicht.
 ## Typisierte Ereignisse
 Eine Nachricht kann das Startereignisses eines Prozesses sein, aber auch ein Zwischenereignis oder ein Endereignis.
+## Linientypen
+### Sequenz
+Eine Sequenz hat eine durchgezogene, schwarze Linie
+### Nachricht
+Eine Nachricht hat eine gestrichelte, schwarze Linie, die den Fluss einer Nachricht zeigt.
