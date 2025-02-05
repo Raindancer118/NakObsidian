@@ -14,6 +14,7 @@ Permanente, organisatorische Veränderungen können das [[Unternehmen]] in Schwi
 ### XOR (Datenbasiertes exklusives Gateway)
 Vor dem Gateway muss eine Aktivität stehen, die eine Datengrundlage für das Routing des Gateways bietet.
 Das XOR-Gateway kann Pfade auseinanderleiten, aber auch wieder zusammenführen.
+>[!WARNING] Beim exklusiven Gateway trifft der Prozess selbst die Entscheidung, welcher Weg gegangen wird.
 ### (AND) Paralleles Gateway
 **Alle** Pfade des AND-Gateways müssen durchlaufen werden und können durch ein weiteres AND-Gateway wieder synchronisiert werden. 
 >[!WARNING] Parallel heißt nicht zeitgleich.
