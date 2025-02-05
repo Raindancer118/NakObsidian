@@ -22,5 +22,7 @@ Ereignisse, die außerhalb des Prozesses entstanden sind, werden im Prozess gefa
 Startereignisse sind immer Catching Events
 ### Endereignis
 Endereignisse sind immer Throwing Events.
+### Terminierung
+Es kann ein Event eintreten, nach dem der gesamte Prozess direkt abgebrochen werden soll. Dies wird durch die Terminierung ermöglicht.
 ## Typisierte Ereignisse
 Eine Nachricht kann das Startereignisses eines Prozesses sein, aber auch ein Zwischenereignis oder ein Endereignis.
