@@ -11,3 +11,16 @@ Das Gateway hat ein Haus-Ähnliches Fünfeck in zwei Kreisen als Symbol.
 Eine Nachricht oder eine Zustellung
 ### Zeitereignis (Uhr)
 Es wird gewartet, bis eine bestimmte Zeit abgelaufen ist.
+
+## Ereignisse
+Es sollte klar sein, dass Ereignisse in der Reihenfolge erwartet werden, wie sie modelliert wurden.
+### Throwing Events
+Throwing Events werden durch den Prozess selbst ausgelöst. Throwing Events werden immer schwarz dargestellt.
+### Catching Events
+Ereignisse, die außerhalb des Prozesses entstanden sind, werden im Prozess gefangen und dort verarbeitet. Catching Events werden immer hell als nicht ausgefülltes Symbol dargestellt.
+### Startereignis
+Startereignisse sind immer Catching Events
+### Endereignis
+Endereignisse sind immer Throwing Events.
+## Typisierte Ereignisse
+Eine Nachricht kann das Startereignisses eines Prozesses sein, aber auch ein Zwischenereignis oder ein Endereignis.
