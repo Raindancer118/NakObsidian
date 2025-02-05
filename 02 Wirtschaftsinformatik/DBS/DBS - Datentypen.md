@@ -5,7 +5,7 @@ aliases:
 ---
 # <font color = "orange">SQL Datentypen</font>
 >[!INFO] Definition
->SQL benötigt bestimmte Datentypen, in denen Daten zu speichern sind. Diese sind hier aufgelistet, allerdings mit einem Blick auf ORACLE [[Datenbanken]].
+>[[SQL]] benötigt bestimmte Datentypen, in denen Daten zu speichern sind. Diese sind hier aufgelistet, allerdings mit einem Blick auf ORACLE [[Datenbanken]].
 
 ### Ganze Zahlen
 - SMALLINT

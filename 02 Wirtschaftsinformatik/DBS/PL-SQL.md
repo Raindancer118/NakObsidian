@@ -1,6 +1,6 @@
 # <font color = "orange">PL/SQL</font>
 >[!INFO] Definition
->PL/SQL steht für **P**rocedural **L**anguage **S**tructured **Q**uery **L**anguage. PL ist dabei eine Erweiterung für SQL, die Funktionen aus klassischen Programmiersprachen einbindet.
+>PL/SQL steht für **P**rocedural **L**anguage **S**tructured **Q**uery **L**anguage. PL ist dabei eine Erweiterung für [[SQL]], die Funktionen aus klassischen Programmiersprachen einbindet.
 >
 >Natürlich könnte man auch Datenbankenzugriffe über andere prozedurale Programmiersprachen durchführen, doch PL/SQL ist in der Performance stärker als diese Optionen.
 
@@ -12,13 +12,13 @@
 >Zudem lassen sich Datenbankenabfragen und Skripte nun benennen, sodass diese per Schnellzugriff verfügbar sind. Ferner sind diese Unterprogramme weiter verwendbar, wie Methoden in Java, quasi.
 ## Befehle
 >[!INFO] `BEGIN`
->Der Befehl `BEGIN` wechselt von SQL-Anweisungen in den PL/SQL-Modus, sodass die neuen Anweisungen ausgeführt werden können.
+>Der Befehl `BEGIN` wechselt von [[SQL]]-Anweisungen in den PL/SQL-Modus, sodass die neuen Anweisungen ausgeführt werden können.
 
 >[!INFO] `DECLARE`
 >Der Befehl `DECLARE` erlaubt die Definition von [[Programmierung - Variable|Variablen]] oder benutzerdefinierten Exceptions.
 
 >[!INFO] `END;`
->Der Befehl `END;` beendet die Ausführung von PL/SQL-Befehlen im Code und wechselt zurück zu normalem SQL.
+>Der Befehl `END;` beendet die Ausführung von PL/SQL-Befehlen im Code und wechselt zurück zu normalem [[SQL]].
 
 >[!INFO] `EXCEPTION`
 >Der Befehl `EXCEPTION` erlaubt das Abfangen von bestimmten Fehlern.
