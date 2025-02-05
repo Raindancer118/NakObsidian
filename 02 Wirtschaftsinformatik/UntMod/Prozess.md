@@ -2,6 +2,8 @@
 >[!INFO] Definition
 >Ein Prozess in der Unternehmensmodellierung beschreibt eine Abstraktion von "Wie wird eine Fähigkeit umgesetzt?".
 
+>[!WARNING] Ein Prozess ist ein in sich abgeschlossener Fluss von Ereignissen, der ein Startereignis und ein Endereignis hat.
+
 Prozessmodellierung wird in der Vorlesung in [[BPMN]] durchgeführt.
 
 ## Modellierungstools
