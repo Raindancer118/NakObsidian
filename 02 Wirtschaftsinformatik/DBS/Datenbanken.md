@@ -22,3 +22,6 @@ aliases:
 >- Gespeicherte Daten können jederzeit abgerufen werden
 >- Zentrale Verwaltung von Daten
 >- Anwendungsunabhängige Speicherung von Daten mithilfe eines [[DBMS]]
+
+### Aufbau einer Datenbank
+![[Pasted image 20250205144852.png]]
