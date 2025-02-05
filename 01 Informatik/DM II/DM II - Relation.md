@@ -51,7 +51,7 @@ aliases:
 >Eine Relation heißt *antisymmetrisch*, wenn die Schnittmenge zwischen $R$ und $R$ invers $Id_M$ bildet. Man schreibt dabei $R \cap R^-1 \subseteq Id_M$. 
 
 >[!FORMULA] Transitiv
->Eine Relation heißt *transitiv*, wenn $R \circ R \subseteq R$. Das heißt, wenn $R$ verkettet mit sich selbst wieder in $R$ ist, ist dies eine *transitive* Relation. Im Pfeildiagramm impliziert eine Transitivität von zwei Relationen eine Verbindung zwischen all ihren Elementen. 
+>Eine Relation heißt *transitiv*, wenn $R \circ R \subseteq R$. Das heißt, wenn $R$ verkettet mit sich selbst wieder in $R$ ist, ist dies eine *transitive* Relation. Im [[Pfeildiagramm]] impliziert eine Transitivität von zwei Relationen eine Verbindung zwischen all ihren Elementen. 
 >>[!EXAMPLE]
 >>Es gibt die zwei Relationen $(a,b)$ und $(b,c)$. Nun lässt sich aufgrund der Transitivität sagen, dass auch eine Relation $(a,c)$ existieren muss.
 
