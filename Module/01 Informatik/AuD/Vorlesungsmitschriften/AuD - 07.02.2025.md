@@ -17,11 +17,12 @@ Der Rucksack ist allerdings genormt und kann nur eine bestimmte Menge halten.
 
 Welche Gegenstände wurden eingepackt
 
-|                | Kapazität | 0   | 1   | 2   | 3   | 4   | 5   |
-| -------------- | --------- | --- | --- | --- | --- | --- | --- |
-|                | 0         | 0   | 0   | 0   | 0   | 0   | 0   |
-| Gegenstand 1   | 1         | 0   | 0   | 12  | 12  | 12  | 12  |
-| Gegenstand 1-2 | 2         |     |     |     |     |     |     |
-| Gegenstand 1-3 | 3         |     |     |     |     |     |     |
-| Gegenstand 1-4 | 4         |     |     |     |     |     |     |
+|                | Kapazität | 0   | 1    | 2    | 3    | 4    | 5    |
+| -------------- | --------- | --- | ---- | ---- | ---- | ---- | ---- |
+|                | 0         | *0* | *0*  | *0*  | *0*  | *0*  | *0*  |
+| Gegenstand 1   | 1         | *0* | *0*  | *12* | *12* | *12* | *12* |
+| Gegenstand 1-2 | 2         | *0* | *10* | *12* | *22* | *22* | *22* |
+| Gegenstand 1-3 | 3         | *0* | *10* | *12* | *22* | *30* | *32* |
+| Gegenstand 1-4 | 4         | *0* |      |      |      |      |      |
+
 
