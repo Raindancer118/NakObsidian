@@ -7,3 +7,12 @@
 "sehr hoch" - Die Schadensauswirkung kann ein existentiell bedrohliches, katastrophales Ausmaß erreichen.
 
 Informationen hierzu finden sich im Foliensatz [[IT-Orga 03 (Teil b) -IT-Governance, Risikomanagement und Compliance - handout.pdf#page=15]].
+
+Schutzanalysen müssen durchgeführt werden, um Ziele zu erreichen.
+
+Anwendungsliste:
+- Client-Anwendungen
+- Verzeichnisdienst
+- Netzbasierte Dienste
+- Business-Anwendungen
+- 
