@@ -15,4 +15,6 @@ Das Unternehmen hätte grundsätzlich eine viergeteilte Gesellschafterstruktur:
 >[!EXTRA]- Tom Stieh
 >Tom Stieh würde die Arbeit in der IT-Sicherheit übernehmen
 
-### IT Infrastruktur
+### IT Infrastruktur.
+## Zertifikate & Grunsätze
+- ISO 27001 & IT-Grundschutz des BSI
