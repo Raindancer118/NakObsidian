@@ -7,3 +7,4 @@
 | 0   | 5   | 5   | 7   | 15  | 15  |
 >[!QUOTE] "Eigentlich immer da, wo man eine Zahl doppelt sieht, immer die nehmen."
 
+ 
