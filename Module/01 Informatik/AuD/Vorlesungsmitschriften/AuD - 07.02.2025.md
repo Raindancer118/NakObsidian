@@ -11,4 +11,6 @@
 Laufzeitkomplexität: $\Theta(n^2)$ und Speicherplatzkomplexität: $n^{\Theta(n^2)}$.
 Formel: $F(x,y) = F(x-1,y)+F(x,y-1)$.
 
-### 
+### Rucksackproblem
+Es gibt eine Anzahl von Objekten, jedes Objekt ist einmalig und von jedem Objekt ist der Preis bekannt. Die wertvollste Menge soll mitgenommen werden. Dabei gibt es nur ganzzahlige Gewichte.
+Der Rucksack ist allerdings genormt und kann nur eine bestimmte Menge halten.
