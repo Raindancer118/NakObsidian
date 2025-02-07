@@ -15,4 +15,10 @@ Anwendungsliste:
 - Verzeichnisdienst
 - Netzbasierte Dienste
 - Business-Anwendungen
-- 
+- ...
+
+Kreislauf:
+- Anforderungsanalyse
+- Abweichungsanalyse
+- Steuerung
+- Überwachung
