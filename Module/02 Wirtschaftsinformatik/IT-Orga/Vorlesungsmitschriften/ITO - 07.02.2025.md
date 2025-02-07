@@ -22,3 +22,7 @@ Kreislauf:
 - Abweichungsanalyse
 - Steuerung
 - Überwachung
+```mermaid
+graph TD
+
+```
