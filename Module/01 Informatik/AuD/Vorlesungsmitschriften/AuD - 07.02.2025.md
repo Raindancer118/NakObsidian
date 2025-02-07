@@ -23,6 +23,6 @@ Welche Gegenstände wurden eingepackt
 | Gegenstand 1   | 1         | *0* | *0*  | *12* | *12* | *12* | *12* |
 | Gegenstand 1-2 | 2         | *0* | *10* | *12* | *22* | *22* | *22* |
 | Gegenstand 1-3 | 3         | *0* | *10* | *12* | *22* | *30* | *32* |
-| Gegenstand 1-4 | 4         | *0* |      |      |      |      |      |
+| Gegenstand 1-4 | 4         | *0* | *10* | *15* | *25* | *30* | *37* |
 
 
