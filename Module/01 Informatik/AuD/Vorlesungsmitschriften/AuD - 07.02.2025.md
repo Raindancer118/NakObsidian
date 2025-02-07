@@ -7,4 +7,6 @@
 | 0   | 5   | 5   | 7   | 15  | 15  |
 >[!QUOTE] "Eigentlich immer da, wo man eine Zahl doppelt sieht, immer die nehmen."
 
- 
+### Schachbrettproblem
+Laufzeitkomplexität: $\Theta(n^2)$ und Speicherplatzkomplexität: $n^{\Theta(n^2)}$.
+Formel: $F(x,y) = F(x-1,y)+F(x,y-1)$.
