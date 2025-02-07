@@ -4,3 +4,6 @@
 - Vor und Nachteile verschiedener Algorithmen
 	Z.b. Vor und Nachteile eines Brute Force Algorithmus.
 - Beschreiben Sie, wie eine HashMap bzw ein Dictionary funktioniert.
+- Was ist Dynamische Programmierung
+- Was sind überlappende Teilprobleme
+- 
