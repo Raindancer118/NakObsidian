@@ -36,4 +36,4 @@ Standortfaktoren sind maßgeblich für die Wahl eines Standortes relevant
 	- International
 - Clusterbildung
 
-Allgemein kann die Vorteilhaftigkeit eines Standortes über eine [[Investitionsrechnung💀]] oder eine [[03 Wirtschaftswissenschaften/ABWL/04 Investition und Analyse/Tools/Nutzwertanalyse]] herausgefunden werden.
+Allgemein kann die Vorteilhaftigkeit eines Standortes über eine [[Investitionsrechnung💀]] oder eine [[Module/03 Wirtschaftswissenschaften/ABWL/04 Investition und Analyse/Tools/Nutzwertanalyse]] herausgefunden werden.

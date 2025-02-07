@@ -10,6 +10,6 @@ Final werden **Geschäftsobjekte** festgelegt.
 Wir haben [[ArchiMate]] kennengelernt. Hier die Folie dazu:
 ![[UntMod_Handout-1.pdf#page=22]]
 
-[[Archimate]] ist hierbei für die Ebenen verantwortlich und [[TOGAF-Framework|TOGAF]] für die verschiedenen Schritte des [[Architektur-Frameworks|Frameworks]]. Es ist allerdings wichtig, [[TOGAF-Framework|TOGAF]] und [[ArchiMate]] als eine Einheit zu sehen.
+[[ArchiMate]] ist hierbei für die Ebenen verantwortlich und [[TOGAF-Framework|TOGAF]] für die verschiedenen Schritte des [[Architektur-Frameworks|Frameworks]]. Es ist allerdings wichtig, [[TOGAF-Framework|TOGAF]] und [[ArchiMate]] als eine Einheit zu sehen.
 
 Alle relevanten Elemente der Notation, die wir für die Prüfung benötigen werden, werden wir in einer Art *Formelsammlung* erhalten. 

@@ -21,4 +21,4 @@ In diesem Bild sind zwei Blaue Linien in dem Diagramm eingezeichnet. Diese zeige
 ### Exponenziell
 ### Faktoriell
 
-![[01 Informatik/AuD/Material/Vorlesungsfolien/AuD02_WINF.pdf#page=8|AuD02_WINF]]
+![[Module/01 Informatik/AuD/Material/Vorlesungsfolien/AuD02_WINF.pdf#page=8|AuD02_WINF]]

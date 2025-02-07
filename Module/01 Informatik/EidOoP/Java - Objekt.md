@@ -10,7 +10,7 @@ aliases:
 >Objekte werden über einen [[Konstruktor]] der jeweiligen [[Klasse]] erstellt.**
 
 >[!WARNING]
->Von **[[01 Informatik/EidOoP/Interface|Interfaces]] und [[Abstrakte Klasse|Abstrakten Klassen]] können *KEINE* Objekte erzeugt werden!**
+>Von **[[Module/01 Informatik/EidOoP/Interface|Interfaces]] und [[Abstrakte Klasse|Abstrakten Klassen]] können *KEINE* Objekte erzeugt werden!**
 
 >[!EXAMPLE]
 >*Apple smallApple = new Apple(green)*
