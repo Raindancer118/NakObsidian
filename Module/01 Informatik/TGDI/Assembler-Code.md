@@ -6,6 +6,7 @@
 ### Sprünge
 >[!HOWTO] **Unbedingte** Sprünge
 >Unbedingte Sprünge sind Sprünge, die durch eine Speicheradresse und nichts weiter definiert werden.
+>`JMP target` - Programmausführung wird an 
 
 >[!HOWTO] **Berechnete** Sprünge
 >Berechnete Sprünge sind Sprünge, die durch eine Berechnung stattfinden. Beispielsweise könnte zur Adresse 2+*R1* gesprungen werden.
