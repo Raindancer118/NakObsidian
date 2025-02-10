@@ -44,3 +44,7 @@ Es können verschiedene Flags im **Statusregister** gesetzt werden. Dies hilft d
 `MOV R1, R2` - Verschieben von Daten von R2 nach R1
 `LOAD R1, [R2, offset]` - Ein Wert wird aus R2 + offset abgelesen und in R1 abgelegt.
 `STORE [R2], R1` - R1 wird an Andresse R2 im Speicher abgelegt.
+**Aufrufe von Unterprogrammen**
+`CALL unterprogramm` - Ein Unterprogramm aufrufen
+`RET` - Unterprogrammaufruf beenden und zurückkehren.
+
