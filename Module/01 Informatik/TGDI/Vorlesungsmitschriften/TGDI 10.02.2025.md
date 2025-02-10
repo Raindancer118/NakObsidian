@@ -6,3 +6,4 @@ Wir haben heute Cisco Packet Tracer eingerichtet und damit ein wenig rumgespielt
 ### UDP
 Verbindungsloses Protokoll: **U**ser **D**atagram **P**rotocol (UDP).
 Das Protokoll wird häufig für Videostreaming, Voice over IP oder für Online-Spiele verwendet. Das Protokoll nimmt zwar Paketverlust in Kauf, ist aber sehr schnell.
+**FIRE AND FORGET**
