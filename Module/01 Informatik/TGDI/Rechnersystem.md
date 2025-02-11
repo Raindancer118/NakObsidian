@@ -28,3 +28,11 @@ Der Datenaustausch unter den Komponenten läuft über sogenannte Busse.
 >[!INFO] 5. WB - **Writeback**
 >Ergebnis in Registern oder Speicher abspeichern
 
+```mermaid
+graph LR
+A[IF] --> B[ID]
+B --> C[OF]
+C --> D[EX]
+D --> E[WB]
+E --> A
+```
