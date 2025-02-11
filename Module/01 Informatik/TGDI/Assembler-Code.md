@@ -16,6 +16,10 @@
 
 >[!HOWTO] **Unterprogramm**-Aufrufe
 >Diese Sprünge rufen über einen Sprung ein Unterprogramm auf und kehren anschließend wieder zur Ausgangsadresse zurück.
+
+Es gibt weiterhin verschiedene Arten von Bedingten Sprüngen:
+- `JZ` - Jump Zero - Springe, wenn Zero-Flag gesetzt.
+- `JNZ` - Jump Not Zero - Springe, wenn Zero-Flag nicht gesetzt.
 ### Flags
 Es können verschiedene Flags im **Statusregister** gesetzt werden. Dies hilft dabei, bestimmte Vorkommnisse zu unterschieden.
 >[!HOWTO] **Negativ**-Flag
