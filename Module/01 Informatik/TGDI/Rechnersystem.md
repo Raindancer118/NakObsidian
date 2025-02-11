@@ -11,7 +11,6 @@ Der Datenaustausch unter den Komponenten läuft über sogenannte Busse.
 >- Datenbus
 >- Steuerbus
 >- Adressbus
-
 ## Ablauf einer Befehlsausführung
 >[!INFO] 1. IF - **Instruction Fetch**
 >Adressierung des Arbeitsspeichers durch den Befehlzähler (*Instruction Pointer*) und Ablage im Instruktionsregister (*Instruction Register*)
