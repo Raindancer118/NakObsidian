@@ -5,3 +5,10 @@
 >- Ein- & Ausgabeeinheit
 >- Speichereinheit
 
+Der Datenaustausch unter den Komponenten läuft über sogenannte Busse.
+>[!INFO] BUS
+>Ein Bus ist eine Art Kabel, das eine Direktverbindung zwischen zwei Teilnehmern herstellt. Es gibt folgende Busse:
+>- Datenbus
+>- Steuerbus
+>- Adressbus
+
