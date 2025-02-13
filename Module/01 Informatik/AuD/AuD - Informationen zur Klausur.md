@@ -51,3 +51,5 @@ Zur Bewertung der Klausur:
 - Man bekommt erstmal die volle Punktzahl für das, was getan wurde, und dann werden für Fehler Punkte abgezogen. 
 - Manchmal werden auch halbe Punkte gegeben und diese werden am Ende der Aufgabe aufgerundet.
 - Im letzten Durchgang der Klausur gab es einen Schnitt von 3,5
+
+**BubbleSort ist Quatsch.**
