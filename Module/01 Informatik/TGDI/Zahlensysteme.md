@@ -77,7 +77,7 @@
 
 ### Hexadezimal
 >[!INFO] Definition
->Es wird aus 4 [[Zahlensysteme#Binär|Binärenbits]] eine Hexadezimal 
+>Es wird beginnend rechts aus 4 [[Zahlensysteme#Binär|Binärenbits]] eine  [[Zahlensysteme#Hexadezimal|Hexadezimalzahl]] gebildet
 
 
 
