@@ -69,7 +69,7 @@
 
 ### Oktal
 >[!INFO] Definition
->Es wird beginnend rechts aus 4 [[Zahlensysteme#Binär|Binärenbits]] eine  [[Zahlensysteme#Hexadezimal|Hexadezimalzahl]] gebildet. Falls es weniger als 4 Bits gibt werden die fehlenden Bits mit 0 aufgefüllt.
+>Es wird beginnend rechts aus 3 [[Zahlensysteme#Binär|Binärenbits]] eine  [[Zahlensysteme#Oktal|Oktalzahl]] gebildet. Falls es weniger als 3 Bits gibt werden die fehlenden Bits mit 0 aufgefüllt.
 
 >[!example]
 >![[Pasted image 20250214144136.png]]
