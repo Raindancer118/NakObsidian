@@ -5,6 +5,7 @@
 >Das 2er Zahlensystem, welches auf 2 Symbolen 1 und 0 aufbaut . 
 >Es wird eine neue Stelle beim erreichen jedes 2 Teilers hinzugefügt.
 >Die werte der Bits verdoppeln sich im vergleich mit dem vorherigen.
+>{0,1}
 
 
 >[!example]
@@ -25,7 +26,8 @@
 >[!INFO] Definition
 >Das 8er Zahlensystem, welches auf 8 Symbolen aufbaut . 
 >Es wird eine neue Stelle beim erreichen jedes 8 Teilers hinzugefügt.
->Es 
+>Es werden die ersten 8 Symbole des Dezimal Systems verwendet
+>{0,1,2,3,4,5,6,7,8}
 
 ## Hexadezimal
  
