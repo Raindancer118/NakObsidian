@@ -3,8 +3,9 @@
 ## Binär
 >[!INFO] Definition
 >Das 2er Zahlensystem, welches auf 2 Symbolen 1 und 0 aufbaut . 
->Es wird eine neue Stelle beim erreichen eines 2 Teilers  hinzugefügt und nicht beim 10.
+>Es wird eine neue Stelle beim erreichen jedes 2 Teilers hinzugefügt.
 >Die werte der Bits verdoppeln sich im vergleich mit dem vorherigen.
+
 
 >[!example]
 >|Dezimal|Binär|
@@ -22,7 +23,9 @@
 
 ## Oktal
 >[!INFO] Definition
->
+>Das 8er Zahlensystem, welches auf 8 Symbolen aufbaut . 
+>Es wird eine neue Stelle beim erreichen jedes 8 Teilers hinzugefügt.
+>Es 
 
 ## Hexadezimal
  
