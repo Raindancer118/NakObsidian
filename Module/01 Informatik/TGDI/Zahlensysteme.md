@@ -3,8 +3,8 @@
 ## Binär
 >[!INFO] Definition
 >Das 2er Zahlensystem, welches auf 2 Symbolen 1 und 0 aufbaut . 
->Im Gegensatz zum Dezimalsystem wird eine neue Stelle bei 2 hinzugefügt und nicht bei 10.
->die werte der Bits verdoppeln sich im vergleich mit dem vorherigen.
+>Es wird eine neue Stelle beim erreichen eines 2 Teilers  hinzugefügt und nicht beim 10.
+>Die werte der Bits verdoppeln sich im vergleich mit dem vorherigen.
 
 >[!example]
 >|Dezimal|Binär|
