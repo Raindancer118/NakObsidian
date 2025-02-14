@@ -26,13 +26,14 @@
 >Das 8er Zahlensystem, welches auf 8 Symbolen aufbaut . 
 >Es wird eine neue Stelle beim erreichen jedes 8 Teilers hinzugefügt.
 >Es werden die ersten 8 Symbole des Dezimal Systems verwendet
->{0,1,2,3,4,5,6,7,8}
+>{0,1,2,3,4,5,6,7}
 
 >[!example]
 > |Dezimal|Oktal|
 >|--|--|
 >|1|1|
 >|5|5|
+>|7|7|
 >|8|10|
 >|64|100|
 >|512|1000|
@@ -41,7 +42,9 @@
 
 ## Dezimal
 >[!INFO] Definition
->
+>Das 8er Zahlensystem, welches auf 10 Symbolen aufbaut . 
+>Es wird eine neue Stelle beim erreichen jedes 10 Teilers hinzugefügt.
+>{0,1,2,3,4,5,6,7,8,9}
 
 ## Hexadezimal
  
