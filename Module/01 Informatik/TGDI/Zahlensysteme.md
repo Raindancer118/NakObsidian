@@ -19,6 +19,9 @@
 >|11|1011|
 >|65|1000001|
 
+
+
+
 ## Hexadezimal
  
 >[!INFO] Definition
