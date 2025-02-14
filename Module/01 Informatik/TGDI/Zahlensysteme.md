@@ -29,6 +29,18 @@
 >Es werden die ersten 8 Symbole des Dezimal Systems verwendet
 >{0,1,2,3,4,5,6,7,8}
 
+>[!example]
+> |Dezimal|Oktal|
+>|--|--|
+>|1|1|
+>|5|5|
+>|8|10|
+>|16|100|
+>|8|1000|
+>|16|10000|
+>|32|100000|
+>|11|1011|
+>|65|1000001|
 ## Hexadezimal
  
 >[!INFO] Definition
