@@ -7,7 +7,6 @@
 >Die werte der Bits verdoppeln sich im vergleich mit dem vorherigen.
 >{0,1}
 
-
 >[!example]
 >|Dezimal|Binär|
 >|--|--|
@@ -20,7 +19,6 @@
 >|32|100000|
 >|11|1011|
 >|65|1000001|
-
 ## Oktal
 >[!INFO] Definition
 >Das 8er Zahlensystem, welches auf 8 Symbolen aufbaut . 
@@ -39,7 +37,6 @@
 >|512|1000|
 >|11|13|
 >|65|101|
-
 ## Dezimal
 >[!INFO] Definition
 >Das Standard Zahlensystem im Großteil der Welt
@@ -64,7 +61,6 @@
 |255|FF|
 |11|B|
 >|65|41|
-
 ## Umrechnen von Binär 
 
 ### Oktal
