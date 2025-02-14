@@ -65,4 +65,9 @@
 |11|B|
 >|65|41|
 
-## Umrechnen von 
+## Umrechnen von Binär 
+
+### Oktal
+![[Pasted image 20250214144115.png]]
+
+### Hexadezimal
