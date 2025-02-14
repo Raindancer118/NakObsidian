@@ -68,9 +68,19 @@
 ## Umrechnen von Binär 
 
 ### Oktal
+>[!INFO] Definition
+
+
+
 >[!example]
 >![[Pasted image 20250214144136.png]]
 
 ### Hexadezimal
+>[!INFO] Definition
+>Es werden 4 [[Zahlensysteme#Binär|Binärebits]]
 
+
+
+
+>[!example]
 ![[Pasted image 20250214144115.png]]
