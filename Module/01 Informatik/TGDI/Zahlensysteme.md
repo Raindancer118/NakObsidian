@@ -2,7 +2,7 @@
 
 ## Binär
 >[!INFO] Definition
->Das 2er Zahlensystem. 
+>Das 2er Zahlensystem, welches auf 2 Symbolen 1 und 0 aufbaut . 
 >Im Gegensatz zum Dezimalsystem wird eine neue Stelle bei 2 hinzugefügt und nicht bei 10.
 >die werte der Bits verdoppeln sich im vergleich mit dem vorherigen.
 
@@ -21,6 +21,8 @@
 
 
 ## Oktal
+>[!INFO] Definition
+>
 
 ## Hexadezimal
  
