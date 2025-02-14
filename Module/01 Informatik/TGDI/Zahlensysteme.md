@@ -68,6 +68,9 @@
 ## Umrechnen von Binär 
 
 ### Oktal
-![[Pasted image 20250214144115.png]]
+>[!example]
+>![[Pasted image 20250214144136.png]]
 
 ### Hexadezimal
+
+![[Pasted image 20250214144115.png]]
