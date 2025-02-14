@@ -21,7 +21,6 @@
 >|11|1011|
 >|65|1000001|
 
-
 ## Oktal
 >[!INFO] Definition
 >Das 8er Zahlensystem, welches auf 8 Symbolen aufbaut . 
@@ -39,6 +38,11 @@
 >|512|1000|
 >|11|13|
 >|65|101|
+
+## Dezimal
+>[!INFO] Definition
+>
+
 ## Hexadezimal
  
 >[!INFO] Definition
@@ -56,5 +60,5 @@
 |17|11|
 |255|FF|
 |11|B|
->|65|4A|
+>|65|41|
 
