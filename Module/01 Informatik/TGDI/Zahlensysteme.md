@@ -19,7 +19,7 @@
 >|11|1011|
 >|65|1000001|
 
-## Hexadezimal</font>
+## Hexadezimal
  
 >[!INFO] Definition
 >Ein Zahlensystem, dass auf 16 Symbolen aufbaut.
@@ -36,5 +36,3 @@
 |17|11|
 |255|FF|
 
-## Umrechnung von Binär in Hexadezimal 
-Es werden 4 Binäre
