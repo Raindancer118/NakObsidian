@@ -42,10 +42,10 @@
 
 ## Dezimal
 >[!INFO] Definition
->Das 8er Zahlensystem, welches auf 10 Symbolen aufbaut . 
+>Das Standard Zahlensystem im Großteil der Welt
+>Das 10er Zahlensystem, welches auf 10 Symbolen aufbaut . 
 >Es wird eine neue Stelle beim erreichen jedes 10 Teilers hinzugefügt.
 >{0,1,2,3,4,5,6,7,8,9}
-
 ## Hexadezimal
  
 >[!INFO] Definition
@@ -65,3 +65,4 @@
 |11|B|
 >|65|41|
 
+## Umrechnen von 
