@@ -16,3 +16,4 @@
 |255|FF|
 
 ## Umrechnung von Binär in Hexadezimal 
+Es werden 4 Binäre
