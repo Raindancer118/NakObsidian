@@ -8,3 +8,4 @@
 Bruteforce-Methoden:
 - [[Selection Sort]]
 - [[Erschöpfende Suche]]
+- BubbleSort 
