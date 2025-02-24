@@ -1,0 +1,10 @@
+# <font color = "orange">Pumping Lemma</font>
+>[!INFO] Definition
+
+
+>[!FORMULA] Pumping Lemma Formel
+>$$L\in K$$
+
+Bedingungen des Pumping Lemmas:
+- $\exists n \in \mathbb{N}:\forall z \in L, |z|>n:\exists u,v,w,x,y \in \sum^*,|vx| \geq 1, |vwx|\leq n:\forall i\in \mathbb{N}_0:nv^iwx^i\in L$
+- 
