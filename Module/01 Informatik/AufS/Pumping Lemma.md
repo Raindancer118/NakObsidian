@@ -13,4 +13,4 @@ In einer Klausuraufgabe wäre in der Aufgabenstellung gegeben, welches Pumping L
 >[!HINT] Bedingungen des Pumping Lemmas
 >$$z=uvwxy$$
 >$$|vx|\geq1$$
->
+
