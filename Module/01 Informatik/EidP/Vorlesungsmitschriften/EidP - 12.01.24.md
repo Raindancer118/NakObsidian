@@ -230,7 +230,7 @@ Erfasster Bildschirmausschnitt: 12.01.2024 14:08 
 
 ; erschafft einen Kommentar 
 
-Ausdrücke in Racket immer in Klammern schreiben 
+**Ausdrücke in Racket immer in Klammern schreiben **
 
 Nach einer öffnenden Klammer fängt eigentlich immer eine Funktion oder Klammer an. 
 
