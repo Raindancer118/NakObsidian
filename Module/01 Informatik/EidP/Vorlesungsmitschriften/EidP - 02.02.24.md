@@ -1,0 +1,74 @@
+# <font color = "orange">EidP - 02.02.24</font>
+![](data:image/png;base64,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)
+
+(f 5 3) 
+
+= ((lambda [n m] ...) 5 3) 
+
+= (cond  
+
+[(< 5 3) 5] 
+
+[...]) 
+
+= (cond 
+
+[#false 5] 
+
+[...]) 
+
+= (cond 
+
+[else...]) 
+
+= (f (- 5 3) 3) 
+
+= ((lambda [n m] ...) (- 5 3) 3) 
+
+= ((lambda [n m] ...) 2 3) 
+
+Racket geht stupide von Parameter zu Parameter und stellt fest "Oh, hier kann ich was rechnen!", rechnet das aus und beginnt die Zeile wieder von vorne. 
+
+Wir müssen die ganze Formel nicht jedes Mal abschreiben, sondern dürfen irrelevante Sachen, die wir normalerweise abschreiben müssten, einfach durch [. . .] ersetzen. 
+
+Racket wertet einen cond Ausdruck innerhalb der Klammer aus und ersetzt diesen gegen #true oder #false. Wenn ein Ausdruck #false ist, wird die Zeile in der Auswertung gelöscht.  
+
+Für jede Zeile gibt es einen halben Punkt. Nicht einfach nur das Ergebnis auswerten und dann hinschreiben, sondern einmal die ganze Funktion auswerten. 
+
+Wir dürfen lambda auch gegen den griechischen Buchstaben λ ersetzen in der Klausur. 
+
+Wir sollen uns den Zettel mit Regeln lieber ausdrucken und schon immer mal daneben legen, da wir in der Klausur den Zetteln auch bekommen. 
+
+make-point wertet sich zu sich selbst aus.  
+
+Racket weiß, dass es nicht weiter etwas auswerten muss, wenn etwas sich zu sich selbst auswertet. 
+
+Racket nutzt make auch, um zu zeigen, dass es einen Punkt erstellt hat. 
+
+Man kann Racket fragen, ob ein bestimmter Punkt ein Punkt ist, indem man zb (point? (make-point 7 8)) 
+
+Folie 11 und 12 sind nicht klausurrelevant. 
+
+In den Regeln steht auch wie viele ests wir schreiben müssen 
+
+BAUM muss nur in den beiden ersten verwendet werden. Der letzte kommt nicht von dem define-struct, sondern von lambda. 
+
+Neue Tests werden eingeführt: 
+
+(check-expect ... ) 
+
+Es gibt aber auch eine Variante, die guckt, ob ein Ergebnis in einem bestimmten Bereich ist: 
+
+(check-within ... ) 
+
+Es gibt auch noch mehr Check-Varianten, die finden wir auf den Folien und auch in den Regeln. 
+
+checks sollen zwischen Beschreibung und den tatsächlichen code. Das funktioniert, weil check-expect sich einmal den ganzen Code ansieht. 
+
+'(1 2 3 4 5) 
+
+Erstellt eine liste 
+
+(first '(1 2 3 4 5) 
+
+Gibt den ersten Charakter einer Liste aus.
