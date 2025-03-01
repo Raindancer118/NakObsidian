@@ -1,4 +1,4 @@
-# Summenformeln auflösen
+# <font color = "orange">Summenformeln auflösen</font>
 
 ## 1. Konstante Summe
 **Form:**  
