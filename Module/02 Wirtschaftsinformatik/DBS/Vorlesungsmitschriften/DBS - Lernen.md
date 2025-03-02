@@ -8,3 +8,4 @@
 | **Bedroht_durch**  | `ProNr`, `RNr`                                     | (`ProNr`, `RNr`)      | `ProNr` → **Projekt**(`ProNr`) <br> `RNr` → **Risiko**(`RNr`)   | **M:N** (Projekt ↔ Risiko)                 |
 | **Fasst_zusammen** | `ProNr`, `RGNr`                                    | (`ProNr`, `RGNr`)     | `ProNr` → **Projekt**(`ProNr`) <br> `RGNr` → **Risikogruppe**(`RGNr`) | **M:N** (Projekt ↔ Risikogruppe)           |
 | **Bearbeitet_durch** | `RNr`, `MNr`, `Prüfdatum`, `Status`              | (`RNr`, `MNr`)        | `RNr` → **Risiko**(`RNr`) <br> `MNr` → **Maßnahme**(`MNr`)      | **M:N** (Risiko ↔ Maßnahme) <br> + Beziehungsattribute |
+
