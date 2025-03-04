@@ -18,4 +18,4 @@ Nein G ist nicht stark zusammenhängend, da nicht alle Buchstaben direkt miteina
 # Aufgabe 2
 
 ## a)
-Ein Binärer Suchbaum ist ein Baum der Jeweils 2 von dem jeweil maximal 2 knoten 
+Ein Binärer Suchbaum ist ein Baum bei dem von einem Knoten maximal 2 knoten Knoten direkt abgehen. Auf der linken seite des knoten wird die Zahl eingeordnet die kleiner ist als 
