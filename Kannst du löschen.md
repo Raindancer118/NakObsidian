@@ -14,3 +14,8 @@
 2.  Zyklus:(A,B),(B,C),(C,D),(D,E),(E,A) länge: 5
 ## c)
 Nein G ist nicht stark zusammenhängend, da nicht alle Buchstaben direkt miteinander verbunden sind.
+
+# Aufgabe 2
+
+## a)
+Ein Binärer Suchbaum ist ein Baum der Jeweils 2 von dem jeweil maximal 2 knoten 
