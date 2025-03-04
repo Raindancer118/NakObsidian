@@ -119,3 +119,7 @@ Die Laufzeitkomplixität von von f beträgt
 c)
 (b,b),(c,e),(e,b)
 
+$i<m$
+$$
+\huge\sum^{m-1}_{i=0} \sum^{n}_{j=1} \sum^{\sqrt{n}}_{k=1}
+$$
