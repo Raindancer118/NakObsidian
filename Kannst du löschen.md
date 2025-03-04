@@ -11,4 +11,6 @@
 | E   | 1   | 0   | 0   | 0   | 0   |
 ## b)
 1. Zyklus: (A,B),(B,D),(D,E),(E,A) Länge: 4
-2.  Zyklus:(A,B),(B,C),(C,D),(D,E),(E,A) länge: 
+2.  Zyklus:(A,B),(B,C),(C,D),(D,E),(E,A) länge: 5
+## c)
+Nein G ist nicht stark zusammenhängend, da nicht alle Buchstaben direkt miteinander verbunden sind.
