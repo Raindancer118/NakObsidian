@@ -121,5 +121,6 @@ c)
 
 $i<m$
 $$
-\huge\sum^{m-1}_{i=0} \sum^{n}_{j=1} \sum^{\sqrt{n}}_{k=1}
+\huge\sum^{m-1}_{i=0} \sum^{n}_{j=1} \sum^{\sqrt{n}}_{k=1}1 = \sum^{m-1}_{i=0} \sum^{n}_{j=1}\sqrt{n} = \sum^{m-1}_{i=0}n\sqrt{n} = \sqrt{n}mn
 $$
+
