@@ -21,4 +21,4 @@ Nein G ist nicht stark zusammenhängend, da nicht alle Buchstaben direkt miteina
 Ein Binärer Suchbaum ist ein Baum bei dem von einem Knoten maximal 2 knoten Knoten direkt abgehen. Auf der linken seite des knoten wird die Zahl eingeordnet die kleiner ist als die Zahl im knoten und auf der rechten die die Größer ist. 
 
 # Aufgabe 4
-Ein Alv Baum ist ein Binär baum desen knoten links und rechts maximal eine diff
+Ein Alv Baum ist ein Binär baum desen knoten links und rechts maximal eine differenz von 1 haben dürfen. es wird so gezählt das alles was links 
