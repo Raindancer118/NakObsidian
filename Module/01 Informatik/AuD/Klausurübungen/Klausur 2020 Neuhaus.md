@@ -32,10 +32,15 @@ d)
 
 2)
 ```
-public static boolean mehrAlsDieHälfteDoppelt (Int[n][n] A) {
-	int arrCounter = 0;
-	for (int i = 0; i < n; i++) {
-		
+public static boolean mehrAlsDieHälfteDoppelt (int[n][n] A) {
+	int aC = 0; //aC for ArrayCounter
+	int dC = 0; //dC for Doppel-Counter
+	for (int i = 1; i < n; i++) {
+		if((A[aC][i] == 1) && (A[i][aC] == 1)) {
+			dC++;
+		}
+		aC++;
 	}
+	return (dC > n/2)
 }
 ```
