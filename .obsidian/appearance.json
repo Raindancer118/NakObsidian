@@ -12,5 +12,6 @@
     "Properties-Callout",
     "Code-Callout"
   ],
-  "theme": "system"
+  "theme": "system",
+  "baseFontSize": 30
 }
