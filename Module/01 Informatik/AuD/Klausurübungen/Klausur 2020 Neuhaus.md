@@ -53,3 +53,69 @@ falsch; keine Punkte
 3)
 a) 
 Die Laufzeitkomplixität von von f beträgt 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Länge | Beispiel                                   |
+| ----- | ------------------------------------------ |
+| 1     | (B,B)                                      |
+| 3     | (E,F),(F,C),(C,E)                          |
+| 4     | (b,a),(a,d),(d,e),(e,b)                    |
+| 6     | (b,a),(a,d),(d,e),(e,f),(f,c), (c,b)       |
+| 7     | (b,a),(a,d),(d,e),(e,f),(f,c), (c,e),(e,b) |
+
+c)
+(b,b),(c,e),(e,b)
+
