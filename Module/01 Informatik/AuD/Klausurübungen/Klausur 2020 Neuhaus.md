@@ -32,15 +32,24 @@ d)
 
 2)
 ```
-public static boolean mehrAlsDieHälfteDoppelt (int[n][n] A) {
+public static boolean mehrAlsDieHälfteDoppelt (int[][] A) {
+	int n = A.length;
 	int aC = 0; //aC for ArrayCounter
 	int dC = 0; //dC for Doppel-Counter
-	for (int i = 1; i < n; i++) {
-		if((A[aC][i] == 1) && (A[i][aC] == 1)) {
-			dC++;
+	for (int i = 0; i < n; i++) {
+		if(aC != i) {
+			if((A[aC][i] == 1) && (A[i][aC] == 1)) {
+				dC++;
+			}
 		}
 		aC++;
 	}
-	return (dC > n/2)
+	return (dC > n/2);
 }
 ```
+
+falsch; keine Punkte
+
+3)
+a) 
+Die Laufzeitkomplixität von von f beträgt 
