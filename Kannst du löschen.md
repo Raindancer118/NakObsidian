@@ -10,5 +10,5 @@
 | D   | 0   | 0   | 0   | 0   | 1   |
 | E   | 1   | 0   | 0   | 0   | 0   |
 ## b)
-1. Zyklus: (A,B),(B,D),()
-2. 
+1. Zyklus: (A,B),(B,D),(D,E),(E,A) Länge: 4
+2.  Zyklus:(A,B),(B,C),(C,D),(D,E),(E,A) länge: 
