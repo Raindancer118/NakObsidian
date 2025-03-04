@@ -30,3 +30,12 @@ d)
 | 7           | /                                                     |
 | 8           | (a,c),(c,d),(d,f),(f,e),(e,b),(b,a),(a,c),(c,b),(b,a) |
 
+2)
+```
+public static boolean mehrAlsDieHälfteDoppelt (Int[n][n] A) {
+	int arrCounter = 0;
+	for (int i = 0; i < n; i++) {
+		
+	}
+}
+```
