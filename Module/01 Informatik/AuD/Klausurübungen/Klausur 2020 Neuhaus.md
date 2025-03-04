@@ -129,3 +129,7 @@ Algorithmus, der immer gleich läuft, unabhängig von der Eingabe, dann $\Theta$
 $42n=2nlog_2n +4n$ |$-4n$
 $38n = 2nlog_2n$ |:2n
 $19 = log_2n$ | 
+$19^{19} = n$
+
+
+$n = 2^{19}$
