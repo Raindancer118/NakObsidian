@@ -32,19 +32,20 @@ d)
 
 2)
 ```
-public static boolean mehrAlsDieHälfteDoppelt (int[][] A) {
+public boolean beideKanten(int[][] A) {
+	int doubleCounter = 0;
 	int n = A.length;
-	int aC = 0; //aC for ArrayCounter
-	int dC = 0; //dC for Doppel-Counter
-	for (int i = 0; i < n; i++) {
-		if(aC != i) {
-			if((A[aC][i] == 1) && (A[i][aC] == 1)) {
-				dC++;
+	for (int x = 0; x < n;x++) {
+		for (int y = 0; y < n; y++) {
+			if (x == y) break;
+			if (A[x][y] == 1) {
+				if (A[y][x]) doubleCounter++;
+			
 			}
 		}
-		aC++;
 	}
-	return (dC > n/2);
+	if(doubleCounter > n) return true;
+	return false;
 }
 ```
 
