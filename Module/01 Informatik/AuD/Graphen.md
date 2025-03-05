@@ -56,10 +56,10 @@ Ein Graph besteht aus:
 
 #### Stark Zusammenhängend
 >[!INFO] Definition
->Alle Knoten sind miteinander verbunden 
+>Alle Knoten sind ereichbar 
 #### Schwach Zusammenhängend
 >[!INFO] Definition
->
+>Alle Knoten sind verbunden aber nicht unbedingt ereichbar.
 
 ### Einfacher Pfad 
 >[!INFO] Definition
