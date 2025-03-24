@@ -22,7 +22,12 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": true,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "Anderes Material/Spickzettel Markdown.md",
+      "timestamp": 1742812163143
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
