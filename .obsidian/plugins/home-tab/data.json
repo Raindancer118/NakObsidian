@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "Module/01 Informatik/AufS/Lernphase/Alphabet.md",
-      "timestamp": 1742833841502
+      "timestamp": 1742834970671
+    },
+    {
+      "filepath": "Module/01 Informatik/AufS/Lernphase/Wort.md",
+      "timestamp": 1742834823333
     },
     {
       "filepath": "Module/01 Informatik/AufS/Alphabete.md",
@@ -54,10 +58,6 @@
     {
       "filepath": "Module/01 Informatik/AufS/Vorlesungsmitschriften/AufS - 03.02.2025.md",
       "timestamp": 1742832717134
-    },
-    {
-      "filepath": "Module/01 Informatik/AufS/Vorlesungsmitschriften/24.02.2025.md",
-      "timestamp": 1742832713554
     }
   ],
   "bookmarkedFileStore": [],

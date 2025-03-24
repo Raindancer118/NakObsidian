@@ -15,4 +15,5 @@ Eine **intensionale** Darstellung liegt vor, wenn eine Teilmengenbeziehung mit e
 
 >[!DANGER] Achtung
 >Das **leere Wort $\varepsilon$** ist immer in einem Alphabet enthalten!
-
+## Kleene
+Die Kleenesche Hülle eines Alphabetes lässt sich 
