@@ -15,5 +15,5 @@ Eine **intensionale** Darstellung liegt vor, wenn eine Teilmengenbeziehung mit e
 
 >[!DANGER] Achtung
 >Das **leere Wort $\varepsilon$** ist immer in einem Alphabet enthalten!
-## Kleene
-Die Kleenesche Hülle eines Alphabetes lässt sich 
+## Kleenesche Hülle
+Die Kleenesche Hülle eines Alphabetes ist das Alphabet, plus alle Worte, die sich aus der Konkatenation von beliebigen Zeichen aus diesem Alphabet bilden lassen, inklusive dem leeren Wort.
