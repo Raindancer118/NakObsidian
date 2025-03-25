@@ -8,3 +8,5 @@ Dabei ist:
 - $\delta$ die Übergangsfunktion, bestimmt also, wann Zustand 1 in Zustand 2 übergeht.
 - $q_0$ ist der Startzustand des Automaten
 - $F$ ist die Menge der akzeptierenden Zustände
+### Akzeptierender Zustand
+Ein Akzeptierender Zustand ist ein Zustand, in dem ein Automat auskommen muss, damit ein Wort von diesem Automaten als gültig anerkannt wird.
