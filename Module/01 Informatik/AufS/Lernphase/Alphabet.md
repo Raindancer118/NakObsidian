@@ -11,7 +11,7 @@ Ein Alphabet, bezeichnet mit dem Zeichen $\sum$, beschreibt eine **abgeschlossen
 Ein Alphabet kann **extensional** dargestellt werden, indem einfach alle seine Elemente aufgelistet werden in der üblichen Mengenschreibweise:
 $$\sum=\{0,1,2,3,4,5,6,7,8\}$$
 #### Intensional
-Eine **intensionale** Darstellung liegt vor, wenn eine Teilmengenbeziehung mit einer "filternden" oder auch eingrenzenden Eigenschaft genutzt werden kann, um die Menge exakt zu beschreiben.
+Eine **intensionale** Darstellung liegt vor, wenn eine Teilmengenbeziehung mit einer "filternden" oder auch eingrenzenden Eigenschaft genutzt werden kann, um die Menge exakt zu beschreiben. Dies nennt sich auch "**Aussonderung**"
 
 >[!DANGER] Achtung
 >Das **leere Wort $\varepsilon$** ist immer in einem Alphabet enthalten!
