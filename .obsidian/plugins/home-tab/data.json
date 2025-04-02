@@ -49,6 +49,6 @@
   "replaceNewTabs": true,
   "newTabOnStart": true,
   "closePreviousSessionTabs": true,
-  "omnisearch": false,
+  "omnisearch": true,
   "showOmnisearchExcerpt": true
 }
