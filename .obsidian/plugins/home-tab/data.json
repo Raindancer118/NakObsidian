@@ -1,8 +1,8 @@
 {
-  "logoType": "default",
+  "logoType": "imagePath",
   "logo": {
     "lucideIcon": "",
-    "imagePath": "",
+    "imagePath": "Anderes Material/Images/ChatGPT Image 2. Apr. 2025, 16_22_17.png",
     "imageLink": ""
   },
   "logoScale": 1.2,
